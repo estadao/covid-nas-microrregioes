@@ -1,0 +1,307 @@
+{
+  "id": "page",
+  "title": "Página sem título",
+  "urls": [],
+  "background": "",
+  "theme": "light",
+  "ads": true,
+  "content": [
+    {
+      "type": "include",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "content": "last-update"
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "O <strong>novo coronavírus</strong> não afeta todos os cantos do país da mesma maneira. <strong>Dinâmicas locais</strong> têm efeitos sobre a forma como o vírus se dissemina. São Paulo e Manaus, embora estejam enfrentando uma mesma doença, têm desafios diferentes pela frente."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Essa diferença no comportamento da doença se repete nas várias regiões do Brasil. Fatores como densidade demográfica e conectividade com os principais centros urbanos do país podem fazer com que o desenvolvimento da epidemia mude de local para local."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Para ajudar a entender como a covid-19 tem se espalhado ao redor do Brasil, o <strong>Estadão</strong> desenvolveu a série de gráficos abaixo, que usa dados compilados por voluntários do <a target='_blank' rel='noreferer noopener href='https://brasil.io/dataset/covid19/caso'>Brasil.io</a> – uma equipe que se dedica a coletar estatísticas sobre a doença em tempo real, usando boletins das secretariais estaduais de Saúde como fonte primária."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Os dados que apresentamos foram agrupados por <strong>microrregiões</strong>, que são divisões territoriais do IBGE que agrupam cidades vizinhas com características semelhantes em uma única unidade geográfica. A microrregião de São Paulo, por exemplo, além da capital paulista, inclui cidades como Diadema, Santo André e São Bernardo do Campo, entre outras."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Essa divisão faz sentido porque as cidades de uma mesma microrregião geralmente compartilham características socioeconômicas, geográficas e, muitas vezes, um <strong>mesmo sistema de saúde</strong>. Quando você pesquisar a sua cidade nos gráficos abaixo, vai ver não apenas os casos contidos no limite do seu município, mas também aqueles que ocorreram nos entornos – e que, possivelmente, vão parar em um mesmo hospital."
+    },
+    {
+      "type": "include",
+      "size": "l",
+      "class": "",
+      "style": "",
+      "content": "last-available-confirmed"
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "O gráfico acima parece simples: ele mostra a quantidade total de casos confirmados de covid-19 em cada microrregião, contando a partir do dia em que aconteceu o primeiro diagnóstico local. Antes de devorar os números, porém, é preciso fazer algumas ressalvas."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Assim como nos próximos recortes dessa reportagem, a quantidade de casos confirmados depende da quantidade de testes feitos. O Brasil faz menos testes para detectar a doença do que outros países. Assim, é quase certo que nossos números sejam, na verdade, maiores do que nas estatísticas oficiais."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "O mesmo vale na comparação entre diferentes locais do Brasil. Se uma região faz mais testes que outras, ela pode aparecer com mais casos no gráfico, ainda que a realidade seja outra. É difícil saber o quanto essa disparidade afeta os números, já que há poucos dados disponíveis sobre a política de testes no país todo."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Fora a escassez, há outro problema com os testes: eles demoram vários dias para ter resultados. Como os laboratórios que processam o material estão sobrecarregados, pode levar semanas para que um caso suspeito seja confirmado ou descartado. Assim, é provável que o número de casos que temos registrados hoje reflita, na verdade, o estado da epidemia há alguns dias."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Feitas essas ressalvas, porém, vale olhar para os dados disponíveis mesmo assim. Ainda que distantes do ideal, eles oferecem uma visão detalhada sobre o avanço do novo coronavírus no país. E o que eles contam, afinal?"
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "De início, a linha da região de <strong class='text-highlight' data-region='3515061'>São Paulo</strong> se destaca. A capital paulista é a cidade com mais casos no país e enfrenta uma situação difícil, assim como o <strong class='text-highlight' data-region='3306018'>Rio de Janeiro</strong>. Entretanto, essas são cidades populasas e com grande conectividade internacional. Existem locais com outras características que enfrentam uma situação crítica."
+
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "<strong class='text-highlight' data-region='1303007'>Manaus</strong>, por exemplo, é a região onde o sistema de saúde entrou em colapso primeiro. O formato da linha dessa microrregião no gráfico ajuda a entender o porquê. Ela é curta e inclinada, com um formato parecido com esse: <span class='sparks dot-large'>{1,30,60,90,100}</span>. Isso indica um crescimento rápido no número de casos, o que faz com que muitas pessoas procurem os hospitais ao mesmo tempo."
+
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Outra região com uma curva semelhante é a de <strong class='text-highlight' data-region='2303016'>Fortaleza</strong>, que, não por acaso, também está entre os locais que mais preocupam quadros técnicos do Ministério da Saúde."
+
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "No caso de São Paulo e Rio, há mais casos no total, mas a curva avançou mais devagar. No gráfico, isso resulta um formato parecido com esse, mais longo e menos inclinado: <span class='sparks dot-large'>{1,10,20,30,40,60,80,90,100}</span>."
+
+    },
+    {
+      "type": "include",
+      "size": "l",
+      "class": "",
+      "style": "",
+      "content": "new-confirmed-rolling"
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Antes, estávamos olhando para o <strong>total acumulado de casos</strong>. Ainda que esse seja um indicativo de quão atingida pela doença foi uma região, especialmente no começo de um surto local, trata-se de um dado que fica defasado rápido. A maior parte das pessoas que contraiu o novo coronavírus há duas semanas já se curou, mas segue aparecendo nos totais. Para entender melhor o <strong>estado atual</strong> da disseminação, é importante olhar para o número de novos diagnósticos – e é justamente isso que o gráfico acima mostra."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Cada variação nas linhas indica um intervalo de 5 dias e revela qual foi a quantidade média de novos casos registrados nesse meio tempo. Assim, podemos ver quais são as cidades em que o tamanho da doença tende a crescer (quando a linha aponta para cima sem titubear <span class='sparks dot-large'>{1,10,20,30,40,60,80,90,100}</span>), como é o caso da região de <strong class='text-highlight' data-region='3515061'>São Paulo</strong>. Também é possível enxergar locais onde a tendência é oposta (e a linha começa a ficar reta ou apontar pra baixo <span class='sparks dot-large'>{1,10,20,30,40,60,80,80,80,70,60,40}</span>, como nos arredores de <strong class='text-highlight' data-region='2303016'>Brasília</strong>."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "As precauções que listamos na hora de avaliar o gráfico anterior, entretanto, também permanecem. Detectar novos casos requer fazer testes. Quantos mais testes foram feitos, mais casos serão diagnósticados e vice-versa. Essa correlação precisa ser levada em consideração tanto na hora de comparar o avanço da doença entre as regiões quanto ao longo do tempo."
+    },
+    {
+      "type": "include",
+      "size": "l",
+      "class": "",
+      "style": "",
+      "content": "last-available-deaths"
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Olhar para as mortes acumuladas é uma maneira de driblar, em certa medida, a quantidade de casos da doença que não foram diagnosticados. Como, no Brasil, a maior parte dos testes é aplicada em doentes graves, o número reportado de falecimentos tende a ser mais fidedigno do que o número de casos."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Dessa maneira, o gráfico acima oferece uma leitura um pouco mais complexa: se uma região tem uma quantidade desproporcional de mortos para o total de casos confirmados, há um indício de que lá há mais casos do que os que aparecem na contagem oficial. Existem outros fatores, como a faixa etária da população, que podem interferir nesse número; a discrepância, porém, pode servir como um alarme."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "De resto, a interpretação segue a mesma: quando mais inclinada a linha, pior, já que o aumento de casos graves, capazes de causar morte, acontecey em pouco tempo e sobrecarregou o sistema hospitalar. <strong class='text-highlight' data-region='1303007'>Manaus</strong>, novamente, tem números ruins. Lá, as mortes começaram mais cedo e aumentaram de forma mais rápida que em outras regiões."
+    },
+    {
+      "type": "include",
+      "size": "l",
+      "class": "",
+      "style": "",
+      "content": "new-deaths-rolling"
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Esse último gráfico é semelhante ao da evolução de novos casos: ele mostra a média de novas mortes nos últimos cinco dias em cada microrregião. Como no anterior, a lógica de leitura <strong>(e das ressalvas)</strong> permanece. Torça para que as linhas fiquem assim,a pontado para baixo: <span class='sparks dot-large'>{40,60,80,80,70,60,50}</span>. Essa forma indica um crescimento menor no número de mortes. O oposto é pior: uma linha inclinada para cima (<span class='sparks dot-large'>{40,60,80,90,100}</span>) significa que a situação tem piorado."
+    },
+    {
+      "type": "kicker",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Código-fonte"
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "O código-fonte deste material está disponível no <a href='https://github.com/estadao/' target='_blank' rel='noreferer noopener'>GitHub do Estadão</a>."
+    },
+    {
+      "type": "kicker",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Metodologia"
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Os dados usados para a elaboração dos gráficos são compilados pela equipe de voluntários do <a target='_blank' rel='noreferer noopener href='https://brasil.io/dataset/covid19/caso'>Brasil.io</a>, organização que se dedica à coleta e publicação aberta de dados no Brasil. Esees dados são compilados a partir dos boletins divulgados pelas secretarias estaduais de Saúde conforme estes são divulgados. Assim, podem acontecer divergências entre esses números e aqueles reportados pelas secretarias municipais ou pelo Ministério da Saúde."
+    },
+    {
+      "type": "paragraph",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "A reportagem agregou os números, que são reportados para cada município, de acordo com a divisão do território brasileiro em micorregiões feita pelo IBGE. Os gráficos que mostram a média referem-se a média móvel dos registros em uma janela de cinco dias. Nos primeiros cinco dias, como as observações eram insuficientes para o cálculo, reportou-se uma média de zero casos. "
+    },
+    {
+      "type": "kicker",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Agradecimentos"
+    },
+    {
+      "type": "credits",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "roles": [
+        {
+          "role": "Pela coleta e disponibilização dos dados",
+          "people": "Álvaro Justen e equipe de voluntários do Brasil.IO"
+        }
+      ]
+    },
+    {
+      "type": "kicker",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "content": "Expediente"
+    },
+    {
+      "type": "credits",
+      "size": "s",
+      "class": "",
+      "style": "",
+      "align": "left",
+      "roles": [
+        {
+          "role": "Editor Executivo Multimídia",
+          "people": "Fabio Sales"
+        },
+        {
+          "role": "Editora de Infografia Multimídia",
+          "people": "Regina Elisabeth Silva"
+        },
+        {
+          "role": "Editor Assistente Multimídia",
+          "people": "Carlos Marin"
+        }
+      ]
+    }
+  ]
+}

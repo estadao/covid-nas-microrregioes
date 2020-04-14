@@ -1,0 +1,2144 @@
+[
+    {
+        "regionName": "Porto Velho (RO)",
+        "citiesWithin": "Buritis, Campo Novo de Rondônia, Candeias do Jamari, Cujubim, Itapuã do Oeste, Nova Mamoré, Porto Velho",
+        "citiesWithinUnidecoded": "Buritis, Campo Novo de Rondonia, Candeias do Jamari, Cujubim, Itapua do Oeste, Nova Mamore, Porto Velho",
+        "regionId": "1101001"
+    },
+    {
+        "regionName": "Ji-Paraná (RO)",
+        "citiesWithin": "Governador Jorge Teixeira, Jaru, Ji-Paraná, Mirante da Serra, Nova União, Ouro Preto do Oeste, Presidente Médici, Teixeirópolis, Theobroma, Urupá, Vale do Paraíso",
+        "citiesWithinUnidecoded": "Governador Jorge Teixeira, Jaru, Ji-Parana, Mirante da Serra, Nova Uniao, Ouro Preto do Oeste, Presidente Medici, Teixeiropolis, Theobroma, Urupa, Vale do Paraiso",
+        "regionId": "1102004"
+    },
+    {
+        "regionName": "Cacoal (RO)",
+        "citiesWithin": "Alta Floresta D'Oeste, Alto Alegre dos Parecis, Cacoal, Castanheiras, Espigão D'Oeste, Ministro Andreazza, Novo Horizonte do Oeste, Rolim de Moura, Santa Luzia D'Oeste",
+        "citiesWithinUnidecoded": "Alta Floresta D'Oeste, Alto Alegre dos Parecis, Cacoal, Castanheiras, Espigao D'Oeste, Ministro Andreazza, Novo Horizonte do Oeste, Rolim de Moura, Santa Luzia D'Oeste",
+        "regionId": "1102006"
+    },
+    {
+        "regionName": "Vilhena (RO)",
+        "citiesWithin": "Chupinguaia, Parecis, Pimenta Bueno, Primavera de Rondônia, São Felipe D'Oeste, Vilhena",
+        "citiesWithinUnidecoded": "Chupinguaia, Parecis, Pimenta Bueno, Primavera de Rondonia, Sao Felipe D'Oeste, Vilhena",
+        "regionId": "1102007"
+    },
+    {
+        "regionName": "Rio Branco (AC)",
+        "citiesWithin": "Acrelândia, Bujari, Capixaba, Plácido de Castro, Porto Acre, Rio Branco, Senador Guiomard",
+        "citiesWithinUnidecoded": "Acrelandia, Bujari, Capixaba, Placido de Castro, Porto Acre, Rio Branco, Senador Guiomard",
+        "regionId": "1202004"
+    },
+    {
+        "regionName": "Rio Negro (AM)",
+        "citiesWithin": "Barcelos, Novo Airão, Santa Isabel do Rio Negro, São Gabriel da Cachoeira",
+        "citiesWithinUnidecoded": "Barcelos, Novo Airao, Santa Isabel do Rio Negro, Sao Gabriel da Cachoeira",
+        "regionId": "1301001"
+    },
+    {
+        "regionName": "Alto Solimões (AM)",
+        "citiesWithin": "Amaturá, Atalaia do Norte, Benjamin Constant, Fonte Boa, Jutaí, Santo Antônio do Içá, São Paulo de Olivença, Tabatinga, Tonantins",
+        "citiesWithinUnidecoded": "Amatura, Atalaia do Norte, Benjamin Constant, Fonte Boa, Jutai, Santo Antonio do Ica, Sao Paulo de Olivenca, Tabatinga, Tonantins",
+        "regionId": "1302003"
+    },
+    {
+        "regionName": "Tefé (AM)",
+        "citiesWithin": "Alvarães, Tefé, Uarini",
+        "citiesWithinUnidecoded": "Alvaraes, Tefe, Uarini",
+        "regionId": "1303005"
+    },
+    {
+        "regionName": "Coari (AM)",
+        "citiesWithin": "Anamã, Anori, Beruri, Caapiranga, Coari, Codajás",
+        "citiesWithinUnidecoded": "Anama, Anori, Beruri, Caapiranga, Coari, Codajas",
+        "regionId": "1303006"
+    },
+    {
+        "regionName": "Manaus (AM)",
+        "citiesWithin": "Autazes, Careiro, Careiro da Várzea, Iranduba, Manacapuru, Manaquiri, Manaus",
+        "citiesWithinUnidecoded": "Autazes, Careiro, Careiro da Varzea, Iranduba, Manacapuru, Manaquiri, Manaus",
+        "regionId": "1303007"
+    },
+    {
+        "regionName": "Rio Preto da Eva (AM)",
+        "citiesWithin": "Presidente Figueiredo, Rio Preto da Eva",
+        "citiesWithinUnidecoded": "Presidente Figueiredo, Rio Preto da Eva",
+        "regionId": "1303008"
+    },
+    {
+        "regionName": "Itacoatiara (AM)",
+        "citiesWithin": "Itacoatiara, Itapiranga, Nova Olinda do Norte, Silves, Urucurituba",
+        "citiesWithinUnidecoded": "Itacoatiara, Itapiranga, Nova Olinda do Norte, Silves, Urucurituba",
+        "regionId": "1303009"
+    },
+    {
+        "regionName": "Parintins (AM)",
+        "citiesWithin": "Barreirinha, Boa Vista do Ramos, Maués, Nhamundá, Parintins, São Sebastião do Uatumã, Urucará",
+        "citiesWithinUnidecoded": "Barreirinha, Boa Vista do Ramos, Maues, Nhamunda, Parintins, Sao Sebastiao do Uatuma, Urucara",
+        "regionId": "1303010"
+    },
+    {
+        "regionName": "Boca do Acre (AM)",
+        "citiesWithin": "Boca do Acre, Pauini",
+        "citiesWithinUnidecoded": "Boca do Acre, Pauini",
+        "regionId": "1304011"
+    },
+    {
+        "regionName": "Madeira (AM)",
+        "citiesWithin": "Apuí, Borba, Humaitá, Manicoré, Novo Aripuanã",
+        "citiesWithinUnidecoded": "Apui, Borba, Humaita, Manicore, Novo Aripuana",
+        "regionId": "1304013"
+    },
+    {
+        "regionName": "Boa Vista (RR)",
+        "citiesWithin": "Alto Alegre, Amajari, Boa Vista, Pacaraima",
+        "citiesWithinUnidecoded": "Alto Alegre, Amajari, Boa Vista, Pacaraima",
+        "regionId": "1401001"
+    },
+    {
+        "regionName": "Nordeste de Roraima (RR)",
+        "citiesWithin": "Bonfim, Cantá, Normandia, Uiramutã",
+        "citiesWithinUnidecoded": "Bonfim, Canta, Normandia, Uiramuta",
+        "regionId": "1401002"
+    },
+    {
+        "regionName": "Santarém (PA)",
+        "citiesWithin": "Alenquer, Belterra, Curuá, Mojuí dos Campos, Monte Alegre, Placas, Prainha, Santarém",
+        "citiesWithinUnidecoded": "Alenquer, Belterra, Curua, Mojui dos Campos, Monte Alegre, Placas, Prainha, Santarem",
+        "regionId": "1501002"
+    },
+    {
+        "regionName": "Belém (PA)",
+        "citiesWithin": "Ananindeua, Barcarena, Belém, Benevides, Marituba, Santa Bárbara do Pará",
+        "citiesWithinUnidecoded": "Ananindeua, Barcarena, Belem, Benevides, Marituba, Santa Barbara do Para",
+        "regionId": "1503007"
+    },
+    {
+        "regionName": "Castanhal (PA)",
+        "citiesWithin": "Bujaru, Castanhal, Inhangapi, Santa Izabel do Pará, Santo Antônio do Tauá",
+        "citiesWithinUnidecoded": "Bujaru, Castanhal, Inhangapi, Santa Izabel do Para, Santo Antonio do Taua",
+        "regionId": "1503008"
+    },
+    {
+        "regionName": "Cametá (PA)",
+        "citiesWithin": "Abaetetuba, Baião, Cametá, Igarapé-Miri, Limoeiro do Ajuru, Mocajuba, Oeiras do Pará",
+        "citiesWithinUnidecoded": "Abaetetuba, Baiao, Cameta, Igarape-Miri, Limoeiro do Ajuru, Mocajuba, Oeiras do Para",
+        "regionId": "1504011"
+    },
+    {
+        "regionName": "Itaituba (PA)",
+        "citiesWithin": "Aveiro, Itaituba, Jacareacanga, Novo Progresso, Rurópolis, Trairão",
+        "citiesWithinUnidecoded": "Aveiro, Itaituba, Jacareacanga, Novo Progresso, Ruropolis, Trairao",
+        "regionId": "1505014"
+    },
+    {
+        "regionName": "Altamira (PA)",
+        "citiesWithin": "Altamira, Anapu, Brasil Novo, Medicilândia, Pacajá, Senador José Porfírio, Uruará, Vitória do Xingu",
+        "citiesWithinUnidecoded": "Altamira, Anapu, Brasil Novo, Medicilandia, Pacaja, Senador Jose Porfirio, Uruara, Vitoria do Xingu",
+        "regionId": "1505015"
+    },
+    {
+        "regionName": "Tucuruí (PA)",
+        "citiesWithin": "Breu Branco, Itupiranga, Jacundá, Nova Ipixuna, Novo Repartimento, Tucuruí",
+        "citiesWithinUnidecoded": "Breu Branco, Itupiranga, Jacunda, Nova Ipixuna, Novo Repartimento, Tucurui",
+        "regionId": "1506016"
+    },
+    {
+        "regionName": "Paragominas (PA)",
+        "citiesWithin": "Abel Figueiredo, Bom Jesus do Tocantins, Dom Eliseu, Goianésia do Pará, Paragominas, Rondon do Pará, Ulianópolis",
+        "citiesWithinUnidecoded": "Abel Figueiredo, Bom Jesus do Tocantins, Dom Eliseu, Goianesia do Para, Paragominas, Rondon do Para, Ulianopolis",
+        "regionId": "1506017"
+    },
+    {
+        "regionName": "Parauapebas (PA)",
+        "citiesWithin": "Canaã dos Carajás, Curionópolis, Eldorado do Carajás, Parauapebas, Água Azul do Norte",
+        "citiesWithinUnidecoded": "Canaa dos Carajas, Curionopolis, Eldorado do Carajas, Parauapebas, Agua Azul do Norte",
+        "regionId": "1506019"
+    },
+    {
+        "regionName": "Marabá (PA)",
+        "citiesWithin": "Brejo Grande do Araguaia, Marabá, Palestina do Pará, São Domingos do Araguaia, São João do Araguaia",
+        "citiesWithinUnidecoded": "Brejo Grande do Araguaia, Maraba, Palestina do Para, Sao Domingos do Araguaia, Sao Joao do Araguaia",
+        "regionId": "1506020"
+    },
+    {
+        "regionName": "Redenção (PA)",
+        "citiesWithin": "Pau D'Arco, Piçarra, Redenção, Rio Maria, Sapucaia, São Geraldo do Araguaia, Xinguara",
+        "citiesWithinUnidecoded": "Pau D'Arco, Picarra, Redencao, Rio Maria, Sapucaia, Sao Geraldo do Araguaia, Xinguara",
+        "regionId": "1506021"
+    },
+    {
+        "regionName": "Oiapoque (AP)",
+        "citiesWithin": "Calçoene, Oiapoque",
+        "citiesWithinUnidecoded": "Calcoene, Oiapoque",
+        "regionId": "1601001"
+    },
+    {
+        "regionName": "Macapá (AP)",
+        "citiesWithin": "Cutias, Ferreira Gomes, Itaubal, Macapá, Pedra Branca do Amapari, Porto Grande, Santana, Serra do Navio",
+        "citiesWithinUnidecoded": "Cutias, Ferreira Gomes, Itaubal, Macapa, Pedra Branca do Amapari, Porto Grande, Santana, Serra do Navio",
+        "regionId": "1602003"
+    },
+    {
+        "regionName": "Araguaína (TO)",
+        "citiesWithin": "Aragominas, Araguanã, Araguaína, Arapoema, Babaçulândia, Bandeirantes do Tocantins, Carmolândia, Colinas do Tocantins, Filadélfia, Muricilândia, Nova Olinda, Palmeirante, Pau D'Arco, Piraquê, Santa Fé do Araguaia, Wanderlândia, Xambioá",
+        "citiesWithinUnidecoded": "Aragominas, Araguana, Araguaina, Arapoema, Babaculandia, Bandeirantes do Tocantins, Carmolandia, Colinas do Tocantins, Filadelfia, Muricilandia, Nova Olinda, Palmeirante, Pau D'Arco, Piraque, Santa Fe do Araguaia, Wanderlandia, Xambioa",
+        "regionId": "1701002"
+    },
+    {
+        "regionName": "Gurupi (TO)",
+        "citiesWithin": "Aliança do Tocantins, Alvorada, Brejinho de Nazaré, Cariri do Tocantins, Crixás do Tocantins, Figueirópolis, Gurupi, Jaú do Tocantins, Palmeirópolis, Peixe, Santa Rita do Tocantins, Sucupira, São Salvador do Tocantins, Talismã",
+        "citiesWithinUnidecoded": "Alianca do Tocantins, Alvorada, Brejinho de Nazare, Cariri do Tocantins, Crixas do Tocantins, Figueiropolis, Gurupi, Jau do Tocantins, Palmeiropolis, Peixe, Santa Rita do Tocantins, Sucupira, Sao Salvador do Tocantins, Talisma",
+        "regionId": "1701005"
+    },
+    {
+        "regionName": "Porto Nacional (TO)",
+        "citiesWithin": "Aparecida do Rio Negro, Bom Jesus do Tocantins, Ipueiras, Lajeado, Monte do Carmo, Palmas, Pedro Afonso, Porto Nacional, Santa Maria do Tocantins, Silvanópolis, Tocantínia",
+        "citiesWithinUnidecoded": "Aparecida do Rio Negro, Bom Jesus do Tocantins, Ipueiras, Lajeado, Monte do Carmo, Palmas, Pedro Afonso, Porto Nacional, Santa Maria do Tocantins, Silvanopolis, Tocantinia",
+        "regionId": "1702006"
+    },
+    {
+        "regionName": "Dianópolis (TO)",
+        "citiesWithin": "Almas, Arraias, Aurora do Tocantins, Chapada da Natividade, Combinado, Conceição do Tocantins, Dianópolis, Lavandeira, Natividade, Novo Alegre, Novo Jardim, Paranã, Pindorama do Tocantins, Ponte Alta do Bom Jesus, Porto Alegre do Tocantins, Rio da Conceição, Santa Rosa do Tocantins, São Valério, Taguatinga, Taipas do Tocantins",
+        "citiesWithinUnidecoded": "Almas, Arraias, Aurora do Tocantins, Chapada da Natividade, Combinado, Conceicao do Tocantins, Dianopolis, Lavandeira, Natividade, Novo Alegre, Novo Jardim, Parana, Pindorama do Tocantins, Ponte Alta do Bom Jesus, Porto Alegre do Tocantins, Rio da Conceicao, Santa Rosa do Tocantins, Sao Valerio, Taguatinga, Taipas do Tocantins",
+        "regionId": "1702008"
+    },
+    {
+        "regionName": "Litoral Ocidental Maranhense (MA)",
+        "citiesWithin": "Alcântara, Apicum-Açu, Bacuri, Bacurituba, Bequimão, Cajapió, Cedral, Central do Maranhão, Cururupu, Guimarães, Mirinzal, Porto Rico do Maranhão, Serrano do Maranhão",
+        "citiesWithinUnidecoded": "Alcantara, Apicum-Acu, Bacuri, Bacurituba, Bequimao, Cajapio, Cedral, Central do Maranhao, Cururupu, Guimaraes, Mirinzal, Porto Rico do Maranhao, Serrano do Maranhao",
+        "regionId": "2101001"
+    },
+    {
+        "regionName": "Aglomeração Urbana de São Luís (MA)",
+        "citiesWithin": "Paço do Lumiar, Raposa, São José de Ribamar, São Luís",
+        "citiesWithinUnidecoded": "Paco do Lumiar, Raposa, Sao Jose de Ribamar, Sao Luis",
+        "regionId": "2101002"
+    },
+    {
+        "regionName": "Rosário (MA)",
+        "citiesWithin": "Axixá, Bacabeira, Cachoeira Grande, Icatu, Morros, Presidente Juscelino, Rosário, Santa Rita",
+        "citiesWithinUnidecoded": "Axixa, Bacabeira, Cachoeira Grande, Icatu, Morros, Presidente Juscelino, Rosario, Santa Rita",
+        "regionId": "2101003"
+    },
+    {
+        "regionName": "Pindaré (MA)",
+        "citiesWithin": "Altamira do Maranhão, Alto Alegre do Pindaré, Araguanã, Bom Jardim, Bom Jesus das Selvas, Brejo de Areia, Buriticupu, Governador Newton Bello, Lago da Pedra, Lagoa Grande do Maranhão, Marajá do Sena, Nova Olinda do Maranhão, Paulo Ramos, Pindaré-Mirim, Presidente Médici, Santa Inês, Santa Luzia, Santa Luzia do Paruá, São João do Carú, Tufilândia, Vitorino Freire, Zé Doca",
+        "citiesWithinUnidecoded": "Altamira do Maranhao, Alto Alegre do Pindare, Araguana, Bom Jardim, Bom Jesus das Selvas, Brejo de Areia, Buriticupu, Governador Newton Bello, Lago da Pedra, Lagoa Grande do Maranhao, Maraja do Sena, Nova Olinda do Maranhao, Paulo Ramos, Pindare-Mirim, Presidente Medici, Santa Ines, Santa Luzia, Santa Luzia do Parua, Sao Joao do Caru, Tufilandia, Vitorino Freire, Ze Doca",
+        "regionId": "2102008"
+    },
+    {
+        "regionName": "Imperatriz (MA)",
+        "citiesWithin": "Amarante do Maranhão, Açailândia, Buritirana, Cidelândia, Davinópolis, Governador Edison Lobão, Imperatriz, Itinga do Maranhão, João Lisboa, Lajeado Novo, Montes Altos, Ribamar Fiquene, Senador La Rocque, São Francisco do Brejão, São Pedro da Água Branca, Vila Nova dos Martírios",
+        "citiesWithinUnidecoded": "Amarante do Maranhao, Acailandia, Buritirana, Cidelandia, Davinopolis, Governador Edison Lobao, Imperatriz, Itinga do Maranhao, Joao Lisboa, Lajeado Novo, Montes Altos, Ribamar Fiquene, Senador La Rocque, Sao Francisco do Brejao, Sao Pedro da Agua Branca, Vila Nova dos Martirios",
+        "regionId": "2102009"
+    },
+    {
+        "regionName": "Chapadinha (MA)",
+        "citiesWithin": "Anapurus, Belágua, Brejo, Buriti, Chapadinha, Mata Roma, Milagres do Maranhão, São Benedito do Rio Preto, Urbano Santos",
+        "citiesWithinUnidecoded": "Anapurus, Belagua, Brejo, Buriti, Chapadinha, Mata Roma, Milagres do Maranhao, Sao Benedito do Rio Preto, Urbano Santos",
+        "regionId": "2104014"
+    },
+    {
+        "regionName": "Caxias (MA)",
+        "citiesWithin": "Buriti Bravo, Caxias, Matões, Parnarama, São João do Soter, Timon",
+        "citiesWithinUnidecoded": "Buriti Bravo, Caxias, Matoes, Parnarama, Sao Joao do Soter, Timon",
+        "regionId": "2104017"
+    },
+    {
+        "regionName": "Chapadas do Alto Itapecuru (MA)",
+        "citiesWithin": "Barão de Grajaú, Colinas, Jatobá, Lagoa do Mato, Mirador, Nova Iorque, Paraibano, Passagem Franca, Pastos Bons, Sucupira do Norte, Sucupira do Riachão, São Francisco do Maranhão, São João dos Patos",
+        "citiesWithinUnidecoded": "Barao de Grajau, Colinas, Jatoba, Lagoa do Mato, Mirador, Nova Iorque, Paraibano, Passagem Franca, Pastos Bons, Sucupira do Norte, Sucupira do Riachao, Sao Francisco do Maranhao, Sao Joao dos Patos",
+        "regionId": "2104018"
+    },
+    {
+        "regionName": "Litoral Piauiense (PI)",
+        "citiesWithin": "Bom Princípio do Piauí, Buriti dos Lopes, Cajueiro da Praia, Caraúbas do Piauí, Caxingó, Cocal, Cocal dos Alves, Ilha Grande, Luís Correia, Murici dos Portelas, Parnaíba, Piracuruca, São José do Divino, São João da Fronteira",
+        "citiesWithinUnidecoded": "Bom Principio do Piaui, Buriti dos Lopes, Cajueiro da Praia, Caraubas do Piaui, Caxingo, Cocal, Cocal dos Alves, Ilha Grande, Luis Correia, Murici dos Portelas, Parnaiba, Piracuruca, Sao Jose do Divino, Sao Joao da Fronteira",
+        "regionId": "2201002"
+    },
+    {
+        "regionName": "Teresina (PI)",
+        "citiesWithin": "Altos, Beneditinos, Coivaras, Curralinhos, Demerval Lobão, José de Freitas, Lagoa Alegre, Lagoa do Piauí, Miguel Leão, Monsenhor Gil, Nazária, Pau D'Arco do Piauí, Teresina, União",
+        "citiesWithinUnidecoded": "Altos, Beneditinos, Coivaras, Curralinhos, Demerval Lobao, Jose de Freitas, Lagoa Alegre, Lagoa do Piaui, Miguel Leao, Monsenhor Gil, Nazaria, Pau D'Arco do Piaui, Teresina, Uniao",
+        "regionId": "2202003"
+    },
+    {
+        "regionName": "Campo Maior (PI)",
+        "citiesWithin": "Alto Longá, Assunção do Piauí, Boqueirão do Piauí, Buriti dos Montes, Campo Maior, Capitão de Campos, Castelo do Piauí, Cocal de Telha, Domingos Mourão, Jatobá do Piauí, Juazeiro do Piauí, Lagoa de São Francisco, Milton Brandão, Nossa Senhora de Nazaré, Novo Santo Antônio, Pedro II, Sigefredo Pacheco, São João da Serra, São Miguel do Tapuio",
+        "citiesWithinUnidecoded": "Alto Longa, Assuncao do Piaui, Boqueirao do Piaui, Buriti dos Montes, Campo Maior, Capitao de Campos, Castelo do Piaui, Cocal de Telha, Domingos Mourao, Jatoba do Piaui, Juazeiro do Piaui, Lagoa de Sao Francisco, Milton Brandao, Nossa Senhora de Nazare, Novo Santo Antonio, Pedro II, Sigefredo Pacheco, Sao Joao da Serra, Sao Miguel do Tapuio",
+        "regionId": "2202004"
+    },
+    {
+        "regionName": "Ibiapaba (CE)",
+        "citiesWithin": "Carnaubal, Croatá, Guaraciaba do Norte, Ibiapina, São Benedito, Tianguá, Ubajara, Viçosa do Ceará",
+        "citiesWithinUnidecoded": "Carnaubal, Croata, Guaraciaba do Norte, Ibiapina, Sao Benedito, Tiangua, Ubajara, Vicosa do Ceara",
+        "regionId": "2301002"
+    },
+    {
+        "regionName": "Sobral (CE)",
+        "citiesWithin": "Cariré, Forquilha, Graça, Groaíras, Irauçuba, Massapê, Miraíma, Mucambo, Pacujá, Santana do Acaraú, Senador Sá, Sobral",
+        "citiesWithinUnidecoded": "Carire, Forquilha, Graca, Groairas, Iraucuba, Massape, Miraima, Mucambo, Pacuja, Santana do Acarau, Senador Sa, Sobral",
+        "regionId": "2301005"
+    },
+    {
+        "regionName": "Ipu (CE)",
+        "citiesWithin": "Ipu, Ipueiras, Pires Ferreira, Poranga, Reriutaba, Varjota",
+        "citiesWithinUnidecoded": "Ipu, Ipueiras, Pires Ferreira, Poranga, Reriutaba, Varjota",
+        "regionId": "2301006"
+    },
+    {
+        "regionName": "Santa Quitéria (CE)",
+        "citiesWithin": "Catunda, Hidrolândia, Santa Quitéria",
+        "citiesWithinUnidecoded": "Catunda, Hidrolandia, Santa Quiteria",
+        "regionId": "2301007"
+    },
+    {
+        "regionName": "Itapipoca (CE)",
+        "citiesWithin": "Amontada, Itapipoca, Trairi",
+        "citiesWithinUnidecoded": "Amontada, Itapipoca, Trairi",
+        "regionId": "2302008"
+    },
+    {
+        "regionName": "Uruburetama (CE)",
+        "citiesWithin": "Itapajé, Tururu, Umirim, Uruburetama",
+        "citiesWithinUnidecoded": "Itapaje, Tururu, Umirim, Uruburetama",
+        "regionId": "2302010"
+    },
+    {
+        "regionName": "Canindé (CE)",
+        "citiesWithin": "Canindé, Caridade, Itatira, Paramoti",
+        "citiesWithinUnidecoded": "Caninde, Caridade, Itatira, Paramoti",
+        "regionId": "2302012"
+    },
+    {
+        "regionName": "Cascavel (CE)",
+        "citiesWithin": "Beberibe, Cascavel, Pindoretama",
+        "citiesWithinUnidecoded": "Beberibe, Cascavel, Pindoretama",
+        "regionId": "2302015"
+    },
+    {
+        "regionName": "Fortaleza (CE)",
+        "citiesWithin": "Aquiraz, Caucaia, Eusébio, Fortaleza, Guaiúba, Itaitinga, Maracanaú, Maranguape, Pacatuba",
+        "citiesWithinUnidecoded": "Aquiraz, Caucaia, Eusebio, Fortaleza, Guaiuba, Itaitinga, Maracanau, Maranguape, Pacatuba",
+        "regionId": "2303016"
+    },
+    {
+        "regionName": "Pacajus (CE)",
+        "citiesWithin": "Horizonte, Pacajus",
+        "citiesWithinUnidecoded": "Horizonte, Pacajus",
+        "regionId": "2303017"
+    },
+    {
+        "regionName": "Sertão de Cratéus (CE)",
+        "citiesWithin": "Ararendá, Crateús, Independência, Ipaporanga, Monsenhor Tabosa, Nova Russas, Novo Oriente, Quiterianópolis, Tamboril",
+        "citiesWithinUnidecoded": "Ararenda, Crateus, Independencia, Ipaporanga, Monsenhor Tabosa, Nova Russas, Novo Oriente, Quiterianopolis, Tamboril",
+        "regionId": "2304018"
+    },
+    {
+        "regionName": "Sertão de Quixeramobim (CE)",
+        "citiesWithin": "Banabuiú, Boa Viagem, Choró, Ibaretama, Madalena, Quixadá, Quixeramobim",
+        "citiesWithinUnidecoded": "Banabuiu, Boa Viagem, Choro, Ibaretama, Madalena, Quixada, Quixeramobim",
+        "regionId": "2304019"
+    },
+    {
+        "regionName": "Sertão de Inhamuns (CE)",
+        "citiesWithin": "Aiuaba, Arneiroz, Catarina, Parambu, Saboeiro, Tauá",
+        "citiesWithinUnidecoded": "Aiuaba, Arneiroz, Catarina, Parambu, Saboeiro, Taua",
+        "regionId": "2304020"
+    },
+    {
+        "regionName": "Sertão de Senador Pompeu (CE)",
+        "citiesWithin": "Acopiara, Deputado Irapuan Pinheiro, Milhã, Mombaça, Pedra Branca, Piquet Carneiro, Senador Pompeu, Solonópole",
+        "citiesWithinUnidecoded": "Acopiara, Deputado Irapuan Pinheiro, Milha, Mombaca, Pedra Branca, Piquet Carneiro, Senador Pompeu, Solonopole",
+        "regionId": "2304021"
+    },
+    {
+        "regionName": "Litoral de Aracati (CE)",
+        "citiesWithin": "Aracati, Fortim, Icapuí, Itaiçaba",
+        "citiesWithinUnidecoded": "Aracati, Fortim, Icapui, Itaicaba",
+        "regionId": "2305022"
+    },
+    {
+        "regionName": "Baixo Jaguaribe (CE)",
+        "citiesWithin": "Alto Santo, Ibicuitinga, Jaguaruana, Limoeiro do Norte, Morada Nova, Palhano, Quixeré, Russas, São João do Jaguaribe, Tabuleiro do Norte",
+        "citiesWithinUnidecoded": "Alto Santo, Ibicuitinga, Jaguaruana, Limoeiro do Norte, Morada Nova, Palhano, Quixere, Russas, Sao Joao do Jaguaribe, Tabuleiro do Norte",
+        "regionId": "2305023"
+    },
+    {
+        "regionName": "Médio Jaguaribe (CE)",
+        "citiesWithin": "Jaguaretama, Jaguaribara, Jaguaribe",
+        "citiesWithinUnidecoded": "Jaguaretama, Jaguaribara, Jaguaribe",
+        "regionId": "2305024"
+    },
+    {
+        "regionName": "Iguatu (CE)",
+        "citiesWithin": "Cedro, Icó, Iguatu, Orós, Quixelô",
+        "citiesWithinUnidecoded": "Cedro, Ico, Iguatu, Oros, Quixelo",
+        "regionId": "2306026"
+    },
+    {
+        "regionName": "Várzea Alegre (CE)",
+        "citiesWithin": "Antonina do Norte, Cariús, Jucás, Tarrafas, Várzea Alegre",
+        "citiesWithinUnidecoded": "Antonina do Norte, Carius, Jucas, Tarrafas, Varzea Alegre",
+        "regionId": "2306027"
+    },
+    {
+        "regionName": "Lavras da Mangabeira (CE)",
+        "citiesWithin": "Baixio, Ipaumirim, Lavras da Mangabeira, Umari",
+        "citiesWithinUnidecoded": "Baixio, Ipaumirim, Lavras da Mangabeira, Umari",
+        "regionId": "2306028"
+    },
+    {
+        "regionName": "Caririaçu (CE)",
+        "citiesWithin": "Altaneira, Caririaçu, Farias Brito, Granjeiro",
+        "citiesWithinUnidecoded": "Altaneira, Caririacu, Farias Brito, Granjeiro",
+        "regionId": "2307030"
+    },
+    {
+        "regionName": "Barro (CE)",
+        "citiesWithin": "Aurora, Barro, Mauriti",
+        "citiesWithinUnidecoded": "Aurora, Barro, Mauriti",
+        "regionId": "2307031"
+    },
+    {
+        "regionName": "Cariri (CE)",
+        "citiesWithin": "Barbalha, Crato, Jardim, Juazeiro do Norte, Missão Velha, Nova Olinda, Porteiras, Santana do Cariri",
+        "citiesWithinUnidecoded": "Barbalha, Crato, Jardim, Juazeiro do Norte, Missao Velha, Nova Olinda, Porteiras, Santana do Cariri",
+        "regionId": "2307032"
+    },
+    {
+        "regionName": "Brejo Santo (CE)",
+        "citiesWithin": "Abaiara, Brejo Santo, Jati, Milagres, Penaforte",
+        "citiesWithinUnidecoded": "Abaiara, Brejo Santo, Jati, Milagres, Penaforte",
+        "regionId": "2307033"
+    },
+    {
+        "regionName": "Mossoró (RN)",
+        "citiesWithin": "Areia Branca, Baraúna, Grossos, Mossoró, Serra do Mel, Tibau",
+        "citiesWithinUnidecoded": "Areia Branca, Barauna, Grossos, Mossoro, Serra do Mel, Tibau",
+        "regionId": "2401001"
+    },
+    {
+        "regionName": "Chapada do Apodi (RN)",
+        "citiesWithin": "Apodi, Caraúbas, Felipe Guerra, Governador Dix-Sept Rosado",
+        "citiesWithinUnidecoded": "Apodi, Caraubas, Felipe Guerra, Governador Dix-Sept Rosado",
+        "regionId": "2401002"
+    },
+    {
+        "regionName": "Vale do Açu (RN)",
+        "citiesWithin": "Alto do Rodrigues, Açu, Carnaubais, Ipanguaçu, Itajá, Jucurutu, Pendências, Porto do Mangue, São Rafael",
+        "citiesWithinUnidecoded": "Alto do Rodrigues, Acu, Carnaubais, Ipanguacu, Itaja, Jucurutu, Pendencias, Porto do Mangue, Sao Rafael",
+        "regionId": "2401004"
+    },
+    {
+        "regionName": "Serra de São Miguel (RN)",
+        "citiesWithin": "Coronel João Pessoa, Doutor Severiano, Encanto, Luís Gomes, Major Sales, Riacho de Santana, São Miguel, Venha-Ver, Água Nova",
+        "citiesWithinUnidecoded": "Coronel Joao Pessoa, Doutor Severiano, Encanto, Luis Gomes, Major Sales, Riacho de Santana, Sao Miguel, Venha-Ver, Agua Nova",
+        "regionId": "2401005"
+    },
+    {
+        "regionName": "Pau dos Ferros (RN)",
+        "citiesWithin": "Alexandria, Francisco Dantas, Itaú, José da Penha, Marcelino Vieira, Paraná, Pau dos Ferros, Pilões, Portalegre, Rafael Fernandes, Riacho da Cruz, Rodolfo Fernandes, Severiano Melo, São Francisco do Oeste, Taboleiro Grande, Tenente Ananias, Viçosa",
+        "citiesWithinUnidecoded": "Alexandria, Francisco Dantas, Itau, Jose da Penha, Marcelino Vieira, Parana, Pau dos Ferros, Piloes, Portalegre, Rafael Fernandes, Riacho da Cruz, Rodolfo Fernandes, Severiano Melo, Sao Francisco do Oeste, Taboleiro Grande, Tenente Ananias, Vicosa",
+        "regionId": "2401006"
+    },
+    {
+        "regionName": "Seridó Ocidental (RN)",
+        "citiesWithin": "Caicó, Ipueira, Jardim de Piranhas, Serra Negra do Norte, São Fernando, São João do Sabugi, Timbaúba dos Batistas",
+        "citiesWithinUnidecoded": "Caico, Ipueira, Jardim de Piranhas, Serra Negra do Norte, Sao Fernando, Sao Joao do Sabugi, Timbauba dos Batistas",
+        "regionId": "2402011"
+    },
+    {
+        "regionName": "Agreste Potiguar (RN)",
+        "citiesWithin": "Bom Jesus, Brejinho, Ielmo Marinho, Januário Cicco, Jundiá, Lagoa Salgada, Lagoa d'Anta, Lagoa de Pedras, Monte Alegre, Nova Cruz, Passa e Fica, Passagem, Riachuelo, Santa Maria, Santo Antônio, Senador Elói de Souza, Serra Caiada, Serrinha, São Paulo do Potengi, São Pedro, Vera Cruz, Várzea",
+        "citiesWithinUnidecoded": "Bom Jesus, Brejinho, Ielmo Marinho, Januario Cicco, Jundia, Lagoa Salgada, Lagoa d'Anta, Lagoa de Pedras, Monte Alegre, Nova Cruz, Passa e Fica, Passagem, Riachuelo, Santa Maria, Santo Antonio, Senador Eloi de Souza, Serra Caiada, Serrinha, Sao Paulo do Potengi, Sao Pedro, Vera Cruz, Varzea",
+        "regionId": "2403015"
+    },
+    {
+        "regionName": "Litoral Nordeste (RN)",
+        "citiesWithin": "Maxaranguape, Pedra Grande, Pureza, Rio do Fogo, São Miguel do Gostoso, Taipu, Touros",
+        "citiesWithinUnidecoded": "Maxaranguape, Pedra Grande, Pureza, Rio do Fogo, Sao Miguel do Gostoso, Taipu, Touros",
+        "regionId": "2404016"
+    },
+    {
+        "regionName": "Macaíba (RN)",
+        "citiesWithin": "Ceará-Mirim, Macaíba, Nísia Floresta, São Gonçalo do Amarante, São José de Mipibu",
+        "citiesWithinUnidecoded": "Ceara-Mirim, Macaiba, Nisia Floresta, Sao Goncalo do Amarante, Sao Jose de Mipibu",
+        "regionId": "2404017"
+    },
+    {
+        "regionName": "Natal (RN)",
+        "citiesWithin": "Extremoz, Natal, Parnamirim",
+        "citiesWithinUnidecoded": "Extremoz, Natal, Parnamirim",
+        "regionId": "2404018"
+    },
+    {
+        "regionName": "Litoral Sul (RN)",
+        "citiesWithin": "Arês, Baía Formosa, Canguaretama, Espírito Santo, Goianinha, Montanhas, Pedro Velho, Senador Georgino Avelino, Tibau do Sul, Vila Flor",
+        "citiesWithinUnidecoded": "Ares, Baia Formosa, Canguaretama, Espirito Santo, Goianinha, Montanhas, Pedro Velho, Senador Georgino Avelino, Tibau do Sul, Vila Flor",
+        "regionId": "2404019"
+    },
+    {
+        "regionName": "Sousa (PB)",
+        "citiesWithin": "Aparecida, Cajazeirinhas, Condado, Lastro, Malta, Marizópolis, Nazarezinho, Paulista, Pombal, Santa Cruz, Sousa, São Bentinho, São Domingos, São Francisco, São José da Lagoa Tapada, Vieirópolis, Vista Serrana",
+        "citiesWithinUnidecoded": "Aparecida, Cajazeirinhas, Condado, Lastro, Malta, Marizopolis, Nazarezinho, Paulista, Pombal, Santa Cruz, Sousa, Sao Bentinho, Sao Domingos, Sao Francisco, Sao Jose da Lagoa Tapada, Vieiropolis, Vista Serrana",
+        "regionId": "2501003"
+    },
+    {
+        "regionName": "Patos (PB)",
+        "citiesWithin": "Areia de Baraúnas, Cacimba de Areia, Mãe d'Água, Passagem, Patos, Quixaba, Santa Teresinha, São José de Espinharas, São José do Bonfim",
+        "citiesWithinUnidecoded": "Areia de Baraunas, Cacimba de Areia, Mae d'Agua, Passagem, Patos, Quixaba, Santa Teresinha, Sao Jose de Espinharas, Sao Jose do Bonfim",
+        "regionId": "2501004"
+    },
+    {
+        "regionName": "Piancó (PB)",
+        "citiesWithin": "Aguiar, Catingueira, Coremas, Emas, Igaracy, Nova Olinda, Olho d'Água, Piancó, Santana dos Garrotes",
+        "citiesWithinUnidecoded": "Aguiar, Catingueira, Coremas, Emas, Igaracy, Nova Olinda, Olho d'Agua, Pianco, Santana dos Garrotes",
+        "regionId": "2501005"
+    },
+    {
+        "regionName": "Seridó Ocidental Paraibano (PB)",
+        "citiesWithin": "Junco do Seridó, Salgadinho, Santa Luzia, São José do Sabugi, São Mamede, Várzea",
+        "citiesWithinUnidecoded": "Junco do Serido, Salgadinho, Santa Luzia, Sao Jose do Sabugi, Sao Mamede, Varzea",
+        "regionId": "2502008"
+    },
+    {
+        "regionName": "Cariri Ocidental (PB)",
+        "citiesWithin": "Amparo, Assunção, Camalaú, Congo, Coxixola, Livramento, Monteiro, Ouro Velho, Parari, Prata, Serra Branca, Sumé, São José dos Cordeiros, São João do Tigre, São Sebastião do Umbuzeiro, Taperoá, Zabelê",
+        "citiesWithinUnidecoded": "Amparo, Assuncao, Camalau, Congo, Coxixola, Livramento, Monteiro, Ouro Velho, Parari, Prata, Serra Branca, Sume, Sao Jose dos Cordeiros, Sao Joao do Tigre, Sao Sebastiao do Umbuzeiro, Taperoa, Zabele",
+        "regionId": "2502010"
+    },
+    {
+        "regionName": "Campina Grande (PB)",
+        "citiesWithin": "Boa Vista, Campina Grande, Fagundes, Lagoa Seca, Massaranduba, Puxinanã, Queimadas, Serra Redonda",
+        "citiesWithinUnidecoded": "Boa Vista, Campina Grande, Fagundes, Lagoa Seca, Massaranduba, Puxinana, Queimadas, Serra Redonda",
+        "regionId": "2503017"
+    },
+    {
+        "regionName": "João Pessoa (PB)",
+        "citiesWithin": "Bayeux, Cabedelo, Conde, João Pessoa, Lucena, Santa Rita",
+        "citiesWithinUnidecoded": "Bayeux, Cabedelo, Conde, Joao Pessoa, Lucena, Santa Rita",
+        "regionId": "2504022"
+    },
+    {
+        "regionName": "Araripina (PE)",
+        "citiesWithin": "Araripina, Bodocó, Exu, Granito, Ipubi, Moreilândia, Ouricuri, Santa Cruz, Santa Filomena, Trindade",
+        "citiesWithinUnidecoded": "Araripina, Bodoco, Exu, Granito, Ipubi, Moreilandia, Ouricuri, Santa Cruz, Santa Filomena, Trindade",
+        "regionId": "2601001"
+    },
+    {
+        "regionName": "Salgueiro (PE)",
+        "citiesWithin": "Cedro, Mirandiba, Parnamirim, Salgueiro, Serrita, São José do Belmonte, Verdejante",
+        "citiesWithinUnidecoded": "Cedro, Mirandiba, Parnamirim, Salgueiro, Serrita, Sao Jose do Belmonte, Verdejante",
+        "regionId": "2601002"
+    },
+    {
+        "regionName": "Pajeú (PE)",
+        "citiesWithin": "Afogados da Ingazeira, Brejinho, Calumbi, Carnaíba, Flores, Iguaracy, Ingazeira, Itapetim, Quixaba, Santa Cruz da Baixa Verde, Santa Terezinha, Serra Talhada, Solidão, São José do Egito, Tabira, Triunfo, Tuparetama",
+        "citiesWithinUnidecoded": "Afogados da Ingazeira, Brejinho, Calumbi, Carnaiba, Flores, Iguaracy, Ingazeira, Itapetim, Quixaba, Santa Cruz da Baixa Verde, Santa Terezinha, Serra Talhada, Solidao, Sao Jose do Egito, Tabira, Triunfo, Tuparetama",
+        "regionId": "2601003"
+    },
+    {
+        "regionName": "Sertão do Moxotó (PE)",
+        "citiesWithin": "Arcoverde, Betânia, Custódia, Ibimirim, Inajá, Manari, Sertânia",
+        "citiesWithinUnidecoded": "Arcoverde, Betania, Custodia, Ibimirim, Inaja, Manari, Sertania",
+        "regionId": "2601004"
+    },
+    {
+        "regionName": "Petrolina (PE)",
+        "citiesWithin": "Afrânio, Cabrobó, Dormentes, Lagoa Grande, Orocó, Petrolina, Santa Maria da Boa Vista, Terra Nova",
+        "citiesWithinUnidecoded": "Afranio, Cabrobo, Dormentes, Lagoa Grande, Oroco, Petrolina, Santa Maria da Boa Vista, Terra Nova",
+        "regionId": "2602005"
+    },
+    {
+        "regionName": "Vale do Ipojuca (PE)",
+        "citiesWithin": "Alagoinha, Belo Jardim, Bezerros, Brejo da Madre de Deus, Cachoeirinha, Capoeiras, Caruaru, Gravatá, Jataúba, Pesqueira, Poção, Riacho das Almas, Sanharó, São Bento do Una, São Caitano, Tacaimbó",
+        "citiesWithinUnidecoded": "Alagoinha, Belo Jardim, Bezerros, Brejo da Madre de Deus, Cachoeirinha, Capoeiras, Caruaru, Gravata, Jatauba, Pesqueira, Pocao, Riacho das Almas, Sanharo, Sao Bento do Una, Sao Caitano, Tacaimbo",
+        "regionId": "2603008"
+    },
+    {
+        "regionName": "Alto Capibaribe (PE)",
+        "citiesWithin": "Casinhas, Frei Miguelinho, Santa Cruz do Capibaribe, Santa Maria do Cambucá, Surubim, Taquaritinga do Norte, Toritama, Vertente do Lério, Vertentes",
+        "citiesWithinUnidecoded": "Casinhas, Frei Miguelinho, Santa Cruz do Capibaribe, Santa Maria do Cambuca, Surubim, Taquaritinga do Norte, Toritama, Vertente do Lerio, Vertentes",
+        "regionId": "2603009"
+    },
+    {
+        "regionName": "Médio Capibaribe (PE)",
+        "citiesWithin": "Bom Jardim, Cumaru, Feira Nova, João Alfredo, Limoeiro, Machados, Orobó, Passira, Salgadinho, São Vicente Férrer",
+        "citiesWithinUnidecoded": "Bom Jardim, Cumaru, Feira Nova, Joao Alfredo, Limoeiro, Machados, Orobo, Passira, Salgadinho, Sao Vicente Ferrer",
+        "regionId": "2603010"
+    },
+    {
+        "regionName": "Garanhuns (PE)",
+        "citiesWithin": "Angelim, Bom Conselho, Brejão, Caetés, Calçado, Canhotinho, Correntes, Garanhuns, Iati, Jucati, Jupi, Jurema, Lagoa do Ouro, Lajedo, Palmeirina, Paranatama, Saloá, São João, Terezinha",
+        "citiesWithinUnidecoded": "Angelim, Bom Conselho, Brejao, Caetes, Calcado, Canhotinho, Correntes, Garanhuns, Iati, Jucati, Jupi, Jurema, Lagoa do Ouro, Lajedo, Palmeirina, Paranatama, Saloa, Sao Joao, Terezinha",
+        "regionId": "2603011"
+    },
+    {
+        "regionName": "Mata Setentrional Pernambucana (PE)",
+        "citiesWithin": "Aliança, Buenos Aires, Camutanga, Carpina, Condado, Ferreiros, Goiana, Itambé, Itaquitinga, Lagoa de Itaenga, Lagoa do Carro, Macaparana, Nazaré da Mata, Paudalho, Timbaúba, Tracunhaém, Vicência",
+        "citiesWithinUnidecoded": "Alianca, Buenos Aires, Camutanga, Carpina, Condado, Ferreiros, Goiana, Itambe, Itaquitinga, Lagoa de Itaenga, Lagoa do Carro, Macaparana, Nazare da Mata, Paudalho, Timbauba, Tracunhaem, Vicencia",
+        "regionId": "2604013"
+    },
+    {
+        "regionName": "Vitória de Santo Antão (PE)",
+        "citiesWithin": "Chã Grande, Chã de Alegria, Glória do Goitá, Pombos, Vitória de Santo Antão",
+        "citiesWithinUnidecoded": "Cha Grande, Cha de Alegria, Gloria do Goita, Pombos, Vitoria de Santo Antao",
+        "regionId": "2604014"
+    },
+    {
+        "regionName": "Mata Meridional Pernambucana (PE)",
+        "citiesWithin": "Amaraji, Barreiros, Belém de Maria, Catende, Cortês, Escada, Gameleira, Jaqueira, Joaquim Nabuco, Maraial, Palmares, Primavera, Quipapá, Ribeirão, Rio Formoso, Sirinhaém, São Benedito do Sul, São José da Coroa Grande, Tamandaré, Xexéu, Água Preta",
+        "citiesWithinUnidecoded": "Amaraji, Barreiros, Belem de Maria, Catende, Cortes, Escada, Gameleira, Jaqueira, Joaquim Nabuco, Maraial, Palmares, Primavera, Quipapa, Ribeirao, Rio Formoso, Sirinhaem, Sao Benedito do Sul, Sao Jose da Coroa Grande, Tamandare, Xexeu, Agua Preta",
+        "regionId": "2604015"
+    },
+    {
+        "regionName": "Itamaracá (PE)",
+        "citiesWithin": "Araçoiaba, Igarassu, Ilha de Itamaracá, Itapissuma",
+        "citiesWithinUnidecoded": "Aracoiaba, Igarassu, Ilha de Itamaraca, Itapissuma",
+        "regionId": "2605016"
+    },
+    {
+        "regionName": "Recife (PE)",
+        "citiesWithin": "Abreu e Lima, Camaragibe, Jaboatão dos Guararapes, Moreno, Olinda, Paulista, Recife, São Lourenço da Mata",
+        "citiesWithinUnidecoded": "Abreu e Lima, Camaragibe, Jaboatao dos Guararapes, Moreno, Olinda, Paulista, Recife, Sao Lourenco da Mata",
+        "regionId": "2605017"
+    },
+    {
+        "regionName": "Suape (PE)",
+        "citiesWithin": "Cabo de Santo Agostinho, Ipojuca",
+        "citiesWithinUnidecoded": "Cabo de Santo Agostinho, Ipojuca",
+        "regionId": "2605018"
+    },
+    {
+        "regionName": "Fernando de Noronha (PE)",
+        "citiesWithin": "Fernando de Noronha",
+        "citiesWithinUnidecoded": "Fernando de Noronha",
+        "regionId": "2605019"
+    },
+    {
+        "regionName": "Palmeira dos Índios (AL)",
+        "citiesWithin": "Belém, Cacimbinhas, Estrela de Alagoas, Igaci, Mar Vermelho, Maribondo, Minador do Negrão, Palmeira dos Índios, Paulo Jacinto, Quebrangulo, Tanque d'Arca",
+        "citiesWithinUnidecoded": "Belem, Cacimbinhas, Estrela de Alagoas, Igaci, Mar Vermelho, Maribondo, Minador do Negrao, Palmeira dos Indios, Paulo Jacinto, Quebrangulo, Tanque d'Arca",
+        "regionId": "2702005"
+    },
+    {
+        "regionName": "Maceió (AL)",
+        "citiesWithin": "Barra de Santo Antônio, Barra de São Miguel, Coqueiro Seco, Maceió, Marechal Deodoro, Paripueira, Pilar, Rio Largo, Santa Luzia do Norte, Satuba",
+        "citiesWithinUnidecoded": "Barra de Santo Antonio, Barra de Sao Miguel, Coqueiro Seco, Maceio, Marechal Deodoro, Paripueira, Pilar, Rio Largo, Santa Luzia do Norte, Satuba",
+        "regionId": "2703011"
+    },
+    {
+        "regionName": "Penedo (AL)",
+        "citiesWithin": "Feliz Deserto, Igreja Nova, Penedo, Piaçabuçu, Porto Real do Colégio",
+        "citiesWithinUnidecoded": "Feliz Deserto, Igreja Nova, Penedo, Piacabucu, Porto Real do Colegio",
+        "regionId": "2703013"
+    },
+    {
+        "regionName": "Sergipana do Sertão do São Francisco (SE)",
+        "citiesWithin": "Canindé de São Francisco, Feira Nova, Gararu, Gracho Cardoso, Itabi, Monte Alegre de Sergipe, Nossa Senhora da Glória, Porto da Folha, Poço Redondo",
+        "citiesWithinUnidecoded": "Caninde de Sao Francisco, Feira Nova, Gararu, Gracho Cardoso, Itabi, Monte Alegre de Sergipe, Nossa Senhora da Gloria, Porto da Folha, Poco Redondo",
+        "regionId": "2801001"
+    },
+    {
+        "regionName": "Agreste de Itabaiana (SE)",
+        "citiesWithin": "Areia Branca, Campo do Brito, Itabaiana, Macambira, Malhador, Moita Bonita, São Domingos",
+        "citiesWithinUnidecoded": "Areia Branca, Campo do Brito, Itabaiana, Macambira, Malhador, Moita Bonita, Sao Domingos",
+        "regionId": "2802004"
+    },
+    {
+        "regionName": "Tobias Barreto (SE)",
+        "citiesWithin": "Poço Verde, Simão Dias, Tobias Barreto",
+        "citiesWithinUnidecoded": "Poco Verde, Simao Dias, Tobias Barreto",
+        "regionId": "2802005"
+    },
+    {
+        "regionName": "Propriá (SE)",
+        "citiesWithin": "Amparo de São Francisco, Brejo Grande, Canhoba, Cedro de São João, Ilha das Flores, Neópolis, Nossa Senhora de Lourdes, Propriá, Santana do São Francisco, Telha",
+        "citiesWithinUnidecoded": "Amparo de Sao Francisco, Brejo Grande, Canhoba, Cedro de Sao Joao, Ilha das Flores, Neopolis, Nossa Senhora de Lourdes, Propria, Santana do Sao Francisco, Telha",
+        "regionId": "2803007"
+    },
+    {
+        "regionName": "Cotinguiba (SE)",
+        "citiesWithin": "Capela, Divina Pastora, Santa Rosa de Lima, Siriri",
+        "citiesWithinUnidecoded": "Capela, Divina Pastora, Santa Rosa de Lima, Siriri",
+        "regionId": "2803008"
+    },
+    {
+        "regionName": "Japaratuba (SE)",
+        "citiesWithin": "Japaratuba, Japoatã, Pacatuba, Pirambu, São Francisco",
+        "citiesWithinUnidecoded": "Japaratuba, Japoata, Pacatuba, Pirambu, Sao Francisco",
+        "regionId": "2803009"
+    },
+    {
+        "regionName": "Aracaju (SE)",
+        "citiesWithin": "Aracaju, Barra dos Coqueiros, Nossa Senhora do Socorro, São Cristóvão",
+        "citiesWithinUnidecoded": "Aracaju, Barra dos Coqueiros, Nossa Senhora do Socorro, Sao Cristovao",
+        "regionId": "2803011"
+    },
+    {
+        "regionName": "Barreiras (BA)",
+        "citiesWithin": "Baianópolis, Barreiras, Catolândia, Formosa do Rio Preto, Luís Eduardo Magalhães, Riachão das Neves, São Desidério",
+        "citiesWithinUnidecoded": "Baianopolis, Barreiras, Catolandia, Formosa do Rio Preto, Luis Eduardo Magalhaes, Riachao das Neves, Sao Desiderio",
+        "regionId": "2901001"
+    },
+    {
+        "regionName": "Santa Maria da Vitória (BA)",
+        "citiesWithin": "Canápolis, Cocos, Coribe, Correntina, Jaborandi, Santa Maria da Vitória, Santana, Serra Dourada, São Félix do Coribe",
+        "citiesWithinUnidecoded": "Canapolis, Cocos, Coribe, Correntina, Jaborandi, Santa Maria da Vitoria, Santana, Serra Dourada, Sao Felix do Coribe",
+        "regionId": "2901003"
+    },
+    {
+        "regionName": "Juazeiro (BA)",
+        "citiesWithin": "Campo Alegre de Lourdes, Casa Nova, Curaçá, Juazeiro, Pilão Arcado, Remanso, Sento Sé, Sobradinho",
+        "citiesWithinUnidecoded": "Campo Alegre de Lourdes, Casa Nova, Curaca, Juazeiro, Pilao Arcado, Remanso, Sento Se, Sobradinho",
+        "regionId": "2902004"
+    },
+    {
+        "regionName": "Barra (BA)",
+        "citiesWithin": "Barra, Buritirama, Ibotirama, Itaguaçu da Bahia, Morpará, Muquém do São Francisco, Xique-Xique",
+        "citiesWithinUnidecoded": "Barra, Buritirama, Ibotirama, Itaguacu da Bahia, Morpara, Muquem do Sao Francisco, Xique-Xique",
+        "regionId": "2902006"
+    },
+    {
+        "regionName": "Senhor do Bonfim (BA)",
+        "citiesWithin": "Andorinha, Antônio Gonçalves, Campo Formoso, Filadélfia, Itiúba, Jaguarari, Pindobaçu, Senhor do Bonfim, Umburanas",
+        "citiesWithinUnidecoded": "Andorinha, Antonio Goncalves, Campo Formoso, Filadelfia, Itiuba, Jaguarari, Pindobacu, Senhor do Bonfim, Umburanas",
+        "regionId": "2903008"
+    },
+    {
+        "regionName": "Irecê (BA)",
+        "citiesWithin": "América Dourada, Barra do Mendes, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Iraquara, Irecê, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, Souto Soares, São Gabriel, Uibaí",
+        "citiesWithinUnidecoded": "America Dourada, Barra do Mendes, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibitita, Iraquara, Irece, Joao Dourado, Jussara, Lapao, Mulungu do Morro, Presidente Dutra, Souto Soares, Sao Gabriel, Uibai",
+        "regionId": "2903009"
+    },
+    {
+        "regionName": "Feira de Santana (BA)",
+        "citiesWithin": "Anguera, Antônio Cardoso, Conceição da Feira, Conceição do Jacuípe, Coração de Maria, Elísio Medrado, Feira de Santana, Ipecaetá, Ipirá, Irará, Itatim, Ouriçangas, Pedrão, Pintadas, Rafael Jambeiro, Santa Bárbara, Santa Terezinha, Santanópolis, Santo Estêvão, Serra Preta, São Gonçalo dos Campos, Tanquinho, Teodoro Sampaio, Água Fria",
+        "citiesWithinUnidecoded": "Anguera, Antonio Cardoso, Conceicao da Feira, Conceicao do Jacuipe, Coracao de Maria, Elisio Medrado, Feira de Santana, Ipecaeta, Ipira, Irara, Itatim, Ouricangas, Pedrao, Pintadas, Rafael Jambeiro, Santa Barbara, Santa Terezinha, Santanopolis, Santo Estevao, Serra Preta, Sao Goncalo dos Campos, Tanquinho, Teodoro Sampaio, Agua Fria",
+        "regionId": "2903012"
+    },
+    {
+        "regionName": "Euclides da Cunha (BA)",
+        "citiesWithin": "Cansanção, Canudos, Euclides da Cunha, Monte Santo, Nordestina, Queimadas, Quijingue, Tucano, Uauá",
+        "citiesWithinUnidecoded": "Cansancao, Canudos, Euclides da Cunha, Monte Santo, Nordestina, Queimadas, Quijingue, Tucano, Uaua",
+        "regionId": "2904014"
+    },
+    {
+        "regionName": "Ribeira do Pombal (BA)",
+        "citiesWithin": "Adustina, Antas, Banzaê, Cipó, Cícero Dantas, Fátima, Heliópolis, Itapicuru, Nova Soure, Novo Triunfo, Olindina, Paripiranga, Ribeira do Amparo, Ribeira do Pombal",
+        "citiesWithinUnidecoded": "Adustina, Antas, Banzae, Cipo, Cicero Dantas, Fatima, Heliopolis, Itapicuru, Nova Soure, Novo Triunfo, Olindina, Paripiranga, Ribeira do Amparo, Ribeira do Pombal",
+        "regionId": "2904015"
+    },
+    {
+        "regionName": "Serrinha (BA)",
+        "citiesWithin": "Araci, Barrocas, Biritinga, Candeal, Capela do Alto Alegre, Conceição do Coité, Gavião, Ichu, Lamarão, Nova Fátima, Pé de Serra, Retirolândia, Riachão do Jacuípe, Santaluz, Serrinha, São Domingos, Teofilândia, Valente",
+        "citiesWithinUnidecoded": "Araci, Barrocas, Biritinga, Candeal, Capela do Alto Alegre, Conceicao do Coite, Gaviao, Ichu, Lamarao, Nova Fatima, Pe de Serra, Retirolandia, Riachao do Jacuipe, Santaluz, Serrinha, Sao Domingos, Teofilandia, Valente",
+        "regionId": "2904016"
+    },
+    {
+        "regionName": "Alagoinhas (BA)",
+        "citiesWithin": "Acajutiba, Alagoinhas, Aporá, Aramari, Araçás, Crisópolis, Inhambupe, Rio Real, Sátiro Dias",
+        "citiesWithinUnidecoded": "Acajutiba, Alagoinhas, Apora, Aramari, Aracas, Crisopolis, Inhambupe, Rio Real, Satiro Dias",
+        "regionId": "2904017"
+    },
+    {
+        "regionName": "Entre Rios (BA)",
+        "citiesWithin": "Cardeal da Silva, Conde, Entre Rios, Esplanada, Jandaíra",
+        "citiesWithinUnidecoded": "Cardeal da Silva, Conde, Entre Rios, Esplanada, Jandaira",
+        "regionId": "2904018"
+    },
+    {
+        "regionName": "Catu (BA)",
+        "citiesWithin": "Amélia Rodrigues, Catu, Itanagra, Mata de São João, Pojuca, São Sebastião do Passé, Terra Nova",
+        "citiesWithinUnidecoded": "Amelia Rodrigues, Catu, Itanagra, Mata de Sao Joao, Pojuca, Sao Sebastiao do Passe, Terra Nova",
+        "regionId": "2905019"
+    },
+    {
+        "regionName": "Santo Antônio de Jesus (BA)",
+        "citiesWithin": "Aratuípe, Cabaceiras do Paraguaçu, Cachoeira, Castro Alves, Conceição do Almeida, Cruz das Almas, Dom Macedo Costa, Governador Mangabeira, Jaguaripe, Maragogipe, Muniz Ferreira, Muritiba, Nazaré, Salinas da Margarida, Santo Amaro, Santo Antônio de Jesus, Sapeaçu, Saubara, São Felipe, São Félix, Varzedo",
+        "citiesWithinUnidecoded": "Aratuipe, Cabaceiras do Paraguacu, Cachoeira, Castro Alves, Conceicao do Almeida, Cruz das Almas, Dom Macedo Costa, Governador Mangabeira, Jaguaripe, Maragogipe, Muniz Ferreira, Muritiba, Nazare, Salinas da Margarida, Santo Amaro, Santo Antonio de Jesus, Sapeacu, Saubara, Sao Felipe, Sao Felix, Varzedo",
+        "regionId": "2905020"
+    },
+    {
+        "regionName": "Salvador (BA)",
+        "citiesWithin": "Camaçari, Candeias, Dias d'Ávila, Itaparica, Lauro de Freitas, Madre de Deus, Salvador, Simões Filho, São Francisco do Conde, Vera Cruz",
+        "citiesWithinUnidecoded": "Camacari, Candeias, Dias d'Avila, Itaparica, Lauro de Freitas, Madre de Deus, Salvador, Simoes Filho, Sao Francisco do Conde, Vera Cruz",
+        "regionId": "2905021"
+    },
+    {
+        "regionName": "Seabra (BA)",
+        "citiesWithin": "Abaíra, Andaraí, Barra da Estiva, Boninal, Bonito, Contendas do Sincorá, Ibicoara, Itaeté, Jussiape, Lençóis, Mucugê, Nova Redenção, Palmeiras, Piatã, Rio de Contas, Seabra, Utinga, Wagner",
+        "citiesWithinUnidecoded": "Abaira, Andarai, Barra da Estiva, Boninal, Bonito, Contendas do Sincora, Ibicoara, Itaete, Jussiape, Lencois, Mucuge, Nova Redencao, Palmeiras, Piata, Rio de Contas, Seabra, Utinga, Wagner",
+        "regionId": "2906023"
+    },
+    {
+        "regionName": "Jequié (BA)",
+        "citiesWithin": "Aiquara, Amargosa, Apuarema, Brejões, Cravolândia, Irajuba, Iramaia, Itagi, Itaquara, Itiruçu, Jaguaquara, Jequié, Jiquiriçá, Jitaúna, Lafaiete Coutinho, Laje, Lajedo do Tabocal, Maracás, Marcionílio Souza, Milagres, Mutuípe, Nova Itarana, Planaltino, Santa Inês, São Miguel das Matas, Ubaíra",
+        "citiesWithinUnidecoded": "Aiquara, Amargosa, Apuarema, Brejoes, Cravolandia, Irajuba, Iramaia, Itagi, Itaquara, Itirucu, Jaguaquara, Jequie, Jiquirica, Jitauna, Lafaiete Coutinho, Laje, Lajedo do Tabocal, Maracas, Marcionilio Souza, Milagres, Mutuipe, Nova Itarana, Planaltino, Santa Ines, Sao Miguel das Matas, Ubaira",
+        "regionId": "2906024"
+    },
+    {
+        "regionName": "Brumado (BA)",
+        "citiesWithin": "Aracatu, Brumado, Caraíbas, Condeúba, Cordeiros, Guajeru, Ituaçu, Maetinga, Malhada de Pedras, Piripá, Presidente Jânio Quadros, Rio do Antônio, Tanhaçu, Tremedal",
+        "citiesWithinUnidecoded": "Aracatu, Brumado, Caraibas, Condeuba, Cordeiros, Guajeru, Ituacu, Maetinga, Malhada de Pedras, Piripa, Presidente Janio Quadros, Rio do Antonio, Tanhacu, Tremedal",
+        "regionId": "2906027"
+    },
+    {
+        "regionName": "Vitória da Conquista (BA)",
+        "citiesWithin": "Anagé, Barra do Choça, Belo Campo, Boa Nova, Bom Jesus da Serra, Caatiba, Caetanos, Cândido Sales, Dário Meira, Ibicuí, Iguaí, Manoel Vitorino, Mirante, Nova Canaã, Planalto, Poções, Vitória da Conquista",
+        "citiesWithinUnidecoded": "Anage, Barra do Choca, Belo Campo, Boa Nova, Bom Jesus da Serra, Caatiba, Caetanos, Candido Sales, Dario Meira, Ibicui, Iguai, Manoel Vitorino, Mirante, Nova Canaa, Planalto, Pocoes, Vitoria da Conquista",
+        "regionId": "2906028"
+    },
+    {
+        "regionName": "Itapetinga (BA)",
+        "citiesWithin": "Encruzilhada, Itambé, Itapetinga, Itarantim, Itororó, Macarani, Maiquinique, Potiraguá, Ribeirão do Largo",
+        "citiesWithinUnidecoded": "Encruzilhada, Itambe, Itapetinga, Itarantim, Itororo, Macarani, Maiquinique, Potiragua, Ribeirao do Largo",
+        "regionId": "2906029"
+    },
+    {
+        "regionName": "Valença (BA)",
+        "citiesWithin": "Cairu, Camamu, Igrapiúna, Ituberá, Maraú, Nilo Peçanha, Piraí do Norte, Presidente Tancredo Neves, Taperoá, Valença",
+        "citiesWithinUnidecoded": "Cairu, Camamu, Igrapiuna, Itubera, Marau, Nilo Pecanha, Pirai do Norte, Presidente Tancredo Neves, Taperoa, Valenca",
+        "regionId": "2907030"
+    },
+    {
+        "regionName": "Ilhéus-Itabuna (BA)",
+        "citiesWithin": "Almadina, Arataca, Aurelino Leal, Barra do Rocha, Barro Preto, Belmonte, Buerarema, Camacan, Canavieiras, Coaraci, Firmino Alves, Floresta Azul, Gandu, Gongogi, Ibicaraí, Ibirapitanga, Ibirataia, Ilhéus, Ipiaú, Itabuna, Itacaré, Itagibá, Itaju do Colônia, Itajuípe, Itamari, Itapebi, Itapitanga, Itapé, Jussari, Mascote, Nova Ibiá, Pau Brasil, Santa Cruz da Vitória, Santa Luzia, São José da Vitória, Teolândia, Ubaitaba, Ubatã, Una, Uruçuca, Wenceslau Guimarães",
+        "citiesWithinUnidecoded": "Almadina, Arataca, Aurelino Leal, Barra do Rocha, Barro Preto, Belmonte, Buerarema, Camacan, Canavieiras, Coaraci, Firmino Alves, Floresta Azul, Gandu, Gongogi, Ibicarai, Ibirapitanga, Ibirataia, Ilheus, Ipiau, Itabuna, Itacare, Itagiba, Itaju do Colonia, Itajuipe, Itamari, Itapebi, Itapitanga, Itape, Jussari, Mascote, Nova Ibia, Pau Brasil, Santa Cruz da Vitoria, Santa Luzia, Sao Jose da Vitoria, Teolandia, Ubaitaba, Ubata, Una, Urucuca, Wenceslau Guimaraes",
+        "regionId": "2907031"
+    },
+    {
+        "regionName": "Porto Seguro (BA)",
+        "citiesWithin": "Alcobaça, Caravelas, Eunápolis, Guaratinga, Ibirapuã, Itabela, Itagimirim, Itamaraju, Itanhém, Jucuruçu, Lajedão, Medeiros Neto, Mucuri, Nova Viçosa, Porto Seguro, Prado, Santa Cruz Cabrália, Teixeira de Freitas, Vereda",
+        "citiesWithinUnidecoded": "Alcobaca, Caravelas, Eunapolis, Guaratinga, Ibirapua, Itabela, Itagimirim, Itamaraju, Itanhem, Jucurucu, Lajedao, Medeiros Neto, Mucuri, Nova Vicosa, Porto Seguro, Prado, Santa Cruz Cabralia, Teixeira de Freitas, Vereda",
+        "regionId": "2907032"
+    },
+    {
+        "regionName": "Unaí (MG)",
+        "citiesWithin": "Arinos, Bonfinópolis de Minas, Buritis, Cabeceira Grande, Dom Bosco, Formoso, Natalândia, Unaí, Uruana de Minas",
+        "citiesWithinUnidecoded": "Arinos, Bonfinopolis de Minas, Buritis, Cabeceira Grande, Dom Bosco, Formoso, Natalandia, Unai, Uruana de Minas",
+        "regionId": "3101001"
+    },
+    {
+        "regionName": "Paracatu (MG)",
+        "citiesWithin": "Brasilândia de Minas, Guarda-Mor, João Pinheiro, Lagamar, Lagoa Grande, Paracatu, Presidente Olegário, São Gonçalo do Abaeté, Varjão de Minas, Vazante",
+        "citiesWithinUnidecoded": "Brasilandia de Minas, Guarda-Mor, Joao Pinheiro, Lagamar, Lagoa Grande, Paracatu, Presidente Olegario, Sao Goncalo do Abaete, Varjao de Minas, Vazante",
+        "regionId": "3101002"
+    },
+    {
+        "regionName": "Janaúba (MG)",
+        "citiesWithin": "Catuti, Espinosa, Gameleiras, Janaúba, Jaíba, Mamonas, Mato Verde, Monte Azul, Nova Porteirinha, Pai Pedro, Porteirinha, Riacho dos Machados, Serranópolis de Minas",
+        "citiesWithinUnidecoded": "Catuti, Espinosa, Gameleiras, Janauba, Jaiba, Mamonas, Mato Verde, Monte Azul, Nova Porteirinha, Pai Pedro, Porteirinha, Riacho dos Machados, Serranopolis de Minas",
+        "regionId": "3102004"
+    },
+    {
+        "regionName": "Pirapora (MG)",
+        "citiesWithin": "Buritizeiro, Ibiaí, Jequitaí, Lagoa dos Patos, Lassance, Pirapora, Riachinho, Santa Fé de Minas, São Romão, Várzea da Palma",
+        "citiesWithinUnidecoded": "Buritizeiro, Ibiai, Jequitai, Lagoa dos Patos, Lassance, Pirapora, Riachinho, Santa Fe de Minas, Sao Romao, Varzea da Palma",
+        "regionId": "3102006"
+    },
+    {
+        "regionName": "Montes Claros (MG)",
+        "citiesWithin": "Brasília de Minas, Campo Azul, Capitão Enéas, Claro dos Poções, Coração de Jesus, Francisco Sá, Glaucilândia, Ibiracatu, Japonvar, Juramento, Lontra, Luislândia, Mirabela, Montes Claros, Patis, Ponto Chique, São João da Lagoa, São João da Ponte, São João do Pacuí, Ubaí, Varzelândia, Verdelândia",
+        "citiesWithinUnidecoded": "Brasilia de Minas, Campo Azul, Capitao Eneas, Claro dos Pocoes, Coracao de Jesus, Francisco Sa, Glaucilandia, Ibiracatu, Japonvar, Juramento, Lontra, Luislandia, Mirabela, Montes Claros, Patis, Ponto Chique, Sao Joao da Lagoa, Sao Joao da Ponte, Sao Joao do Pacui, Ubai, Varzelandia, Verdelandia",
+        "regionId": "3102007"
+    },
+    {
+        "regionName": "Nanuque (MG)",
+        "citiesWithin": "Bertópolis, Carlos Chagas, Crisólita, Fronteira dos Vales, Machacalis, Nanuque, Santa Helena de Minas, Serra dos Aimorés, Umburatiba, Águas Formosas",
+        "citiesWithinUnidecoded": "Bertopolis, Carlos Chagas, Crisolita, Fronteira dos Vales, Machacalis, Nanuque, Santa Helena de Minas, Serra dos Aimores, Umburatiba, Aguas Formosas",
+        "regionId": "3104016"
+    },
+    {
+        "regionName": "Uberlândia (MG)",
+        "citiesWithin": "Araguari, Araporã, Canápolis, Cascalho Rico, Centralina, Indianópolis, Monte Alegre de Minas, Prata, Tupaciguara, Uberlândia",
+        "citiesWithinUnidecoded": "Araguari, Arapora, Canapolis, Cascalho Rico, Centralina, Indianopolis, Monte Alegre de Minas, Prata, Tupaciguara, Uberlandia",
+        "regionId": "3105018"
+    },
+    {
+        "regionName": "Patrocínio (MG)",
+        "citiesWithin": "Abadia dos Dourados, Coromandel, Cruzeiro da Fortaleza, Douradoquara, Estrela do Sul, Grupiara, Iraí de Minas, Monte Carmelo, Patrocínio, Romaria, Serra do Salitre",
+        "citiesWithinUnidecoded": "Abadia dos Dourados, Coromandel, Cruzeiro da Fortaleza, Douradoquara, Estrela do Sul, Grupiara, Irai de Minas, Monte Carmelo, Patrocinio, Romaria, Serra do Salitre",
+        "regionId": "3105019"
+    },
+    {
+        "regionName": "Patos de Minas (MG)",
+        "citiesWithin": "Arapuá, Carmo do Paranaíba, Guimarânia, Lagoa Formosa, Matutina, Patos de Minas, Rio Paranaíba, Santa Rosa da Serra, São Gotardo, Tiros",
+        "citiesWithinUnidecoded": "Arapua, Carmo do Paranaiba, Guimarania, Lagoa Formosa, Matutina, Patos de Minas, Rio Paranaiba, Santa Rosa da Serra, Sao Gotardo, Tiros",
+        "regionId": "3105020"
+    },
+    {
+        "regionName": "Frutal (MG)",
+        "citiesWithin": "Campina Verde, Carneirinho, Comendador Gomes, Fronteira, Frutal, Itapagipe, Iturama, Limeira do Oeste, Pirajuba, Planura, São Francisco de Sales, União de Minas",
+        "citiesWithinUnidecoded": "Campina Verde, Carneirinho, Comendador Gomes, Fronteira, Frutal, Itapagipe, Iturama, Limeira do Oeste, Pirajuba, Planura, Sao Francisco de Sales, Uniao de Minas",
+        "regionId": "3105021"
+    },
+    {
+        "regionName": "Uberaba (MG)",
+        "citiesWithin": "Campo Florido, Conceição das Alagoas, Conquista, Delta, Uberaba, Veríssimo, Água Comprida",
+        "citiesWithinUnidecoded": "Campo Florido, Conceicao das Alagoas, Conquista, Delta, Uberaba, Verissimo, Agua Comprida",
+        "regionId": "3105022"
+    },
+    {
+        "regionName": "Araxá (MG)",
+        "citiesWithin": "Araxá, Campos Altos, Ibiá, Nova Ponte, Pedrinópolis, Perdizes, Pratinha, Sacramento, Santa Juliana, Tapira",
+        "citiesWithinUnidecoded": "Araxa, Campos Altos, Ibia, Nova Ponte, Pedrinopolis, Perdizes, Pratinha, Sacramento, Santa Juliana, Tapira",
+        "regionId": "3105023"
+    },
+    {
+        "regionName": "Bom Despacho (MG)",
+        "citiesWithin": "Araújos, Bom Despacho, Dores do Indaiá, Estrela do Indaiá, Japaraíba, Lagoa da Prata, Leandro Ferreira, Luz, Martinho Campos, Moema, Quartel Geral, Serra da Saudade",
+        "citiesWithinUnidecoded": "Araujos, Bom Despacho, Dores do Indaia, Estrela do Indaia, Japaraiba, Lagoa da Prata, Leandro Ferreira, Luz, Martinho Campos, Moema, Quartel Geral, Serra da Saudade",
+        "regionId": "3106026"
+    },
+    {
+        "regionName": "Sete Lagoas (MG)",
+        "citiesWithin": "Araçaí, Baldim, Cachoeira da Prata, Caetanópolis, Capim Branco, Cordisburgo, Fortuna de Minas, Funilândia, Inhaúma, Jaboticatubas, Jequitibá, Maravilhas, Matozinhos, Papagaios, Paraopeba, Pequi, Prudente de Morais, Santana de Pirapama, Santana do Riacho, Sete Lagoas",
+        "citiesWithinUnidecoded": "Aracai, Baldim, Cachoeira da Prata, Caetanopolis, Capim Branco, Cordisburgo, Fortuna de Minas, Funilandia, Inhauma, Jaboticatubas, Jequitiba, Maravilhas, Matozinhos, Papagaios, Paraopeba, Pequi, Prudente de Morais, Santana de Pirapama, Santana do Riacho, Sete Lagoas",
+        "regionId": "3107027"
+    },
+    {
+        "regionName": "Pará de Minas (MG)",
+        "citiesWithin": "Florestal, Onça de Pitangui, Pará de Minas, Pitangui, São José da Varginha",
+        "citiesWithinUnidecoded": "Florestal, Onca de Pitangui, Para de Minas, Pitangui, Sao Jose da Varginha",
+        "regionId": "3107029"
+    },
+    {
+        "regionName": "Belo Horizonte (MG)",
+        "citiesWithin": "Belo Horizonte, Betim, Brumadinho, Caeté, Confins, Contagem, Esmeraldas, Ibirité, Igarapé, Juatuba, Lagoa Santa, Mateus Leme, Mário Campos, Nova Lima, Pedro Leopoldo, Raposos, Ribeirão das Neves, Rio Acima, Sabará, Santa Luzia, Sarzedo, São Joaquim de Bicas, São José da Lapa, Vespasiano",
+        "citiesWithinUnidecoded": "Belo Horizonte, Betim, Brumadinho, Caete, Confins, Contagem, Esmeraldas, Ibirite, Igarape, Juatuba, Lagoa Santa, Mateus Leme, Mario Campos, Nova Lima, Pedro Leopoldo, Raposos, Ribeirao das Neves, Rio Acima, Sabara, Santa Luzia, Sarzedo, Sao Joaquim de Bicas, Sao Jose da Lapa, Vespasiano",
+        "regionId": "3107030"
+    },
+    {
+        "regionName": "Itabira (MG)",
+        "citiesWithin": "Alvinópolis, Barão de Cocais, Bela Vista de Minas, Bom Jesus do Amparo, Catas Altas, Dionísio, Ferros, Itabira, João Monlevade, Nova Era, Nova União, Rio Piracicaba, Santa Bárbara, Santa Maria de Itabira, São Domingos do Prata, São Gonçalo do Rio Abaixo, São José do Goiabal, Taquaraçu de Minas",
+        "citiesWithinUnidecoded": "Alvinopolis, Barao de Cocais, Bela Vista de Minas, Bom Jesus do Amparo, Catas Altas, Dionisio, Ferros, Itabira, Joao Monlevade, Nova Era, Nova Uniao, Rio Piracicaba, Santa Barbara, Santa Maria de Itabira, Sao Domingos do Prata, Sao Goncalo do Rio Abaixo, Sao Jose do Goiabal, Taquaracu de Minas",
+        "regionId": "3107031"
+    },
+    {
+        "regionName": "Itaguara (MG)",
+        "citiesWithin": "Belo Vale, Bonfim, Crucilândia, Itaguara, Itatiaiuçu, Jeceaba, Moeda, Piedade dos Gerais, Rio Manso",
+        "citiesWithinUnidecoded": "Belo Vale, Bonfim, Crucilandia, Itaguara, Itatiaiucu, Jeceaba, Moeda, Piedade dos Gerais, Rio Manso",
+        "regionId": "3107032"
+    },
+    {
+        "regionName": "Ouro Preto (MG)",
+        "citiesWithin": "Diogo de Vasconcelos, Itabirito, Mariana, Ouro Preto",
+        "citiesWithinUnidecoded": "Diogo de Vasconcelos, Itabirito, Mariana, Ouro Preto",
+        "regionId": "3107033"
+    },
+    {
+        "regionName": "Governador Valadares (MG)",
+        "citiesWithin": "Alpercata, Campanário, Capitão Andrade, Coroaci, Divino das Laranjeiras, Engenheiro Caldas, Fernandes Tourinho, Frei Inocêncio, Galiléia, Governador Valadares, Itambacuri, Itanhomi, Jampruca, Marilac, Mathias Lobato, Nacip Raydan, Nova Módica, Pescador, Sobrália, São Geraldo da Piedade, São Geraldo do Baixio, São José da Safira, São José do Divino, Tumiritinga, Virgolândia",
+        "citiesWithinUnidecoded": "Alpercata, Campanario, Capitao Andrade, Coroaci, Divino das Laranjeiras, Engenheiro Caldas, Fernandes Tourinho, Frei Inocencio, Galileia, Governador Valadares, Itambacuri, Itanhomi, Jampruca, Marilac, Mathias Lobato, Nacip Raydan, Nova Modica, Pescador, Sobralia, Sao Geraldo da Piedade, Sao Geraldo do Baixio, Sao Jose da Safira, Sao Jose do Divino, Tumiritinga, Virgolandia",
+        "regionId": "3108037"
+    },
+    {
+        "regionName": "Ipatinga (MG)",
+        "citiesWithin": "Antônio Dias, Açucena, Belo Oriente, Coronel Fabriciano, Ipatinga, Jaguaraçu, Joanésia, Marliéria, Mesquita, Naque, Periquito, Santana do Paraíso, Timóteo",
+        "citiesWithinUnidecoded": "Antonio Dias, Acucena, Belo Oriente, Coronel Fabriciano, Ipatinga, Jaguaracu, Joanesia, Marlieria, Mesquita, Naque, Periquito, Santana do Paraiso, Timoteo",
+        "regionId": "3108039"
+    },
+    {
+        "regionName": "Caratinga (MG)",
+        "citiesWithin": "Bom Jesus do Galho, Bugre, Caratinga, Córrego Novo, Dom Cavati, Entre Folhas, Iapu, Imbé de Minas, Inhapim, Ipaba, Piedade de Caratinga, Pingo d'Água, Santa Bárbara do Leste, Santa Rita de Minas, São Domingos das Dores, São João do Oriente, São Sebastião do Anta, Tarumirim, Ubaporanga, Vargem Alegre",
+        "citiesWithinUnidecoded": "Bom Jesus do Galho, Bugre, Caratinga, Corrego Novo, Dom Cavati, Entre Folhas, Iapu, Imbe de Minas, Inhapim, Ipaba, Piedade de Caratinga, Pingo d'Agua, Santa Barbara do Leste, Santa Rita de Minas, Sao Domingos das Dores, Sao Joao do Oriente, Sao Sebastiao do Anta, Tarumirim, Ubaporanga, Vargem Alegre",
+        "regionId": "3108040"
+    },
+    {
+        "regionName": "Piuí (MG)",
+        "citiesWithin": "Bambuí, Córrego Danta, Doresópolis, Iguatama, Medeiros, Piumhi, São Roque de Minas, Tapiraí, Vargem Bonita",
+        "citiesWithinUnidecoded": "Bambui, Corrego Danta, Doresopolis, Iguatama, Medeiros, Piumhi, Sao Roque de Minas, Tapirai, Vargem Bonita",
+        "regionId": "3109042"
+    },
+    {
+        "regionName": "Divinópolis (MG)",
+        "citiesWithin": "Carmo do Cajuru, Cláudio, Conceição do Pará, Divinópolis, Igaratinga, Itaúna, Nova Serrana, Perdigão, Santo Antônio do Monte, São Gonçalo do Pará, São Sebastião do Oeste",
+        "citiesWithinUnidecoded": "Carmo do Cajuru, Claudio, Conceicao do Para, Divinopolis, Igaratinga, Itauna, Nova Serrana, Perdigao, Santo Antonio do Monte, Sao Goncalo do Para, Sao Sebastiao do Oeste",
+        "regionId": "3109043"
+    },
+    {
+        "regionName": "Formiga (MG)",
+        "citiesWithin": "Arcos, Camacho, Córrego Fundo, Formiga, Itapecerica, Pains, Pedra do Indaiá, Pimenta",
+        "citiesWithinUnidecoded": "Arcos, Camacho, Corrego Fundo, Formiga, Itapecerica, Pains, Pedra do Indaia, Pimenta",
+        "regionId": "3109044"
+    },
+    {
+        "regionName": "Campo Belo (MG)",
+        "citiesWithin": "Aguanil, Campo Belo, Cana Verde, Candeias, Cristais, Perdões, Santana do Jacaré",
+        "citiesWithinUnidecoded": "Aguanil, Campo Belo, Cana Verde, Candeias, Cristais, Perdoes, Santana do Jacare",
+        "regionId": "3109045"
+    },
+    {
+        "regionName": "Passos (MG)",
+        "citiesWithin": "Alpinópolis, Bom Jesus da Penha, Capetinga, Capitólio, Claraval, Cássia, Delfinópolis, Fortaleza de Minas, Ibiraci, Itaú de Minas, Passos, Pratápolis, São José da Barra, São João Batista do Glória",
+        "citiesWithinUnidecoded": "Alpinopolis, Bom Jesus da Penha, Capetinga, Capitolio, Claraval, Cassia, Delfinopolis, Fortaleza de Minas, Ibiraci, Itau de Minas, Passos, Pratapolis, Sao Jose da Barra, Sao Joao Batista do Gloria",
+        "regionId": "3110047"
+    },
+    {
+        "regionName": "Alfenas (MG)",
+        "citiesWithin": "Alfenas, Alterosa, Areado, Carmo do Rio Claro, Carvalhópolis, Conceição da Aparecida, Divisa Nova, Fama, Machado, Paraguaçu, Poço Fundo, Serrania",
+        "citiesWithinUnidecoded": "Alfenas, Alterosa, Areado, Carmo do Rio Claro, Carvalhopolis, Conceicao da Aparecida, Divisa Nova, Fama, Machado, Paraguacu, Poco Fundo, Serrania",
+        "regionId": "3110049"
+    },
+    {
+        "regionName": "Varginha (MG)",
+        "citiesWithin": "Boa Esperança, Campanha, Campo do Meio, Campos Gerais, Carmo da Cachoeira, Coqueiral, Elói Mendes, Guapé, Ilicínea, Monsenhor Paulo, Santana da Vargem, São Bento Abade, São Thomé das Letras, Três Corações, Três Pontas, Varginha",
+        "citiesWithinUnidecoded": "Boa Esperanca, Campanha, Campo do Meio, Campos Gerais, Carmo da Cachoeira, Coqueiral, Eloi Mendes, Guape, Ilicinea, Monsenhor Paulo, Santana da Vargem, Sao Bento Abade, Sao Thome das Letras, Tres Coracoes, Tres Pontas, Varginha",
+        "regionId": "3110050"
+    },
+    {
+        "regionName": "Poços de Caldas (MG)",
+        "citiesWithin": "Albertina, Andradas, Bandeira do Sul, Botelhos, Caldas, Campestre, Ibitiúra de Minas, Inconfidentes, Jacutinga, Monte Sião, Ouro Fino, Poços de Caldas, Santa Rita de Caldas",
+        "citiesWithinUnidecoded": "Albertina, Andradas, Bandeira do Sul, Botelhos, Caldas, Campestre, Ibitiura de Minas, Inconfidentes, Jacutinga, Monte Siao, Ouro Fino, Pocos de Caldas, Santa Rita de Caldas",
+        "regionId": "3110051"
+    },
+    {
+        "regionName": "Pouso Alegre (MG)",
+        "citiesWithin": "Bom Repouso, Borda da Mata, Bueno Brandão, Camanducaia, Cambuí, Congonhal, Córrego do Bom Jesus, Espírito Santo do Dourado, Estiva, Extrema, Gonçalves, Ipuiúna, Itapeva, Munhoz, Pouso Alegre, Sapucaí-Mirim, Senador Amaral, Senador José Bento, Tocos do Moji, Toledo",
+        "citiesWithinUnidecoded": "Bom Repouso, Borda da Mata, Bueno Brandao, Camanducaia, Cambui, Congonhal, Corrego do Bom Jesus, Espirito Santo do Dourado, Estiva, Extrema, Goncalves, Ipuiuna, Itapeva, Munhoz, Pouso Alegre, Sapucai-Mirim, Senador Amaral, Senador Jose Bento, Tocos do Moji, Toledo",
+        "regionId": "3110052"
+    },
+    {
+        "regionName": "São Lourenço (MG)",
+        "citiesWithin": "Alagoa, Baependi, Cambuquira, Carmo de Minas, Caxambu, Conceição do Rio Verde, Itamonte, Itanhandu, Jesuânia, Lambari, Olímpio Noronha, Passa Quatro, Pouso Alto, Soledade de Minas, São Lourenço, São Sebastião do Rio Verde",
+        "citiesWithinUnidecoded": "Alagoa, Baependi, Cambuquira, Carmo de Minas, Caxambu, Conceicao do Rio Verde, Itamonte, Itanhandu, Jesuania, Lambari, Olimpio Noronha, Passa Quatro, Pouso Alto, Soledade de Minas, Sao Lourenco, Sao Sebastiao do Rio Verde",
+        "regionId": "3110054"
+    },
+    {
+        "regionName": "Itajubá (MG)",
+        "citiesWithin": "Brazópolis, Consolação, Cristina, Delfim Moreira, Dom Viçoso, Itajubá, Maria da Fé, Marmelópolis, Paraisópolis, Piranguinho, Piranguçu, Virgínia, Wenceslau Braz",
+        "citiesWithinUnidecoded": "Brazopolis, Consolacao, Cristina, Delfim Moreira, Dom Vicoso, Itajuba, Maria da Fe, Marmelopolis, Paraisopolis, Piranguinho, Pirangucu, Virginia, Wenceslau Braz",
+        "regionId": "3110056"
+    },
+    {
+        "regionName": "Lavras (MG)",
+        "citiesWithin": "Carrancas, Ijaci, Ingaí, Itumirim, Itutinga, Lavras, Luminárias, Nepomuceno, Ribeirão Vermelho",
+        "citiesWithinUnidecoded": "Carrancas, Ijaci, Ingai, Itumirim, Itutinga, Lavras, Luminarias, Nepomuceno, Ribeirao Vermelho",
+        "regionId": "3111057"
+    },
+    {
+        "regionName": "São João Del Rei (MG)",
+        "citiesWithin": "Conceição da Barra de Minas, Coronel Xavier Chaves, Dores de Campos, Lagoa Dourada, Madre de Deus de Minas, Nazareno, Piedade do Rio Grande, Prados, Resende Costa, Ritápolis, Santa Cruz de Minas, Santana do Garambéu, São João del Rei, São Tiago, Tiradentes",
+        "citiesWithinUnidecoded": "Conceicao da Barra de Minas, Coronel Xavier Chaves, Dores de Campos, Lagoa Dourada, Madre de Deus de Minas, Nazareno, Piedade do Rio Grande, Prados, Resende Costa, Ritapolis, Santa Cruz de Minas, Santana do Garambeu, Sao Joao del Rei, Sao Tiago, Tiradentes",
+        "regionId": "3111058"
+    },
+    {
+        "regionName": "Barbacena (MG)",
+        "citiesWithin": "Alfredo Vasconcelos, Antônio Carlos, Barbacena, Barroso, Capela Nova, Caranaíba, Carandaí, Desterro do Melo, Ibertioga, Ressaquinha, Santa Bárbara do Tugúrio, Senhora dos Remédios",
+        "citiesWithinUnidecoded": "Alfredo Vasconcelos, Antonio Carlos, Barbacena, Barroso, Capela Nova, Caranaiba, Carandai, Desterro do Melo, Ibertioga, Ressaquinha, Santa Barbara do Tugurio, Senhora dos Remedios",
+        "regionId": "3111059"
+    },
+    {
+        "regionName": "Manhuaçu (MG)",
+        "citiesWithin": "Abre Campo, Alto Caparaó, Alto Jequitibá, Caparaó, Caputira, Chalé, Durandé, Lajinha, Luisburgo, Manhuaçu, Manhumirim, Martins Soares, Matipó, Pedra Bonita, Reduto, Santa Margarida, Santana do Manhuaçu, Simonésia, São José do Mantimento, São João do Manhuaçu",
+        "citiesWithinUnidecoded": "Abre Campo, Alto Caparao, Alto Jequitiba, Caparao, Caputira, Chale, Durande, Lajinha, Luisburgo, Manhuacu, Manhumirim, Martins Soares, Matipo, Pedra Bonita, Reduto, Santa Margarida, Santana do Manhuacu, Simonesia, Sao Jose do Mantimento, Sao Joao do Manhuacu",
+        "regionId": "3112061"
+    },
+    {
+        "regionName": "Muriaé (MG)",
+        "citiesWithin": "Antônio Prado de Minas, Barão de Monte Alto, Caiana, Carangola, Divino, Espera Feliz, Eugenópolis, Faria Lemos, Fervedouro, Miradouro, Miraí, Muriaé, Orizânia, Patrocínio do Muriaé, Pedra Dourada, Rosário da Limeira, São Francisco do Glória, São Sebastião da Vargem Alegre, Tombos, Vieiras",
+        "citiesWithinUnidecoded": "Antonio Prado de Minas, Barao de Monte Alto, Caiana, Carangola, Divino, Espera Feliz, Eugenopolis, Faria Lemos, Fervedouro, Miradouro, Mirai, Muriae, Orizania, Patrocinio do Muriae, Pedra Dourada, Rosario da Limeira, Sao Francisco do Gloria, Sao Sebastiao da Vargem Alegre, Tombos, Vieiras",
+        "regionId": "3112063"
+    },
+    {
+        "regionName": "Ubá (MG)",
+        "citiesWithin": "Astolfo Dutra, Divinésia, Dores do Turvo, Guarani, Guidoval, Guiricema, Mercês, Piraúba, Rio Pomba, Rodeiro, Senador Firmino, Silveirânia, São Geraldo, Tabuleiro, Tocantins, Ubá, Visconde do Rio Branco",
+        "citiesWithinUnidecoded": "Astolfo Dutra, Divinesia, Dores do Turvo, Guarani, Guidoval, Guiricema, Merces, Pirauba, Rio Pomba, Rodeiro, Senador Firmino, Silveirania, Sao Geraldo, Tabuleiro, Tocantins, Uba, Visconde do Rio Branco",
+        "regionId": "3112064"
+    },
+    {
+        "regionName": "Juiz de Fora (MG)",
+        "citiesWithin": "Aracitaba, Belmiro Braga, Bias Fortes, Bicas, Chiador, Chácara, Coronel Pacheco, Descoberto, Ewbank da Câmara, Goianá, Guarará, Juiz de Fora, Lima Duarte, Mar de Espanha, Maripá de Minas, Matias Barbosa, Olaria, Oliveira Fortes, Paiva, Pedro Teixeira, Pequeri, Piau, Rio Novo, Rio Preto, Rochedo de Minas, Santa Bárbara do Monte Verde, Santa Rita de Ibitipoca, Santa Rita de Jacutinga, Santana do Deserto, Santos Dumont, Senador Cortes, Simão Pereira, São João Nepomuceno",
+        "citiesWithinUnidecoded": "Aracitaba, Belmiro Braga, Bias Fortes, Bicas, Chiador, Chacara, Coronel Pacheco, Descoberto, Ewbank da Camara, Goiana, Guarara, Juiz de Fora, Lima Duarte, Mar de Espanha, Maripa de Minas, Matias Barbosa, Olaria, Oliveira Fortes, Paiva, Pedro Teixeira, Pequeri, Piau, Rio Novo, Rio Preto, Rochedo de Minas, Santa Barbara do Monte Verde, Santa Rita de Ibitipoca, Santa Rita de Jacutinga, Santana do Deserto, Santos Dumont, Senador Cortes, Simao Pereira, Sao Joao Nepomuceno",
+        "regionId": "3112065"
+    },
+    {
+        "regionName": "Nova Venécia (ES)",
+        "citiesWithin": "Boa Esperança, Nova Venécia, São Gabriel da Palha, Vila Pavão, Vila Valério, Águia Branca",
+        "citiesWithinUnidecoded": "Boa Esperanca, Nova Venecia, Sao Gabriel da Palha, Vila Pavao, Vila Valerio, Aguia Branca",
+        "regionId": "3201002"
+    },
+    {
+        "regionName": "Colatina (ES)",
+        "citiesWithin": "Alto Rio Novo, Baixo Guandu, Colatina, Governador Lindenberg, Marilândia, Pancas, São Domingos do Norte",
+        "citiesWithinUnidecoded": "Alto Rio Novo, Baixo Guandu, Colatina, Governador Lindenberg, Marilandia, Pancas, Sao Domingos do Norte",
+        "regionId": "3201003"
+    },
+    {
+        "regionName": "São Mateus (ES)",
+        "citiesWithin": "Conceição da Barra, Jaguaré, Pedro Canário, São Mateus",
+        "citiesWithinUnidecoded": "Conceicao da Barra, Jaguare, Pedro Canario, Sao Mateus",
+        "regionId": "3202005"
+    },
+    {
+        "regionName": "Linhares (ES)",
+        "citiesWithin": "Aracruz, Fundão, Ibiraçu, João Neiva, Linhares, Rio Bananal, Sooretama",
+        "citiesWithinUnidecoded": "Aracruz, Fundao, Ibiracu, Joao Neiva, Linhares, Rio Bananal, Sooretama",
+        "regionId": "3202006"
+    },
+    {
+        "regionName": "Afonso Cláudio (ES)",
+        "citiesWithin": "Afonso Cláudio, Brejetuba, Conceição do Castelo, Domingos Martins, Laranja da Terra, Marechal Floriano, Venda Nova do Imigrante",
+        "citiesWithinUnidecoded": "Afonso Claudio, Brejetuba, Conceicao do Castelo, Domingos Martins, Laranja da Terra, Marechal Floriano, Venda Nova do Imigrante",
+        "regionId": "3203007"
+    },
+    {
+        "regionName": "Santa Teresa (ES)",
+        "citiesWithin": "Itaguaçu, Itarana, Santa Leopoldina, Santa Maria de Jetibá, Santa Teresa, São Roque do Canaã",
+        "citiesWithinUnidecoded": "Itaguacu, Itarana, Santa Leopoldina, Santa Maria de Jetiba, Santa Teresa, Sao Roque do Canaa",
+        "regionId": "3203008"
+    },
+    {
+        "regionName": "Vitória (ES)",
+        "citiesWithin": "Cariacica, Serra, Viana, Vila Velha, Vitória",
+        "citiesWithinUnidecoded": "Cariacica, Serra, Viana, Vila Velha, Vitoria",
+        "regionId": "3203009"
+    },
+    {
+        "regionName": "Guarapari (ES)",
+        "citiesWithin": "Alfredo Chaves, Anchieta, Guarapari, Iconha, Piúma, Rio Novo do Sul",
+        "citiesWithinUnidecoded": "Alfredo Chaves, Anchieta, Guarapari, Iconha, Piuma, Rio Novo do Sul",
+        "regionId": "3203010"
+    },
+    {
+        "regionName": "Cachoeiro de Itapemirim (ES)",
+        "citiesWithin": "Apiacá, Atílio Vivacqua, Bom Jesus do Norte, Cachoeiro de Itapemirim, Castelo, Jerônimo Monteiro, Mimoso do Sul, Muqui, São José do Calçado, Vargem Alta",
+        "citiesWithinUnidecoded": "Apiaca, Atilio Vivacqua, Bom Jesus do Norte, Cachoeiro de Itapemirim, Castelo, Jeronimo Monteiro, Mimoso do Sul, Muqui, Sao Jose do Calcado, Vargem Alta",
+        "regionId": "3204012"
+    },
+    {
+        "regionName": "Itapemirim (ES)",
+        "citiesWithin": "Itapemirim, Marataízes, Presidente Kennedy",
+        "citiesWithinUnidecoded": "Itapemirim, Marataizes, Presidente Kennedy",
+        "regionId": "3204013"
+    },
+    {
+        "regionName": "Itaperuna (RJ)",
+        "citiesWithin": "Bom Jesus do Itabapoana, Italva, Itaperuna, Laje do Muriaé, Natividade, Porciúncula, Varre-Sai",
+        "citiesWithinUnidecoded": "Bom Jesus do Itabapoana, Italva, Itaperuna, Laje do Muriae, Natividade, Porciuncula, Varre-Sai",
+        "regionId": "3301001"
+    },
+    {
+        "regionName": "Campos dos Goytacazes (RJ)",
+        "citiesWithin": "Campos dos Goytacazes, Cardoso Moreira, São Fidélis, São Francisco de Itabapoana, São João da Barra",
+        "citiesWithinUnidecoded": "Campos dos Goytacazes, Cardoso Moreira, Sao Fidelis, Sao Francisco de Itabapoana, Sao Joao da Barra",
+        "regionId": "3302003"
+    },
+    {
+        "regionName": "Macaé (RJ)",
+        "citiesWithin": "Carapebus, Conceição de Macabu, Macaé, Quissamã",
+        "citiesWithinUnidecoded": "Carapebus, Conceicao de Macabu, Macae, Quissama",
+        "regionId": "3302004"
+    },
+    {
+        "regionName": "Três Rios (RJ)",
+        "citiesWithin": "Areal, Comendador Levy Gasparian, Paraíba do Sul, Sapucaia, Três Rios",
+        "citiesWithinUnidecoded": "Areal, Comendador Levy Gasparian, Paraiba do Sul, Sapucaia, Tres Rios",
+        "regionId": "3303005"
+    },
+    {
+        "regionName": "Cantagalo-Cordeiro (RJ)",
+        "citiesWithin": "Cantagalo, Carmo, Cordeiro, Macuco",
+        "citiesWithinUnidecoded": "Cantagalo, Carmo, Cordeiro, Macuco",
+        "regionId": "3303006"
+    },
+    {
+        "regionName": "Nova Friburgo (RJ)",
+        "citiesWithin": "Bom Jardim, Duas Barras, Nova Friburgo, Sumidouro",
+        "citiesWithinUnidecoded": "Bom Jardim, Duas Barras, Nova Friburgo, Sumidouro",
+        "regionId": "3303007"
+    },
+    {
+        "regionName": "Santa Maria Madalena (RJ)",
+        "citiesWithin": "Santa Maria Madalena, São Sebastião do Alto, Trajano de Moraes",
+        "citiesWithinUnidecoded": "Santa Maria Madalena, Sao Sebastiao do Alto, Trajano de Moraes",
+        "regionId": "3303008"
+    },
+    {
+        "regionName": "Bacia de São João (RJ)",
+        "citiesWithin": "Casimiro de Abreu, Rio das Ostras, Silva Jardim",
+        "citiesWithinUnidecoded": "Casimiro de Abreu, Rio das Ostras, Silva Jardim",
+        "regionId": "3304009"
+    },
+    {
+        "regionName": "Lagos (RJ)",
+        "citiesWithin": "Araruama, Armação dos Búzios, Arraial do Cabo, Cabo Frio, Iguaba Grande, Saquarema, São Pedro da Aldeia",
+        "citiesWithinUnidecoded": "Araruama, Armacao dos Buzios, Arraial do Cabo, Cabo Frio, Iguaba Grande, Saquarema, Sao Pedro da Aldeia",
+        "regionId": "3304010"
+    },
+    {
+        "regionName": "Vale do Paraíba Fluminense (RJ)",
+        "citiesWithin": "Barra Mansa, Itatiaia, Pinheiral, Piraí, Porto Real, Quatis, Resende, Rio Claro, Volta Redonda",
+        "citiesWithinUnidecoded": "Barra Mansa, Itatiaia, Pinheiral, Pirai, Porto Real, Quatis, Resende, Rio Claro, Volta Redonda",
+        "regionId": "3305011"
+    },
+    {
+        "regionName": "Barra do Piraí (RJ)",
+        "citiesWithin": "Barra do Piraí, Rio das Flores, Valença",
+        "citiesWithinUnidecoded": "Barra do Pirai, Rio das Flores, Valenca",
+        "regionId": "3305012"
+    },
+    {
+        "regionName": "Baía da Ilha Grande (RJ)",
+        "citiesWithin": "Angra dos Reis, Paraty",
+        "citiesWithinUnidecoded": "Angra dos Reis, Paraty",
+        "regionId": "3305013"
+    },
+    {
+        "regionName": "Vassouras (RJ)",
+        "citiesWithin": "Engenheiro Paulo de Frontin, Mendes, Miguel Pereira, Paracambi, Paty do Alferes, Vassouras",
+        "citiesWithinUnidecoded": "Engenheiro Paulo de Frontin, Mendes, Miguel Pereira, Paracambi, Paty do Alferes, Vassouras",
+        "regionId": "3306014"
+    },
+    {
+        "regionName": "Serrana (RJ)",
+        "citiesWithin": "Petrópolis, São José do Vale do Rio Preto, Teresópolis",
+        "citiesWithinUnidecoded": "Petropolis, Sao Jose do Vale do Rio Preto, Teresopolis",
+        "regionId": "3306015"
+    },
+    {
+        "regionName": "Macacu-Caceribu (RJ)",
+        "citiesWithin": "Cachoeiras de Macacu, Rio Bonito",
+        "citiesWithinUnidecoded": "Cachoeiras de Macacu, Rio Bonito",
+        "regionId": "3306016"
+    },
+    {
+        "regionName": "Itaguaí (RJ)",
+        "citiesWithin": "Itaguaí, Mangaratiba, Seropédica",
+        "citiesWithinUnidecoded": "Itaguai, Mangaratiba, Seropedica",
+        "regionId": "3306017"
+    },
+    {
+        "regionName": "Rio de Janeiro (RJ)",
+        "citiesWithin": "Belford Roxo, Duque de Caxias, Guapimirim, Itaboraí, Japeri, Magé, Maricá, Mesquita, Nilópolis, Niterói, Nova Iguaçu, Queimados, Rio de Janeiro, São Gonçalo, São João de Meriti, Tanguá",
+        "citiesWithinUnidecoded": "Belford Roxo, Duque de Caxias, Guapimirim, Itaborai, Japeri, Mage, Marica, Mesquita, Nilopolis, Niteroi, Nova Iguacu, Queimados, Rio de Janeiro, Sao Goncalo, Sao Joao de Meriti, Tangua",
+        "regionId": "3306018"
+    },
+    {
+        "regionName": "Jales (SP)",
+        "citiesWithin": "Aparecida d'Oeste, Aspásia, Dirce Reis, Dolcinópolis, Jales, Marinópolis, Mesópolis, Nova Canaã Paulista, Palmeira d'Oeste, Paranapuã, Pontalinda, Populina, Rubinéia, Santa Albertina, Santa Clara d'Oeste, Santa Fé do Sul, Santa Rita d'Oeste, Santa Salete, Santana da Ponte Pensa, São Francisco, Três Fronteiras, Urânia, Vitória Brasil",
+        "citiesWithinUnidecoded": "Aparecida d'Oeste, Aspasia, Dirce Reis, Dolcinopolis, Jales, Marinopolis, Mesopolis, Nova Canaa Paulista, Palmeira d'Oeste, Paranapua, Pontalinda, Populina, Rubineia, Santa Albertina, Santa Clara d'Oeste, Santa Fe do Sul, Santa Rita d'Oeste, Santa Salete, Santana da Ponte Pensa, Sao Francisco, Tres Fronteiras, Urania, Vitoria Brasil",
+        "regionId": "3501001"
+    },
+    {
+        "regionName": "Votuporanga (SP)",
+        "citiesWithin": "Américo de Campos, Cardoso, Cosmorama, Parisi, Pontes Gestal, Riolândia, Valentim Gentil, Votuporanga, Álvares Florence",
+        "citiesWithinUnidecoded": "Americo de Campos, Cardoso, Cosmorama, Parisi, Pontes Gestal, Riolandia, Valentim Gentil, Votuporanga, Alvares Florence",
+        "regionId": "3501003"
+    },
+    {
+        "regionName": "São José do Rio Preto (SP)",
+        "citiesWithin": "Adolfo, Altair, Bady Bassitt, Bálsamo, Cedral, Guapiaçu, Guaraci, Ibirá, Icém, Ipiguá, Jaci, José Bonifácio, Mendonça, Mirassol, Mirassolândia, Nova Aliança, Nova Granada, Olímpia, Onda Verde, Orindiúva, Palestina, Paulo de Faria, Planalto, Potirendaba, São José do Rio Preto, Tanabi, Ubarana, Uchoa, Zacarias",
+        "citiesWithinUnidecoded": "Adolfo, Altair, Bady Bassitt, Balsamo, Cedral, Guapiacu, Guaraci, Ibira, Icem, Ipigua, Jaci, Jose Bonifacio, Mendonca, Mirassol, Mirassolandia, Nova Alianca, Nova Granada, Olimpia, Onda Verde, Orindiuva, Palestina, Paulo de Faria, Planalto, Potirendaba, Sao Jose do Rio Preto, Tanabi, Ubarana, Uchoa, Zacarias",
+        "regionId": "3501004"
+    },
+    {
+        "regionName": "Catanduva (SP)",
+        "citiesWithin": "Ariranha, Cajobi, Catanduva, Catiguá, Elisiário, Embaúba, Novais, Palmares Paulista, Paraíso, Pindorama, Santa Adélia, Severínia, Tabapuã",
+        "citiesWithinUnidecoded": "Ariranha, Cajobi, Catanduva, Catigua, Elisiario, Embauba, Novais, Palmares Paulista, Paraiso, Pindorama, Santa Adelia, Severinia, Tabapua",
+        "regionId": "3501005"
+    },
+    {
+        "regionName": "Barretos (SP)",
+        "citiesWithin": "Barretos, Colina, Colômbia",
+        "citiesWithinUnidecoded": "Barretos, Colina, Colombia",
+        "regionId": "3502009"
+    },
+    {
+        "regionName": "São Joaquim da Barra (SP)",
+        "citiesWithin": "Guaíra, Ipuã, Jaborandi, Miguelópolis, Morro Agudo, Nuporanga, Orlândia, Sales Oliveira, São Joaquim da Barra",
+        "citiesWithinUnidecoded": "Guaira, Ipua, Jaborandi, Miguelopolis, Morro Agudo, Nuporanga, Orlandia, Sales Oliveira, Sao Joaquim da Barra",
+        "regionId": "3502010"
+    },
+    {
+        "regionName": "Franca (SP)",
+        "citiesWithin": "Cristais Paulista, Franca, Itirapuã, Jeriquara, Patrocínio Paulista, Pedregulho, Restinga, Ribeirão Corrente, Rifaina, São José da Bela Vista",
+        "citiesWithinUnidecoded": "Cristais Paulista, Franca, Itirapua, Jeriquara, Patrocinio Paulista, Pedregulho, Restinga, Ribeirao Corrente, Rifaina, Sao Jose da Bela Vista",
+        "regionId": "3502012"
+    },
+    {
+        "regionName": "Jaboticabal (SP)",
+        "citiesWithin": "Bebedouro, Cândido Rodrigues, Fernando Prestes, Guariba, Jaboticabal, Monte Alto, Monte Azul Paulista, Pirangi, Pitangueiras, Santa Ernestina, Taiaçu, Taiúva, Taquaral, Taquaritinga, Terra Roxa, Viradouro, Vista Alegre do Alto",
+        "citiesWithinUnidecoded": "Bebedouro, Candido Rodrigues, Fernando Prestes, Guariba, Jaboticabal, Monte Alto, Monte Azul Paulista, Pirangi, Pitangueiras, Santa Ernestina, Taiacu, Taiuva, Taquaral, Taquaritinga, Terra Roxa, Viradouro, Vista Alegre do Alto",
+        "regionId": "3502013"
+    },
+    {
+        "regionName": "Ribeirão Preto (SP)",
+        "citiesWithin": "Barrinha, Brodowski, Cravinhos, Dumont, Guatapará, Jardinópolis, Luís Antônio, Pontal, Pradópolis, Ribeirão Preto, Santa Rita do Passa Quatro, Santa Rosa de Viterbo, Serra Azul, Serrana, Sertãozinho, São Simão",
+        "citiesWithinUnidecoded": "Barrinha, Brodowski, Cravinhos, Dumont, Guatapara, Jardinopolis, Luis Antonio, Pontal, Pradopolis, Ribeirao Preto, Santa Rita do Passa Quatro, Santa Rosa de Viterbo, Serra Azul, Serrana, Sertaozinho, Sao Simao",
+        "regionId": "3502014"
+    },
+    {
+        "regionName": "Batatais (SP)",
+        "citiesWithin": "Altinópolis, Batatais, Cajuru, Cássia dos Coqueiros, Santa Cruz da Esperança, Santo Antônio da Alegria",
+        "citiesWithinUnidecoded": "Altinopolis, Batatais, Cajuru, Cassia dos Coqueiros, Santa Cruz da Esperanca, Santo Antonio da Alegria",
+        "regionId": "3502015"
+    },
+    {
+        "regionName": "Araçatuba (SP)",
+        "citiesWithin": "Araçatuba, Bento de Abreu, Guararapes, Lavínia, Rubiácea, Santo Antônio do Aracanguá, Valparaíso",
+        "citiesWithinUnidecoded": "Aracatuba, Bento de Abreu, Guararapes, Lavinia, Rubiacea, Santo Antonio do Aracangua, Valparaiso",
+        "regionId": "3503017"
+    },
+    {
+        "regionName": "Birigui (SP)",
+        "citiesWithin": "Alto Alegre, Avanhandava, Barbosa, Bilac, Birigui, Braúna, Brejo Alegre, Buritama, Clementina, Coroados, Gabriel Monteiro, Glicério, Lourdes, Luiziânia, Penápolis, Piacatu, Santópolis do Aguapeí, Turiúba",
+        "citiesWithinUnidecoded": "Alto Alegre, Avanhandava, Barbosa, Bilac, Birigui, Brauna, Brejo Alegre, Buritama, Clementina, Coroados, Gabriel Monteiro, Glicerio, Lourdes, Luiziania, Penapolis, Piacatu, Santopolis do Aguapei, Turiuba",
+        "regionId": "3503018"
+    },
+    {
+        "regionName": "Lins (SP)",
+        "citiesWithin": "Cafelândia, Getulina, Guaimbê, Guaiçara, Júlio Mesquita, Lins, Promissão, Sabino",
+        "citiesWithinUnidecoded": "Cafelandia, Getulina, Guaimbe, Guaicara, Julio Mesquita, Lins, Promissao, Sabino",
+        "regionId": "3504019"
+    },
+    {
+        "regionName": "Bauru (SP)",
+        "citiesWithin": "Agudos, Arealva, Areiópolis, Avaí, Balbinos, Bauru, Borebi, Cabrália Paulista, Duartina, Guarantã, Iacanga, Lençóis Paulista, Lucianópolis, Paulistânia, Pirajuí, Piratininga, Pongaí, Presidente Alves, Reginópolis, Ubirajara, Uru",
+        "citiesWithinUnidecoded": "Agudos, Arealva, Areiopolis, Avai, Balbinos, Bauru, Borebi, Cabralia Paulista, Duartina, Guaranta, Iacanga, Lencois Paulista, Lucianopolis, Paulistania, Pirajui, Piratininga, Pongai, Presidente Alves, Reginopolis, Ubirajara, Uru",
+        "regionId": "3504020"
+    },
+    {
+        "regionName": "Jaú (SP)",
+        "citiesWithin": "Bariri, Barra Bonita, Bocaina, Boracéia, Dois Córregos, Igaraçu do Tietê, Itaju, Itapuí, Jaú, Macatuba, Mineiros do Tietê, Pederneiras",
+        "citiesWithinUnidecoded": "Bariri, Barra Bonita, Bocaina, Boraceia, Dois Corregos, Igaracu do Tiete, Itaju, Itapui, Jau, Macatuba, Mineiros do Tiete, Pederneiras",
+        "regionId": "3504021"
+    },
+    {
+        "regionName": "Avaré (SP)",
+        "citiesWithin": "Arandu, Avaré, Cerqueira César, Iaras, Itatinga, Itaí, Paranapanema, Águas de Santa Bárbara",
+        "citiesWithinUnidecoded": "Arandu, Avare, Cerqueira Cesar, Iaras, Itatinga, Itai, Paranapanema, Aguas de Santa Barbara",
+        "regionId": "3504022"
+    },
+    {
+        "regionName": "Botucatu (SP)",
+        "citiesWithin": "Anhembi, Bofete, Botucatu, Conchas, Pardinho, Pratânia, São Manuel",
+        "citiesWithinUnidecoded": "Anhembi, Bofete, Botucatu, Conchas, Pardinho, Pratania, Sao Manuel",
+        "regionId": "3504023"
+    },
+    {
+        "regionName": "Araraquara (SP)",
+        "citiesWithin": "Américo Brasiliense, Araraquara, Boa Esperança do Sul, Borborema, Dobrada, Gavião Peixoto, Ibitinga, Itápolis, Matão, Motuca, Nova Europa, Rincão, Santa Lúcia, Tabatinga, Trabiju",
+        "citiesWithinUnidecoded": "Americo Brasiliense, Araraquara, Boa Esperanca do Sul, Borborema, Dobrada, Gaviao Peixoto, Ibitinga, Itapolis, Matao, Motuca, Nova Europa, Rincao, Santa Lucia, Tabatinga, Trabiju",
+        "regionId": "3505024"
+    },
+    {
+        "regionName": "São Carlos (SP)",
+        "citiesWithin": "Analândia, Descalvado, Dourado, Ibaté, Ribeirão Bonito, São Carlos",
+        "citiesWithinUnidecoded": "Analandia, Descalvado, Dourado, Ibate, Ribeirao Bonito, Sao Carlos",
+        "regionId": "3505025"
+    },
+    {
+        "regionName": "Rio Claro (SP)",
+        "citiesWithin": "Brotas, Corumbataí, Ipeúna, Itirapina, Rio Claro, Torrinha",
+        "citiesWithinUnidecoded": "Brotas, Corumbatai, Ipeuna, Itirapina, Rio Claro, Torrinha",
+        "regionId": "3506026"
+    },
+    {
+        "regionName": "Limeira (SP)",
+        "citiesWithin": "Araras, Conchal, Cordeirópolis, Iracemápolis, Leme, Limeira, Santa Cruz da Conceição, Santa Gertrudes",
+        "citiesWithinUnidecoded": "Araras, Conchal, Cordeiropolis, Iracemapolis, Leme, Limeira, Santa Cruz da Conceicao, Santa Gertrudes",
+        "regionId": "3506027"
+    },
+    {
+        "regionName": "Piracicaba (SP)",
+        "citiesWithin": "Capivari, Charqueada, Jumirim, Mombuca, Piracicaba, Rafard, Rio das Pedras, Saltinho, Santa Maria da Serra, São Pedro, Tietê, Águas de São Pedro",
+        "citiesWithinUnidecoded": "Capivari, Charqueada, Jumirim, Mombuca, Piracicaba, Rafard, Rio das Pedras, Saltinho, Santa Maria da Serra, Sao Pedro, Tiete, Aguas de Sao Pedro",
+        "regionId": "3506028"
+    },
+    {
+        "regionName": "São João da Boa Vista (SP)",
+        "citiesWithin": "Caconde, Casa Branca, Divinolândia, Espírito Santo do Pinhal, Itobi, Mococa, Santo Antônio do Jardim, São José do Rio Pardo, São João da Boa Vista, São Sebastião da Grama, Tambaú, Tapiratiba, Vargem Grande do Sul, Águas da Prata",
+        "citiesWithinUnidecoded": "Caconde, Casa Branca, Divinolandia, Espirito Santo do Pinhal, Itobi, Mococa, Santo Antonio do Jardim, Sao Jose do Rio Pardo, Sao Joao da Boa Vista, Sao Sebastiao da Grama, Tambau, Tapiratiba, Vargem Grande do Sul, Aguas da Prata",
+        "regionId": "3507030"
+    },
+    {
+        "regionName": "Mogi Mirim (SP)",
+        "citiesWithin": "Artur Nogueira, Engenheiro Coelho, Estiva Gerbi, Itapira, Mogi Guaçu, Mogi Mirim, Santo Antônio de Posse",
+        "citiesWithinUnidecoded": "Artur Nogueira, Engenheiro Coelho, Estiva Gerbi, Itapira, Mogi Guacu, Mogi Mirim, Santo Antonio de Posse",
+        "regionId": "3507031"
+    },
+    {
+        "regionName": "Campinas (SP)",
+        "citiesWithin": "Americana, Campinas, Cosmópolis, Elias Fausto, Holambra, Hortolândia, Indaiatuba, Jaguariúna, Monte Mor, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Sumaré, Valinhos, Vinhedo",
+        "citiesWithinUnidecoded": "Americana, Campinas, Cosmopolis, Elias Fausto, Holambra, Hortolandia, Indaiatuba, Jaguariuna, Monte Mor, Nova Odessa, Paulinia, Pedreira, Santa Barbara d'Oeste, Sumare, Valinhos, Vinhedo",
+        "regionId": "3507032"
+    },
+    {
+        "regionName": "Amparo (SP)",
+        "citiesWithin": "Amparo, Lindóia, Monte Alegre do Sul, Pedra Bela, Pinhalzinho, Serra Negra, Socorro, Águas de Lindóia",
+        "citiesWithinUnidecoded": "Amparo, Lindoia, Monte Alegre do Sul, Pedra Bela, Pinhalzinho, Serra Negra, Socorro, Aguas de Lindoia",
+        "regionId": "3507033"
+    },
+    {
+        "regionName": "Dracena (SP)",
+        "citiesWithin": "Dracena, Junqueirópolis, Monte Castelo, Nova Guataporanga, Ouro Verde, Panorama, Paulicéia, Santa Mercedes, São João do Pau d'Alho, Tupi Paulista",
+        "citiesWithinUnidecoded": "Dracena, Junqueiropolis, Monte Castelo, Nova Guataporanga, Ouro Verde, Panorama, Pauliceia, Santa Mercedes, Sao Joao do Pau d'Alho, Tupi Paulista",
+        "regionId": "3508034"
+    },
+    {
+        "regionName": "Adamantina (SP)",
+        "citiesWithin": "Adamantina, Flora Rica, Flórida Paulista, Inúbia Paulista, Irapuru, Lucélia, Mariápolis, Osvaldo Cruz, Pacaembu, Parapuã, Pracinha, Rinópolis, Sagres, Salmourão",
+        "citiesWithinUnidecoded": "Adamantina, Flora Rica, Florida Paulista, Inubia Paulista, Irapuru, Lucelia, Mariapolis, Osvaldo Cruz, Pacaembu, Parapua, Pracinha, Rinopolis, Sagres, Salmourao",
+        "regionId": "3508035"
+    },
+    {
+        "regionName": "Presidente Prudente (SP)",
+        "citiesWithin": "Alfredo Marcondes, Anhumas, Caiabu, Caiuá, Emilianópolis, Estrela do Norte, Euclides da Cunha Paulista, Indiana, João Ramalho, Marabá Paulista, Martinópolis, Mirante do Paranapanema, Narandiba, Piquerobi, Pirapozinho, Presidente Bernardes, Presidente Epitácio, Presidente Prudente, Presidente Venceslau, Rancharia, Regente Feijó, Ribeirão dos Índios, Rosana, Sandovalina, Santo Anastácio, Santo Expedito, Taciba, Tarabai, Teodoro Sampaio, Álvares Machado",
+        "citiesWithinUnidecoded": "Alfredo Marcondes, Anhumas, Caiabu, Caiua, Emilianopolis, Estrela do Norte, Euclides da Cunha Paulista, Indiana, Joao Ramalho, Maraba Paulista, Martinopolis, Mirante do Paranapanema, Narandiba, Piquerobi, Pirapozinho, Presidente Bernardes, Presidente Epitacio, Presidente Prudente, Presidente Venceslau, Rancharia, Regente Feijo, Ribeirao dos Indios, Rosana, Sandovalina, Santo Anastacio, Santo Expedito, Taciba, Tarabai, Teodoro Sampaio, Alvares Machado",
+        "regionId": "3508036"
+    },
+    {
+        "regionName": "Marília (SP)",
+        "citiesWithin": "Alvinlândia, Echaporã, Fernão, Garça, Gália, Lupércio, Marília, Ocauçu, Oriente, Oscar Bressane, Pompéia, Vera Cruz, Álvaro de Carvalho",
+        "citiesWithinUnidecoded": "Alvinlandia, Echapora, Fernao, Garca, Galia, Lupercio, Marilia, Ocaucu, Oriente, Oscar Bressane, Pompeia, Vera Cruz, Alvaro de Carvalho",
+        "regionId": "3509038"
+    },
+    {
+        "regionName": "Assis (SP)",
+        "citiesWithin": "Assis, Borá, Campos Novos Paulista, Cruzália, Cândido Mota, Florínea, Ibirarema, Iepê, Lutécia, Maracaí, Nantes, Palmital, Paraguaçu Paulista, Pedrinhas Paulista, Platina, Quatá, Tarumã",
+        "citiesWithinUnidecoded": "Assis, Bora, Campos Novos Paulista, Cruzalia, Candido Mota, Florinea, Ibirarema, Iepe, Lutecia, Maracai, Nantes, Palmital, Paraguacu Paulista, Pedrinhas Paulista, Platina, Quata, Taruma",
+        "regionId": "3510039"
+    },
+    {
+        "regionName": "Ourinhos (SP)",
+        "citiesWithin": "Bernardino de Campos, Canitar, Chavantes, Espírito Santo do Turvo, Fartura, Ipaussu, Manduri, Ourinhos, Piraju, Ribeirão do Sul, Salto Grande, Santa Cruz do Rio Pardo, Sarutaiá, São Pedro do Turvo, Taguaí, Tejupá, Timburi, Óleo",
+        "citiesWithinUnidecoded": "Bernardino de Campos, Canitar, Chavantes, Espirito Santo do Turvo, Fartura, Ipaussu, Manduri, Ourinhos, Piraju, Ribeirao do Sul, Salto Grande, Santa Cruz do Rio Pardo, Sarutaia, Sao Pedro do Turvo, Taguai, Tejupa, Timburi, Oleo",
+        "regionId": "3510040"
+    },
+    {
+        "regionName": "Itapeva (SP)",
+        "citiesWithin": "Barão de Antonina, Bom Sucesso de Itararé, Buri, Coronel Macedo, Itaberá, Itapeva, Itaporanga, Itararé, Nova Campina, Riversul, Taquarituba, Taquarivaí",
+        "citiesWithinUnidecoded": "Barao de Antonina, Bom Sucesso de Itarare, Buri, Coronel Macedo, Itabera, Itapeva, Itaporanga, Itarare, Nova Campina, Riversul, Taquarituba, Taquarivai",
+        "regionId": "3511041"
+    },
+    {
+        "regionName": "Itapetininga (SP)",
+        "citiesWithin": "Alambari, Angatuba, Campina do Monte Alegre, Guareí, Itapetininga",
+        "citiesWithinUnidecoded": "Alambari, Angatuba, Campina do Monte Alegre, Guarei, Itapetininga",
+        "regionId": "3511042"
+    },
+    {
+        "regionName": "Tatuí (SP)",
+        "citiesWithin": "Boituva, Cerquilho, Cesário Lange, Laranjal Paulista, Pereiras, Porangaba, Quadra, Tatuí, Torre de Pedra",
+        "citiesWithinUnidecoded": "Boituva, Cerquilho, Cesario Lange, Laranjal Paulista, Pereiras, Porangaba, Quadra, Tatui, Torre de Pedra",
+        "regionId": "3511043"
+    },
+    {
+        "regionName": "Piedade (SP)",
+        "citiesWithin": "Ibiúna, Piedade, Pilar do Sul, São Miguel Arcanjo, Tapiraí",
+        "citiesWithinUnidecoded": "Ibiuna, Piedade, Pilar do Sul, Sao Miguel Arcanjo, Tapirai",
+        "regionId": "3512045"
+    },
+    {
+        "regionName": "Sorocaba (SP)",
+        "citiesWithin": "Alumínio, Araçariguama, Araçoiaba da Serra, Cabreúva, Capela do Alto, Iperó, Itu, Mairinque, Porto Feliz, Salto, Salto de Pirapora, Sarapuí, Sorocaba, São Roque, Votorantim",
+        "citiesWithinUnidecoded": "Aluminio, Aracariguama, Aracoiaba da Serra, Cabreuva, Capela do Alto, Ipero, Itu, Mairinque, Porto Feliz, Salto, Salto de Pirapora, Sarapui, Sorocaba, Sao Roque, Votorantim",
+        "regionId": "3512046"
+    },
+    {
+        "regionName": "Jundiaí (SP)",
+        "citiesWithin": "Campo Limpo Paulista, Itupeva, Jundiaí, Louveira, Várzea Paulista",
+        "citiesWithinUnidecoded": "Campo Limpo Paulista, Itupeva, Jundiai, Louveira, Varzea Paulista",
+        "regionId": "3512047"
+    },
+    {
+        "regionName": "Bragança Paulista (SP)",
+        "citiesWithin": "Atibaia, Bom Jesus dos Perdões, Bragança Paulista, Itatiba, Jarinu, Joanópolis, Morungaba, Nazaré Paulista, Piracaia, Tuiuti, Vargem",
+        "citiesWithinUnidecoded": "Atibaia, Bom Jesus dos Perdoes, Braganca Paulista, Itatiba, Jarinu, Joanopolis, Morungaba, Nazare Paulista, Piracaia, Tuiuti, Vargem",
+        "regionId": "3512048"
+    },
+    {
+        "regionName": "São José dos Campos (SP)",
+        "citiesWithin": "Caçapava, Igaratá, Jacareí, Pindamonhangaba, Santa Branca, São José dos Campos, Taubaté, Tremembé",
+        "citiesWithinUnidecoded": "Cacapava, Igarata, Jacarei, Pindamonhangaba, Santa Branca, Sao Jose dos Campos, Taubate, Tremembe",
+        "regionId": "3513050"
+    },
+    {
+        "regionName": "Guaratinguetá (SP)",
+        "citiesWithin": "Aparecida, Cachoeira Paulista, Canas, Cruzeiro, Guaratinguetá, Lavrinhas, Lorena, Piquete, Potim, Queluz, Roseira",
+        "citiesWithinUnidecoded": "Aparecida, Cachoeira Paulista, Canas, Cruzeiro, Guaratingueta, Lavrinhas, Lorena, Piquete, Potim, Queluz, Roseira",
+        "regionId": "3513051"
+    },
+    {
+        "regionName": "Caraguatatuba (SP)",
+        "citiesWithin": "Caraguatatuba, Ilhabela, São Sebastião, Ubatuba",
+        "citiesWithinUnidecoded": "Caraguatatuba, Ilhabela, Sao Sebastiao, Ubatuba",
+        "regionId": "3513054"
+    },
+    {
+        "regionName": "Registro (SP)",
+        "citiesWithin": "Barra do Turvo, Cajati, Cananéia, Eldorado, Iguape, Ilha Comprida, Jacupiranga, Juquiá, Miracatu, Pariquera-Açu, Registro, Sete Barras",
+        "citiesWithinUnidecoded": "Barra do Turvo, Cajati, Cananeia, Eldorado, Iguape, Ilha Comprida, Jacupiranga, Juquia, Miracatu, Pariquera-Acu, Registro, Sete Barras",
+        "regionId": "3514055"
+    },
+    {
+        "regionName": "Itanhaém (SP)",
+        "citiesWithin": "Itanhaém, Itariri, Mongaguá, Pedro de Toledo, Peruíbe",
+        "citiesWithinUnidecoded": "Itanhaem, Itariri, Mongagua, Pedro de Toledo, Peruibe",
+        "regionId": "3514056"
+    },
+    {
+        "regionName": "Osasco (SP)",
+        "citiesWithin": "Barueri, Cajamar, Carapicuíba, Itapevi, Jandira, Osasco, Pirapora do Bom Jesus, Santana de Parnaíba",
+        "citiesWithinUnidecoded": "Barueri, Cajamar, Carapicuiba, Itapevi, Jandira, Osasco, Pirapora do Bom Jesus, Santana de Parnaiba",
+        "regionId": "3515057"
+    },
+    {
+        "regionName": "Franco da Rocha (SP)",
+        "citiesWithin": "Caieiras, Francisco Morato, Franco da Rocha, Mairiporã",
+        "citiesWithinUnidecoded": "Caieiras, Francisco Morato, Franco da Rocha, Mairipora",
+        "regionId": "3515058"
+    },
+    {
+        "regionName": "Guarulhos (SP)",
+        "citiesWithin": "Arujá, Guarulhos, Santa Isabel",
+        "citiesWithinUnidecoded": "Aruja, Guarulhos, Santa Isabel",
+        "regionId": "3515059"
+    },
+    {
+        "regionName": "Itapecerica da Serra (SP)",
+        "citiesWithin": "Cotia, Embu das Artes, Embu-Guaçu, Itapecerica da Serra, Juquitiba, São Lourenço da Serra, Taboão da Serra, Vargem Grande Paulista",
+        "citiesWithinUnidecoded": "Cotia, Embu das Artes, Embu-Guacu, Itapecerica da Serra, Juquitiba, Sao Lourenco da Serra, Taboao da Serra, Vargem Grande Paulista",
+        "regionId": "3515060"
+    },
+    {
+        "regionName": "São Paulo (SP)",
+        "citiesWithin": "Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra, Santo André, São Bernardo do Campo, São Caetano do Sul, São Paulo",
+        "citiesWithinUnidecoded": "Diadema, Maua, Ribeirao Pires, Rio Grande da Serra, Santo Andre, Sao Bernardo do Campo, Sao Caetano do Sul, Sao Paulo",
+        "regionId": "3515061"
+    },
+    {
+        "regionName": "Mogi das Cruzes (SP)",
+        "citiesWithin": "Biritiba Mirim, Ferraz de Vasconcelos, Guararema, Itaquaquecetuba, Mogi das Cruzes, Poá, Salesópolis, Suzano",
+        "citiesWithinUnidecoded": "Biritiba Mirim, Ferraz de Vasconcelos, Guararema, Itaquaquecetuba, Mogi das Cruzes, Poa, Salesopolis, Suzano",
+        "regionId": "3515062"
+    },
+    {
+        "regionName": "Santos (SP)",
+        "citiesWithin": "Bertioga, Cubatão, Guarujá, Praia Grande, Santos, São Vicente",
+        "citiesWithinUnidecoded": "Bertioga, Cubatao, Guaruja, Praia Grande, Santos, Sao Vicente",
+        "regionId": "3515063"
+    },
+    {
+        "regionName": "Paranavaí (PR)",
+        "citiesWithin": "Alto Paraná, Amaporã, Cruzeiro do Sul, Diamante do Norte, Guairaçá, Inajá, Itaúna do Sul, Jardim Olinda, Loanda, Marilena, Mirador, Nova Aliança do Ivaí, Nova Londrina, Paranacity, Paranapoema, Paranavaí, Paraíso do Norte, Planaltina do Paraná, Porto Rico, Querência do Norte, Santa Cruz de Monte Castelo, Santa Isabel do Ivaí, Santa Mônica, Santo Antônio do Caiuá, São Carlos do Ivaí, São João do Caiuá, São Pedro do Paraná, Tamboara, Terra Rica",
+        "citiesWithinUnidecoded": "Alto Parana, Amapora, Cruzeiro do Sul, Diamante do Norte, Guairaca, Inaja, Itauna do Sul, Jardim Olinda, Loanda, Marilena, Mirador, Nova Alianca do Ivai, Nova Londrina, Paranacity, Paranapoema, Paranavai, Paraiso do Norte, Planaltina do Parana, Porto Rico, Querencia do Norte, Santa Cruz de Monte Castelo, Santa Isabel do Ivai, Santa Monica, Santo Antonio do Caiua, Sao Carlos do Ivai, Sao Joao do Caiua, Sao Pedro do Parana, Tamboara, Terra Rica",
+        "regionId": "4101001"
+    },
+    {
+        "regionName": "Umuarama (PR)",
+        "citiesWithin": "Alto Paraíso, Alto Piquiri, Altônia, Brasilândia do Sul, Cafezal do Sul, Cruzeiro do Oeste, Douradina, Esperança Nova, Francisco Alves, Icaraíma, Iporã, Ivaté, Maria Helena, Mariluz, Nova Olímpia, Perobal, Pérola, São Jorge do Patrocínio, Tapira, Umuarama, Xambrê",
+        "citiesWithinUnidecoded": "Alto Paraiso, Alto Piquiri, Altonia, Brasilandia do Sul, Cafezal do Sul, Cruzeiro do Oeste, Douradina, Esperanca Nova, Francisco Alves, Icaraima, Ipora, Ivate, Maria Helena, Mariluz, Nova Olimpia, Perobal, Perola, Sao Jorge do Patrocinio, Tapira, Umuarama, Xambre",
+        "regionId": "4101002"
+    },
+    {
+        "regionName": "Cianorte (PR)",
+        "citiesWithin": "Cianorte, Cidade Gaúcha, Guaporema, Indianópolis, Japurá, Jussara, Rondon, São Manoel do Paraná, São Tomé, Tapejara, Tuneiras do Oeste",
+        "citiesWithinUnidecoded": "Cianorte, Cidade Gaucha, Guaporema, Indianopolis, Japura, Jussara, Rondon, Sao Manoel do Parana, Sao Tome, Tapejara, Tuneiras do Oeste",
+        "regionId": "4101003"
+    },
+    {
+        "regionName": "Goioerê (PR)",
+        "citiesWithin": "Altamira do Paraná, Boa Esperança, Campina da Lagoa, Goioerê, Janiópolis, Juranda, Moreira Sales, Nova Cantu, Quarto Centenário, Rancho Alegre D'Oeste, Ubiratã",
+        "citiesWithinUnidecoded": "Altamira do Parana, Boa Esperanca, Campina da Lagoa, Goioere, Janiopolis, Juranda, Moreira Sales, Nova Cantu, Quarto Centenario, Rancho Alegre D'Oeste, Ubirata",
+        "regionId": "4102004"
+    },
+    {
+        "regionName": "Campo Mourão (PR)",
+        "citiesWithin": "Araruna, Barbosa Ferraz, Campo Mourão, Corumbataí do Sul, Engenheiro Beltrão, Farol, Fênix, Iretama, Luiziana, Mamborê, Peabiru, Quinta do Sol, Roncador, Terra Boa",
+        "citiesWithinUnidecoded": "Araruna, Barbosa Ferraz, Campo Mourao, Corumbatai do Sul, Engenheiro Beltrao, Farol, Fenix, Iretama, Luiziana, Mambore, Peabiru, Quinta do Sol, Roncador, Terra Boa",
+        "regionId": "4102005"
+    },
+    {
+        "regionName": "Astorga (PR)",
+        "citiesWithin": "Astorga, Atalaia, Cafeara, Centenário do Sul, Colorado, Flórida, Guaraci, Iguaraçu, Itaguajé, Jaguapitã, Lobato, Lupionópolis, Mandaguaçu, Munhoz de Melo, Nossa Senhora das Graças, Nova Esperança, Presidente Castelo Branco, Santa Fé, Santa Inês, Santo Inácio, Uniflor, Ângulo",
+        "citiesWithinUnidecoded": "Astorga, Atalaia, Cafeara, Centenario do Sul, Colorado, Florida, Guaraci, Iguaracu, Itaguaje, Jaguapita, Lobato, Lupionopolis, Mandaguacu, Munhoz de Melo, Nossa Senhora das Gracas, Nova Esperanca, Presidente Castelo Branco, Santa Fe, Santa Ines, Santo Inacio, Uniflor, Angulo",
+        "regionId": "4103006"
+    },
+    {
+        "regionName": "Porecatu (PR)",
+        "citiesWithin": "Alvorada do Sul, Bela Vista do Paraíso, Florestópolis, Miraselva, Porecatu, Prado Ferreira, Primeiro de Maio, Sertanópolis",
+        "citiesWithinUnidecoded": "Alvorada do Sul, Bela Vista do Paraiso, Florestopolis, Miraselva, Porecatu, Prado Ferreira, Primeiro de Maio, Sertanopolis",
+        "regionId": "4103007"
+    },
+    {
+        "regionName": "Maringá (PR)",
+        "citiesWithin": "Mandaguari, Marialva, Maringá, Paiçandu, Sarandi",
+        "citiesWithinUnidecoded": "Mandaguari, Marialva, Maringa, Paicandu, Sarandi",
+        "regionId": "4103009"
+    },
+    {
+        "regionName": "Apucarana (PR)",
+        "citiesWithin": "Apucarana, Arapongas, Califórnia, Cambira, Jandaia do Sul, Marilândia do Sul, Mauá da Serra, Novo Itacolomi, Sabáudia",
+        "citiesWithinUnidecoded": "Apucarana, Arapongas, California, Cambira, Jandaia do Sul, Marilandia do Sul, Maua da Serra, Novo Itacolomi, Sabaudia",
+        "regionId": "4103010"
+    },
+    {
+        "regionName": "Londrina (PR)",
+        "citiesWithin": "Cambé, Ibiporã, Londrina, Pitangueiras, Rolândia, Tamarana",
+        "citiesWithinUnidecoded": "Cambe, Ibipora, Londrina, Pitangueiras, Rolandia, Tamarana",
+        "regionId": "4103011"
+    },
+    {
+        "regionName": "Faxinal (PR)",
+        "citiesWithin": "Bom Sucesso, Borrazópolis, Cruzmaltina, Faxinal, Kaloré, Marumbi, Rio Bom",
+        "citiesWithinUnidecoded": "Bom Sucesso, Borrazopolis, Cruzmaltina, Faxinal, Kalore, Marumbi, Rio Bom",
+        "regionId": "4103012"
+    },
+    {
+        "regionName": "Ivaiporã (PR)",
+        "citiesWithin": "Arapuã, Ariranha do Ivaí, Cândido de Abreu, Godoy Moreira, Grandes Rios, Ivaiporã, Jardim Alegre, Lidianópolis, Lunardelli, Manoel Ribas, Nova Tebas, Rio Branco do Ivaí, Rosário do Ivaí, São João do Ivaí, São Pedro do Ivaí",
+        "citiesWithinUnidecoded": "Arapua, Ariranha do Ivai, Candido de Abreu, Godoy Moreira, Grandes Rios, Ivaipora, Jardim Alegre, Lidianopolis, Lunardelli, Manoel Ribas, Nova Tebas, Rio Branco do Ivai, Rosario do Ivai, Sao Joao do Ivai, Sao Pedro do Ivai",
+        "regionId": "4103013"
+    },
+    {
+        "regionName": "Cornélio Procópio (PR)",
+        "citiesWithin": "Abatiá, Andirá, Bandeirantes, Congonhinhas, Cornélio Procópio, Itambaracá, Leópolis, Nova América da Colina, Nova Fátima, Ribeirão do Pinhal, Santa Amélia, Santa Mariana, Santo Antônio do Paraíso, Sertaneja",
+        "citiesWithinUnidecoded": "Abatia, Andira, Bandeirantes, Congonhinhas, Cornelio Procopio, Itambaraca, Leopolis, Nova America da Colina, Nova Fatima, Ribeirao do Pinhal, Santa Amelia, Santa Mariana, Santo Antonio do Paraiso, Sertaneja",
+        "regionId": "4104015"
+    },
+    {
+        "regionName": "Ibaiti (PR)",
+        "citiesWithin": "Conselheiro Mairinck, Curiúva, Figueira, Ibaiti, Jaboti, Japira, Pinhalão, Sapopema",
+        "citiesWithinUnidecoded": "Conselheiro Mairinck, Curiuva, Figueira, Ibaiti, Jaboti, Japira, Pinhalao, Sapopema",
+        "regionId": "4104017"
+    },
+    {
+        "regionName": "Wenceslau Braz (PR)",
+        "citiesWithin": "Carlópolis, Guapirama, Joaquim Távora, Quatiguá, Salto do Itararé, Santana do Itararé, Siqueira Campos, São José da Boa Vista, Tomazina, Wenceslau Braz",
+        "citiesWithinUnidecoded": "Carlopolis, Guapirama, Joaquim Tavora, Quatigua, Salto do Itarare, Santana do Itarare, Siqueira Campos, Sao Jose da Boa Vista, Tomazina, Wenceslau Braz",
+        "regionId": "4104018"
+    },
+    {
+        "regionName": "Telêmaco Borba (PR)",
+        "citiesWithin": "Imbaú, Ortigueira, Reserva, Telêmaco Borba, Tibagi, Ventania",
+        "citiesWithinUnidecoded": "Imbau, Ortigueira, Reserva, Telemaco Borba, Tibagi, Ventania",
+        "regionId": "4105019"
+    },
+    {
+        "regionName": "Ponta Grossa (PR)",
+        "citiesWithin": "Carambeí, Castro, Palmeira, Ponta Grossa",
+        "citiesWithinUnidecoded": "Carambei, Castro, Palmeira, Ponta Grossa",
+        "regionId": "4105021"
+    },
+    {
+        "regionName": "Toledo (PR)",
+        "citiesWithin": "Assis Chateaubriand, Diamante D'Oeste, Entre Rios do Oeste, Formosa do Oeste, Guaíra, Iracema do Oeste, Jesuítas, Marechal Cândido Rondon, Maripá, Mercedes, Nova Santa Rosa, Ouro Verde do Oeste, Palotina, Pato Bragado, Quatro Pontes, Santa Helena, São José das Palmeiras, São Pedro do Iguaçu, Terra Roxa, Toledo, Tupãssi",
+        "citiesWithinUnidecoded": "Assis Chateaubriand, Diamante D'Oeste, Entre Rios do Oeste, Formosa do Oeste, Guaira, Iracema do Oeste, Jesuitas, Marechal Candido Rondon, Maripa, Mercedes, Nova Santa Rosa, Ouro Verde do Oeste, Palotina, Pato Bragado, Quatro Pontes, Santa Helena, Sao Jose das Palmeiras, Sao Pedro do Iguacu, Terra Roxa, Toledo, Tupassi",
+        "regionId": "4106022"
+    },
+    {
+        "regionName": "Cascavel (PR)",
+        "citiesWithin": "Anahy, Boa Vista da Aparecida, Braganey, Cafelândia, Campo Bonito, Capitão Leônidas Marques, Cascavel, Catanduvas, Corbélia, Diamante do Sul, Guaraniaçu, Ibema, Iguatu, Lindoeste, Nova Aurora, Santa Lúcia, Santa Tereza do Oeste, Três Barras do Paraná",
+        "citiesWithinUnidecoded": "Anahy, Boa Vista da Aparecida, Braganey, Cafelandia, Campo Bonito, Capitao Leonidas Marques, Cascavel, Catanduvas, Corbelia, Diamante do Sul, Guaraniacu, Ibema, Iguatu, Lindoeste, Nova Aurora, Santa Lucia, Santa Tereza do Oeste, Tres Barras do Parana",
+        "regionId": "4106023"
+    },
+    {
+        "regionName": "Foz do Iguaçu (PR)",
+        "citiesWithin": "Céu Azul, Foz do Iguaçu, Itaipulândia, Matelândia, Medianeira, Missal, Ramilândia, Santa Terezinha de Itaipu, Serranópolis do Iguaçu, São Miguel do Iguaçu, Vera Cruz do Oeste",
+        "citiesWithinUnidecoded": "Ceu Azul, Foz do Iguacu, Itaipulandia, Matelandia, Medianeira, Missal, Ramilandia, Santa Terezinha de Itaipu, Serranopolis do Iguacu, Sao Miguel do Iguacu, Vera Cruz do Oeste",
+        "regionId": "4106024"
+    },
+    {
+        "regionName": "Francisco Beltrão (PR)",
+        "citiesWithin": "Barracão, Boa Esperança do Iguaçu, Bom Jesus do Sul, Cruzeiro do Iguaçu, Dois Vizinhos, Enéas Marques, Flor da Serra do Sul, Francisco Beltrão, Manfrinópolis, Marmeleiro, Nova Esperança do Sudoeste, Nova Prata do Iguaçu, Pinhal de São Bento, Renascença, Salgado Filho, Salto do Lontra, Santo Antônio do Sudoeste, São Jorge d'Oeste, Verê",
+        "citiesWithinUnidecoded": "Barracao, Boa Esperanca do Iguacu, Bom Jesus do Sul, Cruzeiro do Iguacu, Dois Vizinhos, Eneas Marques, Flor da Serra do Sul, Francisco Beltrao, Manfrinopolis, Marmeleiro, Nova Esperanca do Sudoeste, Nova Prata do Iguacu, Pinhal de Sao Bento, Renascenca, Salgado Filho, Salto do Lontra, Santo Antonio do Sudoeste, Sao Jorge d'Oeste, Vere",
+        "regionId": "4107026"
+    },
+    {
+        "regionName": "Pato Branco (PR)",
+        "citiesWithin": "Bom Sucesso do Sul, Chopinzinho, Coronel Vivida, Itapejara d'Oeste, Mariópolis, Pato Branco, Saudade do Iguaçu, Sulina, São João, Vitorino",
+        "citiesWithinUnidecoded": "Bom Sucesso do Sul, Chopinzinho, Coronel Vivida, Itapejara d'Oeste, Mariopolis, Pato Branco, Saudade do Iguacu, Sulina, Sao Joao, Vitorino",
+        "regionId": "4107027"
+    },
+    {
+        "regionName": "Guarapuava (PR)",
+        "citiesWithin": "Campina do Simão, Candói, Cantagalo, Espigão Alto do Iguaçu, Foz do Jordão, Goioxim, Guarapuava, Inácio Martins, Laranjeiras do Sul, Marquinho, Nova Laranjeiras, Pinhão, Porto Barreiro, Quedas do Iguaçu, Reserva do Iguaçu, Rio Bonito do Iguaçu, Turvo, Virmond",
+        "citiesWithinUnidecoded": "Campina do Simao, Candoi, Cantagalo, Espigao Alto do Iguacu, Foz do Jordao, Goioxim, Guarapuava, Inacio Martins, Laranjeiras do Sul, Marquinho, Nova Laranjeiras, Pinhao, Porto Barreiro, Quedas do Iguacu, Reserva do Iguacu, Rio Bonito do Iguacu, Turvo, Virmond",
+        "regionId": "4108029"
+    },
+    {
+        "regionName": "Palmas (PR)",
+        "citiesWithin": "Clevelândia, Coronel Domingos Soares, Honório Serpa, Mangueirinha, Palmas",
+        "citiesWithinUnidecoded": "Clevelandia, Coronel Domingos Soares, Honorio Serpa, Mangueirinha, Palmas",
+        "regionId": "4108030"
+    },
+    {
+        "regionName": "União da Vitória (PR)",
+        "citiesWithin": "Bituruna, Cruz Machado, General Carneiro, Paula Freitas, Paulo Frontin, Porto Vitória, União da Vitória",
+        "citiesWithinUnidecoded": "Bituruna, Cruz Machado, General Carneiro, Paula Freitas, Paulo Frontin, Porto Vitoria, Uniao da Vitoria",
+        "regionId": "4109033"
+    },
+    {
+        "regionName": "Lapa (PR)",
+        "citiesWithin": "Lapa, Porto Amazonas",
+        "citiesWithinUnidecoded": "Lapa, Porto Amazonas",
+        "regionId": "4110036"
+    },
+    {
+        "regionName": "Curitiba (PR)",
+        "citiesWithin": "Almirante Tamandaré, Araucária, Balsa Nova, Bocaiúva do Sul, Campina Grande do Sul, Campo Largo, Campo Magro, Colombo, Contenda, Curitiba, Fazenda Rio Grande, Itaperuçu, Mandirituba, Pinhais, Piraquara, Quatro Barras, Rio Branco do Sul, São José dos Pinhais, Tunas do Paraná",
+        "citiesWithinUnidecoded": "Almirante Tamandare, Araucaria, Balsa Nova, Bocaiuva do Sul, Campina Grande do Sul, Campo Largo, Campo Magro, Colombo, Contenda, Curitiba, Fazenda Rio Grande, Itaperucu, Mandirituba, Pinhais, Piraquara, Quatro Barras, Rio Branco do Sul, Sao Jose dos Pinhais, Tunas do Parana",
+        "regionId": "4110037"
+    },
+    {
+        "regionName": "Paranaguá (PR)",
+        "citiesWithin": "Antonina, Guaraqueçaba, Guaratuba, Matinhos, Morretes, Paranaguá, Pontal do Paraná",
+        "citiesWithinUnidecoded": "Antonina, Guaraquecaba, Guaratuba, Matinhos, Morretes, Paranagua, Pontal do Parana",
+        "regionId": "4110038"
+    },
+    {
+        "regionName": "Rio Negro (PR)",
+        "citiesWithin": "Agudos do Sul, Campo do Tenente, Piên, Quitandinha, Rio Negro, Tijucas do Sul",
+        "citiesWithinUnidecoded": "Agudos do Sul, Campo do Tenente, Pien, Quitandinha, Rio Negro, Tijucas do Sul",
+        "regionId": "4110039"
+    },
+    {
+        "regionName": "São Miguel do Oeste (SC)",
+        "citiesWithin": "Anchieta, Bandeirante, Barra Bonita, Belmonte, Descanso, Dionísio Cerqueira, Guaraciaba, Guarujá do Sul, Iporã do Oeste, Itapiranga, Mondaí, Palma Sola, Paraíso, Princesa, Riqueza, Romelândia, Santa Helena, São José do Cedro, São João do Oeste, São Miguel do Oeste, Tunápolis",
+        "citiesWithinUnidecoded": "Anchieta, Bandeirante, Barra Bonita, Belmonte, Descanso, Dionisio Cerqueira, Guaraciaba, Guaruja do Sul, Ipora do Oeste, Itapiranga, Mondai, Palma Sola, Paraiso, Princesa, Riqueza, Romelandia, Santa Helena, Sao Jose do Cedro, Sao Joao do Oeste, Sao Miguel do Oeste, Tunapolis",
+        "regionId": "4201001"
+    },
+    {
+        "regionName": "Chapecó (SC)",
+        "citiesWithin": "Bom Jesus do Oeste, Caibi, Campo Erê, Caxambu do Sul, Chapecó, Cordilheira Alta, Coronel Freitas, Cunha Porã, Cunhataí, Flor do Sertão, Formosa do Sul, Guatambú, Iraceminha, Irati, Jardinópolis, Maravilha, Modelo, Nova Erechim, Nova Itaberaba, Novo Horizonte, Palmitos, Pinhalzinho, Planalto Alegre, Quilombo, Saltinho, Santa Terezinha do Progresso, Santiago do Sul, Saudades, Serra Alta, Sul Brasil, São Bernardino, São Carlos, São Lourenço do Oeste, São Miguel da Boa Vista, Tigrinhos, União do Oeste, Águas Frias, Águas de Chapecó",
+        "citiesWithinUnidecoded": "Bom Jesus do Oeste, Caibi, Campo Ere, Caxambu do Sul, Chapeco, Cordilheira Alta, Coronel Freitas, Cunha Pora, Cunhatai, Flor do Sertao, Formosa do Sul, Guatambu, Iraceminha, Irati, Jardinopolis, Maravilha, Modelo, Nova Erechim, Nova Itaberaba, Novo Horizonte, Palmitos, Pinhalzinho, Planalto Alegre, Quilombo, Saltinho, Santa Terezinha do Progresso, Santiago do Sul, Saudades, Serra Alta, Sul Brasil, Sao Bernardino, Sao Carlos, Sao Lourenco do Oeste, Sao Miguel da Boa Vista, Tigrinhos, Uniao do Oeste, Aguas Frias, Aguas de Chapeco",
+        "regionId": "4201002"
+    },
+    {
+        "regionName": "Xanxerê (SC)",
+        "citiesWithin": "Abelardo Luz, Bom Jesus, Coronel Martins, Entre Rios, Faxinal dos Guedes, Galvão, Ipuaçu, Jupiá, Lajeado Grande, Marema, Ouro Verde, Passos Maia, Ponte Serrada, São Domingos, Vargeão, Xanxerê, Xaxim",
+        "citiesWithinUnidecoded": "Abelardo Luz, Bom Jesus, Coronel Martins, Entre Rios, Faxinal dos Guedes, Galvao, Ipuacu, Jupia, Lajeado Grande, Marema, Ouro Verde, Passos Maia, Ponte Serrada, Sao Domingos, Vargeao, Xanxere, Xaxim",
+        "regionId": "4201003"
+    },
+    {
+        "regionName": "Joaçaba (SC)",
+        "citiesWithin": "Arroio Trinta, Calmon, Capinzal, Catanduvas, Caçador, Erval Velho, Fraiburgo, Herval d'Oeste, Ibiam, Ibicaré, Iomerê, Jaborá, Joaçaba, Lacerdópolis, Lebon Régis, Luzerna, Macieira, Matos Costa, Ouro, Pinheiro Preto, Rio das Antas, Salto Veloso, Tangará, Treze Tílias, Vargem Bonita, Videira, Água Doce",
+        "citiesWithinUnidecoded": "Arroio Trinta, Calmon, Capinzal, Catanduvas, Cacador, Erval Velho, Fraiburgo, Herval d'Oeste, Ibiam, Ibicare, Iomere, Jabora, Joacaba, Lacerdopolis, Lebon Regis, Luzerna, Macieira, Matos Costa, Ouro, Pinheiro Preto, Rio das Antas, Salto Veloso, Tangara, Treze Tilias, Vargem Bonita, Videira, Agua Doce",
+        "regionId": "4201004"
+    },
+    {
+        "regionName": "Canoinhas (SC)",
+        "citiesWithin": "Bela Vista do Toldo, Canoinhas, Irineópolis, Itaiópolis, Mafra, Major Vieira, Monte Castelo, Papanduva, Porto União, Santa Terezinha, Timbó Grande, Três Barras",
+        "citiesWithinUnidecoded": "Bela Vista do Toldo, Canoinhas, Irineopolis, Itaiopolis, Mafra, Major Vieira, Monte Castelo, Papanduva, Porto Uniao, Santa Terezinha, Timbo Grande, Tres Barras",
+        "regionId": "4202006"
+    },
+    {
+        "regionName": "São Bento do Sul (SC)",
+        "citiesWithin": "Campo Alegre, Rio Negrinho, São Bento do Sul",
+        "citiesWithinUnidecoded": "Campo Alegre, Rio Negrinho, Sao Bento do Sul",
+        "regionId": "4202007"
+    },
+    {
+        "regionName": "Joinville (SC)",
+        "citiesWithin": "Araquari, Balneário Barra do Sul, Corupá, Garuva, Guaramirim, Itapoá, Jaraguá do Sul, Joinville, Massaranduba, Schroeder, São Francisco do Sul",
+        "citiesWithinUnidecoded": "Araquari, Balneario Barra do Sul, Corupa, Garuva, Guaramirim, Itapoa, Jaragua do Sul, Joinville, Massaranduba, Schroeder, Sao Francisco do Sul",
+        "regionId": "4202008"
+    },
+    {
+        "regionName": "Campos de Lages (SC)",
+        "citiesWithin": "Anita Garibaldi, Bocaina do Sul, Bom Jardim da Serra, Bom Retiro, Campo Belo do Sul, Capão Alto, Celso Ramos, Cerro Negro, Correia Pinto, Lages, Otacílio Costa, Painel, Palmeira, Rio Rufino, São Joaquim, São José do Cerrito, Urubici, Urupema",
+        "citiesWithinUnidecoded": "Anita Garibaldi, Bocaina do Sul, Bom Jardim da Serra, Bom Retiro, Campo Belo do Sul, Capao Alto, Celso Ramos, Cerro Negro, Correia Pinto, Lages, Otacilio Costa, Painel, Palmeira, Rio Rufino, Sao Joaquim, Sao Jose do Cerrito, Urubici, Urupema",
+        "regionId": "4203010"
+    },
+    {
+        "regionName": "Rio do Sul (SC)",
+        "citiesWithin": "Agronômica, Aurora, Braço do Trombudo, Dona Emma, Ibirama, José Boiteux, Laurentino, Lontras, Mirim Doce, Pouso Redondo, Presidente Getúlio, Presidente Nereu, Rio do Campo, Rio do Oeste, Rio do Sul, Salete, Taió, Trombudo Central, Vitor Meireles, Witmarsum",
+        "citiesWithinUnidecoded": "Agronomica, Aurora, Braco do Trombudo, Dona Emma, Ibirama, Jose Boiteux, Laurentino, Lontras, Mirim Doce, Pouso Redondo, Presidente Getulio, Presidente Nereu, Rio do Campo, Rio do Oeste, Rio do Sul, Salete, Taio, Trombudo Central, Vitor Meireles, Witmarsum",
+        "regionId": "4204011"
+    },
+    {
+        "regionName": "Blumenau (SC)",
+        "citiesWithin": "Apiúna, Ascurra, Benedito Novo, Blumenau, Botuverá, Brusque, Doutor Pedrinho, Gaspar, Guabiruba, Indaial, Luiz Alves, Pomerode, Rio dos Cedros, Rodeio, Timbó",
+        "citiesWithinUnidecoded": "Apiuna, Ascurra, Benedito Novo, Blumenau, Botuvera, Brusque, Doutor Pedrinho, Gaspar, Guabiruba, Indaial, Luiz Alves, Pomerode, Rio dos Cedros, Rodeio, Timbo",
+        "regionId": "4204012"
+    },
+    {
+        "regionName": "Itajaí (SC)",
+        "citiesWithin": "Balneário Camboriú, Balneário Piçarras, Barra Velha, Bombinhas, Camboriú, Ilhota, Itajaí, Itapema, Navegantes, Penha, Porto Belo, São João do Itaperiú",
+        "citiesWithinUnidecoded": "Balneario Camboriu, Balneario Picarras, Barra Velha, Bombinhas, Camboriu, Ilhota, Itajai, Itapema, Navegantes, Penha, Porto Belo, Sao Joao do Itaperiu",
+        "regionId": "4204013"
+    },
+    {
+        "regionName": "Ituporanga (SC)",
+        "citiesWithin": "Agrolândia, Atalanta, Chapadão do Lageado, Imbuia, Ituporanga, Petrolândia, Vidal Ramos",
+        "citiesWithinUnidecoded": "Agrolandia, Atalanta, Chapadao do Lageado, Imbuia, Ituporanga, Petrolandia, Vidal Ramos",
+        "regionId": "4204014"
+    },
+    {
+        "regionName": "Tijucas (SC)",
+        "citiesWithin": "Angelina, Canelinha, Leoberto Leal, Major Gercino, Nova Trento, São João Batista, Tijucas",
+        "citiesWithinUnidecoded": "Angelina, Canelinha, Leoberto Leal, Major Gercino, Nova Trento, Sao Joao Batista, Tijucas",
+        "regionId": "4205015"
+    },
+    {
+        "regionName": "Florianópolis (SC)",
+        "citiesWithin": "Antônio Carlos, Biguaçu, Florianópolis, Governador Celso Ramos, Palhoça, Paulo Lopes, Santo Amaro da Imperatriz, São José, São Pedro de Alcântara",
+        "citiesWithinUnidecoded": "Antonio Carlos, Biguacu, Florianopolis, Governador Celso Ramos, Palhoca, Paulo Lopes, Santo Amaro da Imperatriz, Sao Jose, Sao Pedro de Alcantara",
+        "regionId": "4205016"
+    },
+    {
+        "regionName": "Tabuleiro (SC)",
+        "citiesWithin": "Alfredo Wagner, Anitápolis, Rancho Queimado, São Bonifácio, Águas Mornas",
+        "citiesWithinUnidecoded": "Alfredo Wagner, Anitapolis, Rancho Queimado, Sao Bonifacio, Aguas Mornas",
+        "regionId": "4205017"
+    },
+    {
+        "regionName": "Tubarão (SC)",
+        "citiesWithin": "Armazém, Braço do Norte, Capivari de Baixo, Garopaba, Gravatal, Grão Pará, Imaruí, Imbituba, Jaguaruna, Laguna, Orleans, Pedras Grandes, Pescaria Brava, Rio Fortuna, Sangão, Santa Rosa de Lima, São Ludgero, São Martinho, Treze de Maio, Tubarão",
+        "citiesWithinUnidecoded": "Armazem, Braco do Norte, Capivari de Baixo, Garopaba, Gravatal, Grao Para, Imarui, Imbituba, Jaguaruna, Laguna, Orleans, Pedras Grandes, Pescaria Brava, Rio Fortuna, Sangao, Santa Rosa de Lima, Sao Ludgero, Sao Martinho, Treze de Maio, Tubarao",
+        "regionId": "4206018"
+    },
+    {
+        "regionName": "Criciúma (SC)",
+        "citiesWithin": "Balneário Rincão, Cocal do Sul, Criciúma, Forquilhinha, Içara, Lauro Müller, Morro da Fumaça, Nova Veneza, Siderópolis, Treviso, Urussanga",
+        "citiesWithinUnidecoded": "Balneario Rincao, Cocal do Sul, Criciuma, Forquilhinha, Icara, Lauro Muller, Morro da Fumaca, Nova Veneza, Sideropolis, Treviso, Urussanga",
+        "regionId": "4206019"
+    },
+    {
+        "regionName": "Araranguá (SC)",
+        "citiesWithin": "Araranguá, Balneário Arroio do Silva, Balneário Gaivota, Ermo, Jacinto Machado, Maracajá, Meleiro, Morro Grande, Passo de Torres, Praia Grande, Santa Rosa do Sul, Sombrio, São João do Sul, Timbé do Sul, Turvo",
+        "citiesWithinUnidecoded": "Ararangua, Balneario Arroio do Silva, Balneario Gaivota, Ermo, Jacinto Machado, Maracaja, Meleiro, Morro Grande, Passo de Torres, Praia Grande, Santa Rosa do Sul, Sombrio, Sao Joao do Sul, Timbe do Sul, Turvo",
+        "regionId": "4206020"
+    },
+    {
+        "regionName": "Santa Rosa (RS)",
+        "citiesWithin": "Alecrim, Cândido Godói, Independência, Novo Machado, Porto Lucena, Porto Mauá, Porto Vera Cruz, Santa Rosa, Santo Cristo, São José do Inhacorá, Três de Maio, Tucunduva, Tuparendi",
+        "citiesWithinUnidecoded": "Alecrim, Candido Godoi, Independencia, Novo Machado, Porto Lucena, Porto Maua, Porto Vera Cruz, Santa Rosa, Santo Cristo, Sao Jose do Inhacora, Tres de Maio, Tucunduva, Tuparendi",
+        "regionId": "4301001"
+    },
+    {
+        "regionName": "Erechim (RS)",
+        "citiesWithin": "Aratiba, Barra do Rio Azul, Barão de Cotegipe, Benjamin Constant do Sul, Campinas do Sul, Carlos Gomes, Centenário, Cruzaltense, Entre Rios do Sul, Erebango, Erechim, Erval Grande, Estação, Faxinalzinho, Floriano Peixoto, Gaurama, Getúlio Vargas, Ipiranga do Sul, Itatiba do Sul, Jacutinga, Marcelino Ramos, Mariano Moro, Paulo Bento, Ponte Preta, Quatro Irmãos, Severiano de Almeida, São Valentim, Três Arroios, Viadutos, Áurea",
+        "citiesWithinUnidecoded": "Aratiba, Barra do Rio Azul, Barao de Cotegipe, Benjamin Constant do Sul, Campinas do Sul, Carlos Gomes, Centenario, Cruzaltense, Entre Rios do Sul, Erebango, Erechim, Erval Grande, Estacao, Faxinalzinho, Floriano Peixoto, Gaurama, Getulio Vargas, Ipiranga do Sul, Itatiba do Sul, Jacutinga, Marcelino Ramos, Mariano Moro, Paulo Bento, Ponte Preta, Quatro Irmaos, Severiano de Almeida, Sao Valentim, Tres Arroios, Viadutos, Aurea",
+        "regionId": "4301004"
+    },
+    {
+        "regionName": "Sananduva (RS)",
+        "citiesWithin": "Barracão, Cacique Doble, Ibiaçá, Machadinho, Maximiliano de Almeida, Paim Filho, Sananduva, Santo Expedito do Sul, São José do Ouro, São João da Urtiga, Tupanci do Sul",
+        "citiesWithinUnidecoded": "Barracao, Cacique Doble, Ibiaca, Machadinho, Maximiliano de Almeida, Paim Filho, Sananduva, Santo Expedito do Sul, Sao Jose do Ouro, Sao Joao da Urtiga, Tupanci do Sul",
+        "regionId": "4301005"
+    },
+    {
+        "regionName": "Passo Fundo (RS)",
+        "citiesWithin": "Camargo, Casca, Caseiros, Charrua, Ciríaco, Coxilha, David Canabarro, Ernestina, Gentil, Ibiraiaras, Marau, Mato Castelhano, Muliterno, Nicolau Vergueiro, Passo Fundo, Pontão, Ronda Alta, Santa Cecília do Sul, Santo Antônio do Palma, Sertão, São Domingos do Sul, Tapejara, Vanini, Vila Lângaro, Vila Maria, Água Santa",
+        "citiesWithinUnidecoded": "Camargo, Casca, Caseiros, Charrua, Ciriaco, Coxilha, David Canabarro, Ernestina, Gentil, Ibiraiaras, Marau, Mato Castelhano, Muliterno, Nicolau Vergueiro, Passo Fundo, Pontao, Ronda Alta, Santa Cecilia do Sul, Santo Antonio do Palma, Sertao, Sao Domingos do Sul, Tapejara, Vanini, Vila Langaro, Vila Maria, Agua Santa",
+        "regionId": "4301010"
+    },
+    {
+        "regionName": "Guaporé (RS)",
+        "citiesWithin": "André da Rocha, Anta Gorda, Arvorezinha, Dois Lajeados, Guabiju, Guaporé, Ilópolis, Itapuca, Montauri, Nova Alvorada, Nova Araçá, Nova Bassano, Nova Prata, Paraí, Protásio Alves, Putinga, Serafina Corrêa, São Jorge, São Valentim do Sul, União da Serra, Vista Alegre do Prata",
+        "citiesWithinUnidecoded": "Andre da Rocha, Anta Gorda, Arvorezinha, Dois Lajeados, Guabiju, Guapore, Ilopolis, Itapuca, Montauri, Nova Alvorada, Nova Araca, Nova Bassano, Nova Prata, Parai, Protasio Alves, Putinga, Serafina Correa, Sao Jorge, Sao Valentim do Sul, Uniao da Serra, Vista Alegre do Prata",
+        "regionId": "4302014"
+    },
+    {
+        "regionName": "Vacaria (RS)",
+        "citiesWithin": "Bom Jesus, Cambará do Sul, Campestre da Serra, Capão Bonito do Sul, Esmeralda, Ipê, Jaquirana, Lagoa Vermelha, Monte Alegre dos Campos, Muitos Capões, Pinhal da Serra, São Francisco de Paula, São José dos Ausentes, Vacaria",
+        "citiesWithinUnidecoded": "Bom Jesus, Cambara do Sul, Campestre da Serra, Capao Bonito do Sul, Esmeralda, Ipe, Jaquirana, Lagoa Vermelha, Monte Alegre dos Campos, Muitos Capoes, Pinhal da Serra, Sao Francisco de Paula, Sao Jose dos Ausentes, Vacaria",
+        "regionId": "4302015"
+    },
+    {
+        "regionName": "Caxias do Sul (RS)",
+        "citiesWithin": "Antônio Prado, Bento Gonçalves, Boa Vista do Sul, Carlos Barbosa, Caxias do Sul, Coronel Pilar, Cotiporã, Fagundes Varela, Farroupilha, Flores da Cunha, Garibaldi, Monte Belo do Sul, Nova Pádua, Nova Roma do Sul, Pinto Bandeira, Santa Tereza, São Marcos, Veranópolis, Vila Flores",
+        "citiesWithinUnidecoded": "Antonio Prado, Bento Goncalves, Boa Vista do Sul, Carlos Barbosa, Caxias do Sul, Coronel Pilar, Cotipora, Fagundes Varela, Farroupilha, Flores da Cunha, Garibaldi, Monte Belo do Sul, Nova Padua, Nova Roma do Sul, Pinto Bandeira, Santa Tereza, Sao Marcos, Veranopolis, Vila Flores",
+        "regionId": "4302016"
+    },
+    {
+        "regionName": "Santiago (RS)",
+        "citiesWithin": "Capão do Cipó, Itacurubi, Jari, Júlio de Castilhos, Pinhal Grande, Quevedos, Santiago, Tupanciretã, Unistalda",
+        "citiesWithinUnidecoded": "Capao do Cipo, Itacurubi, Jari, Julio de Castilhos, Pinhal Grande, Quevedos, Santiago, Tupancireta, Unistalda",
+        "regionId": "4303017"
+    },
+    {
+        "regionName": "Santa Maria (RS)",
+        "citiesWithin": "Cacequi, Dilermando de Aguiar, Itaara, Jaguari, Mata, Nova Esperança do Sul, Santa Maria, São Martinho da Serra, São Pedro do Sul, São Sepé, São Vicente do Sul, Toropi, Vila Nova do Sul",
+        "citiesWithinUnidecoded": "Cacequi, Dilermando de Aguiar, Itaara, Jaguari, Mata, Nova Esperanca do Sul, Santa Maria, Sao Martinho da Serra, Sao Pedro do Sul, Sao Sepe, Sao Vicente do Sul, Toropi, Vila Nova do Sul",
+        "regionId": "4303018"
+    },
+    {
+        "regionName": "Restinga Seca (RS)",
+        "citiesWithin": "Agudo, Dona Francisca, Faxinal do Soturno, Formigueiro, Ivorá, Nova Palma, Restinga Sêca, Silveira Martins, São João do Polêsine",
+        "citiesWithinUnidecoded": "Agudo, Dona Francisca, Faxinal do Soturno, Formigueiro, Ivora, Nova Palma, Restinga Seca, Silveira Martins, Sao Joao do Polesine",
+        "regionId": "4303019"
+    },
+    {
+        "regionName": "Santa Cruz do Sul (RS)",
+        "citiesWithin": "Arroio do Tigre, Candelária, Estrela Velha, Gramado Xavier, Herveiras, Ibarama, Lagoa Bonita do Sul, Mato Leitão, Passa Sete, Santa Cruz do Sul, Segredo, Sinimbu, Sobradinho, Vale do Sol, Venâncio Aires, Vera Cruz",
+        "citiesWithinUnidecoded": "Arroio do Tigre, Candelaria, Estrela Velha, Gramado Xavier, Herveiras, Ibarama, Lagoa Bonita do Sul, Mato Leitao, Passa Sete, Santa Cruz do Sul, Segredo, Sinimbu, Sobradinho, Vale do Sol, Venancio Aires, Vera Cruz",
+        "regionId": "4304020"
+    },
+    {
+        "regionName": "Lajeado-Estrela (RS)",
+        "citiesWithin": "Arroio do Meio, Bom Retiro do Sul, Boqueirão do Leão, Canudos do Vale, Capitão, Colinas, Coqueiro Baixo, Cruzeiro do Sul, Doutor Ricardo, Encantado, Estrela, Fazenda Vilanova, Forquetinha, Imigrante, Lajeado, Marques de Souza, Muçum, Nova Bréscia, Paverama, Pouso Novo, Progresso, Relvado, Roca Sales, Santa Clara do Sul, Sério, Tabaí, Taquari, Teutônia, Travesseiro, Vespasiano Corrêa, Westfália",
+        "citiesWithinUnidecoded": "Arroio do Meio, Bom Retiro do Sul, Boqueirao do Leao, Canudos do Vale, Capitao, Colinas, Coqueiro Baixo, Cruzeiro do Sul, Doutor Ricardo, Encantado, Estrela, Fazenda Vilanova, Forquetinha, Imigrante, Lajeado, Marques de Souza, Mucum, Nova Brescia, Paverama, Pouso Novo, Progresso, Relvado, Roca Sales, Santa Clara do Sul, Serio, Tabai, Taquari, Teutonia, Travesseiro, Vespasiano Correa, Westfalia",
+        "regionId": "4304021"
+    },
+    {
+        "regionName": "Cachoeira do Sul (RS)",
+        "citiesWithin": "Cachoeira do Sul, Cerro Branco, Novo Cabrais, Pantano Grande, Paraíso do Sul, Passo do Sobrado, Rio Pardo",
+        "citiesWithinUnidecoded": "Cachoeira do Sul, Cerro Branco, Novo Cabrais, Pantano Grande, Paraiso do Sul, Passo do Sobrado, Rio Pardo",
+        "regionId": "4304022"
+    },
+    {
+        "regionName": "Montenegro (RS)",
+        "citiesWithin": "Alto Feliz, Barão, Bom Princípio, Brochier, Capela de Santana, Feliz, Harmonia, Linha Nova, Maratá, Montenegro, Pareci Novo, Portão, Poço das Antas, Salvador do Sul, São José do Hortêncio, São José do Sul, São Pedro da Serra, São Sebastião do Caí, São Vendelino, Tupandi, Vale Real",
+        "citiesWithinUnidecoded": "Alto Feliz, Barao, Bom Principio, Brochier, Capela de Santana, Feliz, Harmonia, Linha Nova, Marata, Montenegro, Pareci Novo, Portao, Poco das Antas, Salvador do Sul, Sao Jose do Hortencio, Sao Jose do Sul, Sao Pedro da Serra, Sao Sebastiao do Cai, Sao Vendelino, Tupandi, Vale Real",
+        "regionId": "4305023"
+    },
+    {
+        "regionName": "Gramado-Canela (RS)",
+        "citiesWithin": "Canela, Dois Irmãos, Gramado, Igrejinha, Ivoti, Lindolfo Collor, Morro Reuter, Nova Petrópolis, Picada Café, Presidente Lucena, Riozinho, Rolante, Santa Maria do Herval, Taquara, Três Coroas",
+        "citiesWithinUnidecoded": "Canela, Dois Irmaos, Gramado, Igrejinha, Ivoti, Lindolfo Collor, Morro Reuter, Nova Petropolis, Picada Cafe, Presidente Lucena, Riozinho, Rolante, Santa Maria do Herval, Taquara, Tres Coroas",
+        "regionId": "4305024"
+    },
+    {
+        "regionName": "São Jerônimo (RS)",
+        "citiesWithin": "Arroio dos Ratos, Barão do Triunfo, Butiá, Charqueadas, General Câmara, Minas do Leão, São Jerônimo, Triunfo, Vale Verde",
+        "citiesWithinUnidecoded": "Arroio dos Ratos, Barao do Triunfo, Butia, Charqueadas, General Camara, Minas do Leao, Sao Jeronimo, Triunfo, Vale Verde",
+        "regionId": "4305025"
+    },
+    {
+        "regionName": "Porto Alegre (RS)",
+        "citiesWithin": "Alvorada, Araricá, Cachoeirinha, Campo Bom, Canoas, Eldorado do Sul, Esteio, Estância Velha, Glorinha, Gravataí, Guaíba, Mariana Pimentel, Nova Hartz, Nova Santa Rita, Novo Hamburgo, Parobé, Porto Alegre, Sapiranga, Sapucaia do Sul, Sertão Santana, São Leopoldo, Viamão",
+        "citiesWithinUnidecoded": "Alvorada, Ararica, Cachoeirinha, Campo Bom, Canoas, Eldorado do Sul, Esteio, Estancia Velha, Glorinha, Gravatai, Guaiba, Mariana Pimentel, Nova Hartz, Nova Santa Rita, Novo Hamburgo, Parobe, Porto Alegre, Sapiranga, Sapucaia do Sul, Sertao Santana, Sao Leopoldo, Viamao",
+        "regionId": "4305026"
+    },
+    {
+        "regionName": "Osório (RS)",
+        "citiesWithin": "Arroio do Sal, Balneário Pinhal, Capivari do Sul, Capão da Canoa, Caraá, Cidreira, Dom Pedro de Alcântara, Imbé, Itati, Mampituba, Maquiné, Morrinhos do Sul, Mostardas, Osório, Palmares do Sul, Santo Antônio da Patrulha, Tavares, Terra de Areia, Torres, Tramandaí, Três Cachoeiras, Três Forquilhas, Xangri-lá",
+        "citiesWithinUnidecoded": "Arroio do Sal, Balneario Pinhal, Capivari do Sul, Capao da Canoa, Caraa, Cidreira, Dom Pedro de Alcantara, Imbe, Itati, Mampituba, Maquine, Morrinhos do Sul, Mostardas, Osorio, Palmares do Sul, Santo Antonio da Patrulha, Tavares, Terra de Areia, Torres, Tramandai, Tres Cachoeiras, Tres Forquilhas, Xangri-la",
+        "regionId": "4305027"
+    },
+    {
+        "regionName": "Camaquã (RS)",
+        "citiesWithin": "Arambaré, Barra do Ribeiro, Camaquã, Cerro Grande do Sul, Chuvisca, Dom Feliciano, Sentinela do Sul, Tapes",
+        "citiesWithinUnidecoded": "Arambare, Barra do Ribeiro, Camaqua, Cerro Grande do Sul, Chuvisca, Dom Feliciano, Sentinela do Sul, Tapes",
+        "regionId": "4305028"
+    },
+    {
+        "regionName": "Campanha Ocidental (RS)",
+        "citiesWithin": "Alegrete, Barra do Quaraí, Garruchos, Itaqui, Manoel Viana, Maçambará, Quaraí, São Borja, São Francisco de Assis, Uruguaiana",
+        "citiesWithinUnidecoded": "Alegrete, Barra do Quarai, Garruchos, Itaqui, Manoel Viana, Macambara, Quarai, Sao Borja, Sao Francisco de Assis, Uruguaiana",
+        "regionId": "4306029"
+    },
+    {
+        "regionName": "Campanha Central (RS)",
+        "citiesWithin": "Rosário do Sul, Sant'Ana do Livramento, Santa Margarida do Sul, São Gabriel",
+        "citiesWithinUnidecoded": "Rosario do Sul, Sant'Ana do Livramento, Santa Margarida do Sul, Sao Gabriel",
+        "regionId": "4306030"
+    },
+    {
+        "regionName": "Campanha Meridional (RS)",
+        "citiesWithin": "Aceguá, Bagé, Dom Pedrito, Hulha Negra, Lavras do Sul",
+        "citiesWithinUnidecoded": "Acegua, Bage, Dom Pedrito, Hulha Negra, Lavras do Sul",
+        "regionId": "4306031"
+    },
+    {
+        "regionName": "Serras de Sudeste (RS)",
+        "citiesWithin": "Amaral Ferrador, Candiota, Caçapava do Sul, Encruzilhada do Sul, Pedras Altas, Pinheiro Machado, Piratini, Santana da Boa Vista",
+        "citiesWithinUnidecoded": "Amaral Ferrador, Candiota, Cacapava do Sul, Encruzilhada do Sul, Pedras Altas, Pinheiro Machado, Piratini, Santana da Boa Vista",
+        "regionId": "4307032"
+    },
+    {
+        "regionName": "Pelotas (RS)",
+        "citiesWithin": "Arroio do Padre, Canguçu, Capão do Leão, Cerrito, Cristal, Morro Redondo, Pedro Osório, Pelotas, São Lourenço do Sul, Turuçu",
+        "citiesWithinUnidecoded": "Arroio do Padre, Cangucu, Capao do Leao, Cerrito, Cristal, Morro Redondo, Pedro Osorio, Pelotas, Sao Lourenco do Sul, Turucu",
+        "regionId": "4307033"
+    },
+    {
+        "regionName": "Litoral Lagunar (RS)",
+        "citiesWithin": "Chuí, Rio Grande, Santa Vitória do Palmar, São José do Norte",
+        "citiesWithinUnidecoded": "Chui, Rio Grande, Santa Vitoria do Palmar, Sao Jose do Norte",
+        "regionId": "4307035"
+    },
+    {
+        "regionName": "Baixo Pantanal (MS)",
+        "citiesWithin": "Corumbá, Ladário, Porto Murtinho",
+        "citiesWithinUnidecoded": "Corumba, Ladario, Porto Murtinho",
+        "regionId": "5001001"
+    },
+    {
+        "regionName": "Alto Taquari (MS)",
+        "citiesWithin": "Alcinópolis, Camapuã, Coxim, Figueirão, Pedro Gomes, Rio Verde de Mato Grosso, Sonora, São Gabriel do Oeste",
+        "citiesWithinUnidecoded": "Alcinopolis, Camapua, Coxim, Figueirao, Pedro Gomes, Rio Verde de Mato Grosso, Sonora, Sao Gabriel do Oeste",
+        "regionId": "5002003"
+    },
+    {
+        "regionName": "Campo Grande (MS)",
+        "citiesWithin": "Bandeirantes, Campo Grande, Corguinho, Jaraguari, Rio Negro, Rochedo, Sidrolândia, Terenos",
+        "citiesWithinUnidecoded": "Bandeirantes, Campo Grande, Corguinho, Jaraguari, Rio Negro, Rochedo, Sidrolandia, Terenos",
+        "regionId": "5002004"
+    },
+    {
+        "regionName": "Cassilândia (MS)",
+        "citiesWithin": "Cassilândia, Chapadão do Sul, Costa Rica, Paraíso das Águas",
+        "citiesWithinUnidecoded": "Cassilandia, Chapadao do Sul, Costa Rica, Paraiso das Aguas",
+        "regionId": "5003005"
+    },
+    {
+        "regionName": "Três Lagoas (MS)",
+        "citiesWithin": "Brasilândia, Ribas do Rio Pardo, Santa Rita do Pardo, Três Lagoas, Água Clara",
+        "citiesWithinUnidecoded": "Brasilandia, Ribas do Rio Pardo, Santa Rita do Pardo, Tres Lagoas, Agua Clara",
+        "regionId": "5003007"
+    },
+    {
+        "regionName": "Nova Andradina (MS)",
+        "citiesWithin": "Anaurilândia, Bataguassu, Batayporã, Nova Andradina, Taquarussu",
+        "citiesWithinUnidecoded": "Anaurilandia, Bataguassu, Bataypora, Nova Andradina, Taquarussu",
+        "regionId": "5003008"
+    },
+    {
+        "regionName": "Dourados (MS)",
+        "citiesWithin": "Amambai, Antônio João, Aral Moreira, Caarapó, Douradina, Dourados, Fátima do Sul, Itaporã, Juti, Laguna Carapã, Maracaju, Nova Alvorada do Sul, Ponta Porã, Rio Brilhante, Vicentina",
+        "citiesWithinUnidecoded": "Amambai, Antonio Joao, Aral Moreira, Caarapo, Douradina, Dourados, Fatima do Sul, Itapora, Juti, Laguna Carapa, Maracaju, Nova Alvorada do Sul, Ponta Pora, Rio Brilhante, Vicentina",
+        "regionId": "5004010"
+    },
+    {
+        "regionName": "Aripuanã (MT)",
+        "citiesWithin": "Aripuanã, Brasnorte, Castanheira, Colniza, Cotriguaçu, Juruena, Juína, Rondolândia",
+        "citiesWithinUnidecoded": "Aripuana, Brasnorte, Castanheira, Colniza, Cotriguacu, Juruena, Juina, Rondolandia",
+        "regionId": "5101001"
+    },
+    {
+        "regionName": "Alta Floresta (MT)",
+        "citiesWithin": "Alta Floresta, Apiacás, Carlinda, Nova Bandeirantes, Nova Monte Verde, Paranaíta",
+        "citiesWithinUnidecoded": "Alta Floresta, Apiacas, Carlinda, Nova Bandeirantes, Nova Monte Verde, Paranaita",
+        "regionId": "5101002"
+    },
+    {
+        "regionName": "Parecis (MT)",
+        "citiesWithin": "Campo Novo do Parecis, Campos de Júlio, Comodoro, Diamantino, Sapezal",
+        "citiesWithinUnidecoded": "Campo Novo do Parecis, Campos de Julio, Comodoro, Diamantino, Sapezal",
+        "regionId": "5101004"
+    },
+    {
+        "regionName": "Alto Teles Pires (MT)",
+        "citiesWithin": "Ipiranga do Norte, Itanhangá, Lucas do Rio Verde, Nobres, Nova Mutum, Nova Ubiratã, Santa Rita do Trivelato, Sorriso, Tapurah",
+        "citiesWithinUnidecoded": "Ipiranga do Norte, Itanhanga, Lucas do Rio Verde, Nobres, Nova Mutum, Nova Ubirata, Santa Rita do Trivelato, Sorriso, Tapurah",
+        "regionId": "5101006"
+    },
+    {
+        "regionName": "Sinop (MT)",
+        "citiesWithin": "Cláudia, Feliz Natal, Itaúba, Marcelândia, Nova Santa Helena, Santa Carmem, Sinop, União do Sul, Vera",
+        "citiesWithinUnidecoded": "Claudia, Feliz Natal, Itauba, Marcelandia, Nova Santa Helena, Santa Carmem, Sinop, Uniao do Sul, Vera",
+        "regionId": "5101007"
+    },
+    {
+        "regionName": "Canarana (MT)",
+        "citiesWithin": "Campinápolis, Canarana, Nova Nazaré, Nova Xavantina, Novo São Joaquim, Querência, Santo Antônio do Leste, Água Boa",
+        "citiesWithinUnidecoded": "Campinapolis, Canarana, Nova Nazare, Nova Xavantina, Novo Sao Joaquim, Querencia, Santo Antonio do Leste, Agua Boa",
+        "regionId": "5102010"
+    },
+    {
+        "regionName": "Tangará da Serra (MT)",
+        "citiesWithin": "Barra do Bugres, Denise, Nova Olímpia, Porto Estrela, Tangará da Serra",
+        "citiesWithinUnidecoded": "Barra do Bugres, Denise, Nova Olimpia, Porto Estrela, Tangara da Serra",
+        "regionId": "5103013"
+    },
+    {
+        "regionName": "Jauru (MT)",
+        "citiesWithin": "Araputanga, Figueirópolis D'Oeste, Glória D'Oeste, Indiavaí, Jauru, Lambari D'Oeste, Mirassol d'Oeste, Porto Esperidião, Reserva do Cabaçal, Rio Branco, Salto do Céu, São José dos Quatro Marcos",
+        "citiesWithinUnidecoded": "Araputanga, Figueiropolis D'Oeste, Gloria D'Oeste, Indiavai, Jauru, Lambari D'Oeste, Mirassol d'Oeste, Porto Esperidiao, Reserva do Cabacal, Rio Branco, Salto do Ceu, Sao Jose dos Quatro Marcos",
+        "regionId": "5103014"
+    },
+    {
+        "regionName": "Cuiabá (MT)",
+        "citiesWithin": "Chapada dos Guimarães, Cuiabá, Nossa Senhora do Livramento, Santo Antônio do Leverger, Várzea Grande",
+        "citiesWithinUnidecoded": "Chapada dos Guimaraes, Cuiaba, Nossa Senhora do Livramento, Santo Antonio do Leverger, Varzea Grande",
+        "regionId": "5104017"
+    },
+    {
+        "regionName": "Alto Pantanal (MT)",
+        "citiesWithin": "Barão de Melgaço, Curvelândia, Cáceres, Poconé",
+        "citiesWithinUnidecoded": "Barao de Melgaco, Curvelandia, Caceres, Pocone",
+        "regionId": "5104018"
+    },
+    {
+        "regionName": "Primavera do Leste (MT)",
+        "citiesWithin": "Campo Verde, Primavera do Leste",
+        "citiesWithinUnidecoded": "Campo Verde, Primavera do Leste",
+        "regionId": "5105019"
+    },
+    {
+        "regionName": "Rondonópolis (MT)",
+        "citiesWithin": "Dom Aquino, Itiquira, Jaciara, Juscimeira, Pedra Preta, Rondonópolis, São José do Povo, São Pedro da Cipa",
+        "citiesWithinUnidecoded": "Dom Aquino, Itiquira, Jaciara, Juscimeira, Pedra Preta, Rondonopolis, Sao Jose do Povo, Sao Pedro da Cipa",
+        "regionId": "5105021"
+    },
+    {
+        "regionName": "Ceres (GO)",
+        "citiesWithin": "Barro Alto, Carmo do Rio Verde, Ceres, Goianésia, Guaraíta, Guarinos, Hidrolina, Ipiranga de Goiás, Itapaci, Itapuranga, Morro Agudo de Goiás, Nova América, Nova Glória, Pilar de Goiás, Rialma, Rianápolis, Rubiataba, Santa Isabel, Santa Rita do Novo Destino, São Luiz do Norte, São Patrício, Uruana",
+        "citiesWithinUnidecoded": "Barro Alto, Carmo do Rio Verde, Ceres, Goianesia, Guaraita, Guarinos, Hidrolina, Ipiranga de Goias, Itapaci, Itapuranga, Morro Agudo de Goias, Nova America, Nova Gloria, Pilar de Goias, Rialma, Rianapolis, Rubiataba, Santa Isabel, Santa Rita do Novo Destino, Sao Luiz do Norte, Sao Patricio, Uruana",
+        "regionId": "5203006"
+    },
+    {
+        "regionName": "Anápolis (GO)",
+        "citiesWithin": "Anápolis, Araçu, Brazabrantes, Campo Limpo de Goiás, Caturaí, Damolândia, Heitoraí, Inhumas, Itaberaí, Itaguari, Itaguaru, Itauçu, Jaraguá, Jesúpolis, Nova Veneza, Ouro Verde de Goiás, Petrolina de Goiás, Santa Rosa de Goiás, São Francisco de Goiás, Taquaral de Goiás",
+        "citiesWithinUnidecoded": "Anapolis, Aracu, Brazabrantes, Campo Limpo de Goias, Caturai, Damolandia, Heitorai, Inhumas, Itaberai, Itaguari, Itaguaru, Itaucu, Jaragua, Jesupolis, Nova Veneza, Ouro Verde de Goias, Petrolina de Goias, Santa Rosa de Goias, Sao Francisco de Goias, Taquaral de Goias",
+        "regionId": "5203007"
+    },
+    {
+        "regionName": "Anicuns (GO)",
+        "citiesWithin": "Adelândia, Americano do Brasil, Anicuns, Aurilândia, Avelinópolis, Buriti de Goiás, Firminópolis, Mossâmedes, Nazário, Sanclerlândia, Santa Bárbara de Goiás, São Luís de Montes Belos, Turvânia",
+        "citiesWithinUnidecoded": "Adelandia, Americano do Brasil, Anicuns, Aurilandia, Avelinopolis, Buriti de Goias, Firminopolis, Mossamedes, Nazario, Sanclerlandia, Santa Barbara de Goias, Sao Luis de Montes Belos, Turvania",
+        "regionId": "5203009"
+    },
+    {
+        "regionName": "Goiânia (GO)",
+        "citiesWithin": "Abadia de Goiás, Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Bonfinópolis, Caldazinha, Goianira, Goianápolis, Goiânia, Guapó, Hidrolândia, Leopoldo de Bulhões, Nerópolis, Santo Antônio de Goiás, Senador Canedo, Terezópolis de Goiás, Trindade",
+        "citiesWithinUnidecoded": "Abadia de Goias, Aparecida de Goiania, Aragoiania, Bela Vista de Goias, Bonfinopolis, Caldazinha, Goianira, Goianapolis, Goiania, Guapo, Hidrolandia, Leopoldo de Bulhoes, Neropolis, Santo Antonio de Goias, Senador Canedo, Terezopolis de Goias, Trindade",
+        "regionId": "5203010"
+    },
+    {
+        "regionName": "Entorno de Brasília (GO)",
+        "citiesWithin": "Abadiânia, Alexânia, Cabeceiras, Cidade Ocidental, Cocalzinho de Goiás, Corumbá de Goiás, Cristalina, Formosa, Luziânia, Mimoso de Goiás, Novo Gama, Padre Bernardo, Pirenópolis, Planaltina, Santo Antônio do Descoberto, Valparaíso de Goiás, Vila Boa, Vila Propício, Água Fria de Goiás, Águas Lindas de Goiás",
+        "citiesWithinUnidecoded": "Abadiania, Alexania, Cabeceiras, Cidade Ocidental, Cocalzinho de Goias, Corumba de Goias, Cristalina, Formosa, Luziania, Mimoso de Goias, Novo Gama, Padre Bernardo, Pirenopolis, Planaltina, Santo Antonio do Descoberto, Valparaiso de Goias, Vila Boa, Vila Propicio, Agua Fria de Goias, Aguas Lindas de Goias",
+        "regionId": "5204012"
+    },
+    {
+        "regionName": "Sudoeste de Goiás (GO)",
+        "citiesWithin": "Aparecida do Rio Doce, Aporé, Caiapônia, Castelândia, Chapadão do Céu, Doverlândia, Jataí, Maurilândia, Mineiros, Montividiu, Palestina de Goiás, Perolândia, Portelândia, Rio Verde, Santa Helena de Goiás, Santa Rita do Araguaia, Santo Antônio da Barra, Serranópolis",
+        "citiesWithinUnidecoded": "Aparecida do Rio Doce, Apore, Caiaponia, Castelandia, Chapadao do Ceu, Doverlandia, Jatai, Maurilandia, Mineiros, Montividiu, Palestina de Goias, Perolandia, Portelandia, Rio Verde, Santa Helena de Goias, Santa Rita do Araguaia, Santo Antonio da Barra, Serranopolis",
+        "regionId": "5205013"
+    },
+    {
+        "regionName": "Vale do Rio dos Bois (GO)",
+        "citiesWithin": "Acreúna, Campestre de Goiás, Cezarina, Edealina, Edéia, Indiara, Jandaia, Palmeiras de Goiás, Palminópolis, Paraúna, São João da Paraúna, Turvelândia, Varjão",
+        "citiesWithinUnidecoded": "Acreuna, Campestre de Goias, Cezarina, Edealina, Edeia, Indiara, Jandaia, Palmeiras de Goias, Palminopolis, Parauna, Sao Joao da Parauna, Turvelandia, Varjao",
+        "regionId": "5205014"
+    },
+    {
+        "regionName": "Meia Ponte (GO)",
+        "citiesWithin": "Aloândia, Bom Jesus de Goiás, Buriti Alegre, Cachoeira Dourada, Caldas Novas, Cromínia, Goiatuba, Inaciolândia, Itumbiara, Joviânia, Mairipotaba, Marzagão, Morrinhos, Panamá, Piracanjuba, Pontalina, Porteirão, Professor Jamil, Rio Quente, Vicentinópolis, Água Limpa",
+        "citiesWithinUnidecoded": "Aloandia, Bom Jesus de Goias, Buriti Alegre, Cachoeira Dourada, Caldas Novas, Crominia, Goiatuba, Inaciolandia, Itumbiara, Joviania, Mairipotaba, Marzagao, Morrinhos, Panama, Piracanjuba, Pontalina, Porteirao, Professor Jamil, Rio Quente, Vicentinopolis, Agua Limpa",
+        "regionId": "5205015"
+    },
+    {
+        "regionName": "Pires do Rio (GO)",
+        "citiesWithin": "Cristianópolis, Gameleira de Goiás, Orizona, Palmelo, Pires do Rio, Santa Cruz de Goiás, Silvânia, São Miguel do Passa Quatro, Urutaí, Vianópolis",
+        "citiesWithinUnidecoded": "Cristianopolis, Gameleira de Goias, Orizona, Palmelo, Pires do Rio, Santa Cruz de Goias, Silvania, Sao Miguel do Passa Quatro, Urutai, Vianopolis",
+        "regionId": "5205016"
+    },
+    {
+        "regionName": "Catalão (GO)",
+        "citiesWithin": "Anhanguera, Campo Alegre de Goiás, Catalão, Corumbaíba, Cumari, Davinópolis, Goiandira, Ipameri, Nova Aurora, Ouvidor, Três Ranchos",
+        "citiesWithinUnidecoded": "Anhanguera, Campo Alegre de Goias, Catalao, Corumbaiba, Cumari, Davinopolis, Goiandira, Ipameri, Nova Aurora, Ouvidor, Tres Ranchos",
+        "regionId": "5205017"
+    },
+    {
+        "regionName": "Quirinópolis (GO)",
+        "citiesWithin": "Cachoeira Alta, Caçu, Gouvelândia, Itajá, Itarumã, Lagoa Santa, Paranaiguara, Quirinópolis, São Simão",
+        "citiesWithinUnidecoded": "Cachoeira Alta, Cacu, Gouvelandia, Itaja, Itaruma, Lagoa Santa, Paranaiguara, Quirinopolis, Sao Simao",
+        "regionId": "5205018"
+    },
+    {
+        "regionName": "Brasília (DF)",
+        "citiesWithin": "Brasília",
+        "citiesWithinUnidecoded": "Brasilia",
+        "regionId": "5301001"
+    }
+]
